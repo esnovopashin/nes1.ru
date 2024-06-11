@@ -1,0 +1,8 @@
+User-agent: *
+Disallow: /inc/*
+Disallow: *_notes/
+Disallow: /files/
+Disallow: /style.css
+Disallow: /1024/
+Disallow: /makeCV/*
+Disallow: /edu/
