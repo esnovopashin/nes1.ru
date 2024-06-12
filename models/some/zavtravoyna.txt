@@ -1,0 +1,436 @@
+<!-- incl zavtra.voyna.txt -->
+    <div class="cut wow fadeInUp" data-wow-offset="50"><h3>Завтра война</h3>
+<!-- строка со ссылкой -->
+		<div class="row ahov">
+			<div class="postbox col-1 dash">
+			<a href="img/_other/abzu.jpg" rel="zoom"><img src="img/camera_1.gif" alt="просмотр" width="20" height="17" border="0" class="post_img"></a>
+			</div>
+			<div class="postbox col-7 dash">
+				Истребитель <b>абзу</b> =Завтра Война= 
+			</div>
+			<div class="postbox col-1 dash">
+				<a href="https://yadi.sk/d/YQDMRZ1MDeFoAЭ"><img src="img/download.gif" alt="download it..." border="0" class="post_img"></a>
+			</div>
+			<div class="postbox col-3 dash">
+				<a target="_blank" href="http://lepaj80.narod.ru/koncordia.html" title="посетить">Страница автора</a>  
+			</div>
+		</div>
+<!-- строка со ссылкой -->
+<!-- строка со ссылкой -->
+		<div class="row ahov">
+			<div class="postbox col-1 dash">
+				<a href="img/_other/alan.jpg" rel="zoom"><img src="img/camera_1.gif" alt="просмотр" width="20" height="17" border="0" class="post_img"></a>
+			</div>
+			<div class="postbox col-7 dash">
+				Танкодесантный <b>элан</b> =Завтра Война= 
+			</div>
+			<div class="postbox col-1 dash">
+				<a href="https://yadi.sk/d/PPjJvLnVDeP8B"><img src="img/download.gif" alt="download it..." border="0" class="post_img"></a>
+			</div>
+			<div class="postbox col-3 dash">
+				<a target="_blank" href="http://lepaj80.narod.ru/koncordia.html" title="посетить">Страница автора</a>  
+			</div>
+		</div>
+<!-- строка со ссылкой -->
+<!-- строка со ссылкой -->
+		<div class="row ahov">
+			<div class="postbox col-1 dash">
+				<a href="img/_other/andromedashok.jpg" rel="zoom"><img src="img/camera_1.gif" alt="просмотр" width="20" height="17" border="0" class="post_img"></a>
+			</div>
+			<div class="postbox col-7 dash">
+				Транспорт <b>Андромеда</b> =Завтра Война=
+			</div>
+			<div class="postbox col-1 dash">
+				<a href="https://yadi.sk/d/UBlOnYMADePnX"><img src="img/download.gif" alt="download it..." border="0" class="post_img"></a>
+			</div>
+			<div class="postbox col-3 dash">
+				<a target="_blank" href="http://lepaj80.narod.ru/rossiadirekt.html" title="посетить">Страница автора</a>  
+			</div>
+		</div>
+<!-- строка со ссылкой -->
+<!-- строка со ссылкой -->
+		<div class="row ahov">
+			<div class="postbox col-1 dash">
+				<a href="img/_other/orlan.jpg" rel="zoom"><img src="img/camera_1.gif" alt="просмотр" width="20" height="17" border="0" class="post_img"></a>
+			</div>
+			<div class="postbox col-7 dash">
+				Истребитель <b>Орлан</b> =Завтра Война=
+			</div>
+			<div class="postbox col-1 dash">
+				<a href="https://yadi.sk/d/GqJgMokJDeQ5M"><img src="img/download.gif" alt="download it..." border="0" class="post_img"></a>
+			</div>
+			<div class="postbox col-3 dash">
+				<a target="_blank" href="http://lepaj80.narod.ru/rossiadirekt.html" title="посетить">Страница автора</a>  
+			</div>
+		</div>
+<!-- строка со ссылкой -->
+<!-- строка со ссылкой -->
+		<div class="row ahov">
+			<div class="postbox col-1 dash">
+				<a href="img/_other/avtaturgushnaps.jpg" rel="zoom"><img src="img/camera_1.gif" alt="просмотр" width="20" height="17" border="0" class="post_img"></a>
+			</div>
+			<div class="postbox col-7 dash">
+				Авианосец <b>Атур Гушснапс</b> =Завтра Война=
+			</div>
+			<div class="postbox col-1 dash">
+				<a href="https://yadi.sk/d/678xbg5jDeQW8"><img src="img/download.gif" alt="download it..." border="0" class="post_img"></a>
+			</div>
+			<div class="postbox col-3 dash">
+				<a target="_blank" href="http://lepaj80.narod.ru/koncordia.html" title="посетить">Страница автора</a>  
+			</div>
+		</div>
+<!-- строка со ссылкой -->
+<!-- строка со ссылкой -->
+		<div class="row ahov">
+			<div class="postbox col-1 dash">
+				<a href="img/_other/charma.jpg" rel="zoom"><img src="img/camera_1.gif" alt="просмотр" width="20" height="17" border="0" class="post_img"></a>
+			</div>
+			<div class="postbox col-7 dash">
+				Контейнеровоз <b>Чарма</b> =Завтра Война=
+			</div>
+			<div class="postbox col-1 dash">
+				<a href="https://yadi.sk/d/6yxbv2I9DeQrW"><img src="img/download.gif" alt="download it..." border="0" class="post_img"></a>
+			</div>
+			<div class="postbox col-3 dash">
+				<a target="_blank" href="http://lepaj80.narod.ru/koncordia.html" title="посетить">Страница автора</a>  
+			</div>
+		</div>
+<!-- строка со ссылкой -->
+<!-- строка со ссылкой -->
+		<div class="row ahov">
+			<div class="postbox col-1 dash">
+				<a href="img/_other/fravashi3.jpg" rel="zoom"><img src="img/camera_1.gif" alt="просмотр" width="20" height="17" border="0" class="post_img"></a>
+			</div>
+			<div class="postbox col-7 dash">
+				Торпедоносец <b>Фраваши</b> =Завтра Война=
+			</div>
+			<div class="postbox col-1 dash">
+				<a href="https://yadi.sk/d/CLF5IqsVDeRNm  "><img src="img/download.gif" alt="download it..." border="0" class="post_img"></a>
+			</div>
+			<div class="postbox col-3 dash">
+				<a target="_blank" href="http://lepaj80.narod.ru/koncordia.html" title="посетить">Страница автора</a>  
+			</div>
+		</div>
+<!-- строка со ссылкой -->
+<!-- строка со ссылкой -->
+		<div class="row ahov">
+			<div class="postbox col-1 dash">
+				<a href="img/_other/kish.jpg" rel="zoom"><img src="img/camera_1.gif" alt="просмотр" width="20" height="17" border="0" class="post_img"></a>
+			</div>
+			<div class="postbox col-7 dash">
+				Фрегат <b>Киш</b> =Завтра Война=
+			</div>
+			<div class="postbox col-1 dash">
+				<a href="https://yadi.sk/d/NrbNDQzaDeRjp"><img src="img/download.gif" alt="download it..." border="0" class="post_img"></a>
+			</div>
+			<div class="postbox col-3 dash">
+				<a target="_blank" href="http://lepaj80.narod.ru/koncordia.html" title="посетить">Страница автора</a>  
+			</div>
+		</div>
+<!-- строка со ссылкой -->
+<!-- строка со ссылкой -->
+		<div class="row ahov">
+			<div class="postbox col-1 dash">
+				<a href="img/_other/mitridat.jpg" rel="zoom"><img src="img/camera_1.gif" alt="просмотр" width="20" height="17" border="0" class="post_img"></a>
+			</div>
+			<div class="postbox col-7 dash">
+				Ракетная платформа <b>Митридат</b> =Завтра Война=
+			</div>
+			<div class="postbox col-1 dash">
+				<a href="https://yadi.sk/d/CR-eVugZDeRuU"><img src="img/download.gif" alt="download it..." border="0" class="post_img"></a>
+			</div>
+			<div class="postbox col-3 dash">
+				<a target="_blank" href="http://lepaj80.narod.ru/koncordia.html" title="посетить">Страница автора</a>  
+			</div>
+		</div>
+<!-- строка со ссылкой -->
+<!-- строка со ссылкой -->
+		<div class="row ahov">
+			<div class="postbox col-1 dash">
+				<a href="img/_other/monitor.jpg" rel="zoom"><img src="img/camera_1.gif" alt="просмотр" width="20" height="17" border="0" class="post_img"></a>
+			</div>
+			<div class="postbox col-7 dash">
+				Монитор <b>Монзир</b> =Завтра Война=
+			</div>
+			<div class="postbox col-1 dash">
+				<a href="https://yadi.sk/d/uPqw2iZDDeS55"><img src="img/download.gif" alt="download it..." border="0" class="post_img"></a>
+			</div>
+			<div class="postbox col-3 dash">
+				<a target="_blank" href="http://lepaj80.narod.ru/koncordia.html" title="посетить">Страница автора</a>  
+			</div>
+		</div>
+<!-- строка со ссылкой -->
+<!-- строка со ссылкой -->
+		<div class="row ahov">
+			<div class="postbox col-1 dash">
+				<a href="img/_other/sardar.jpg" rel="zoom"><img src="img/camera_1.gif" alt="просмотр" width="20" height="17" border="0" class="post_img"></a>
+			</div>
+			<div class="postbox col-7 dash">
+				Авианосец <b>Сардар</b> =Завтра Война=
+			</div>
+			<div class="postbox col-1 dash">
+				<a href="https://yadi.sk/d/Nqq-wqYsDeSLp"><img src="img/download.gif" alt="download it..." border="0" class="post_img"></a>
+			</div>
+			<div class="postbox col-3 dash">
+				<a target="_blank" href="http://lepaj80.narod.ru/koncordia.html" title="посетить">Страница автора</a>  
+			</div>
+		</div>
+<!-- строка со ссылкой -->
+<!-- строка со ссылкой -->
+		<div class="row ahov">
+			<div class="postbox col-1 dash">
+				<a href="img/_other/senmurv.jpg" rel="zoom"><img src="img/camera_1.gif" alt="просмотр" width="20" height="17" border="0" class="post_img"></a>
+			</div>
+			<div class="postbox col-7 dash">
+				Гидрофлугер <b>Сэнмурв</b> =Завтра Война=
+			</div>
+			<div class="postbox col-1 dash">
+				<a href="https://yadi.sk/d/NsCxSOfmDeSbd"><img src="img/download.gif" alt="download it..." border="0" class="post_img"></a>
+			</div>
+			<div class="postbox col-3 dash">
+				<a target="_blank" href="http://lepaj80.narod.ru/koncordia.html" title="посетить">Страница автора</a>  
+			</div>
+		</div>
+<!-- строка со ссылкой -->
+<!-- строка со ссылкой -->
+		<div class="row ahov">
+			<div class="postbox col-1 dash">
+				<a href="img/_other/varegna.jpg" rel="zoom"><img src="img/camera_1.gif" alt="просмотр" width="20" height="17" border="0" class="post_img"></a>
+			</div>
+			<div class="postbox col-7 dash">
+				Тяжёлый истребитель <b>Варэгна</b> =Завтра Война=
+			</div>
+			<div class="postbox col-1 dash">
+				<a href="https://yadi.sk/d/UN75pokrDeSii"><img src="img/download.gif" alt="download it..." border="0" class="post_img"></a>
+			</div>
+			<div class="postbox col-3 dash">
+				<a target="_blank" href="http://lepaj80.narod.ru/koncordia.html" title="посетить">Страница автора</a>  
+			</div>
+		</div>
+<!-- строка со ссылкой -->
+<!-- строка со ссылкой -->
+		<div class="row ahov">
+			<div class="postbox col-1 dash">
+				<a href="img/_other/videvdat.jpg" rel="zoom"><img src="img/camera_1.gif" alt="просмотр" width="20" height="17" border="0" class="post_img"></a>
+			</div>
+			<div class="postbox col-7 dash">
+				Линкор <b>Видевдат</b> =Завтра Война=
+			</div>
+			<div class="postbox col-1 dash">
+				<a href="https://yadi.sk/d/3qCXtM0NDeStS"><img src="img/download.gif" alt="download it..." border="0" class="post_img"></a>
+			</div>
+			<div class="postbox col-3 dash">
+				<a target="_blank" href="http://lepaj80.narod.ru/koncordia.html" title="посетить">Страница автора</a>  
+			</div>
+		</div>
+<!-- строка со ссылкой -->
+<!-- строка со ссылкой -->
+		<div class="row ahov">
+			<div class="postbox col-1 dash">
+				<a href="img/_other/sokol.jpg" rel="zoom"><img src="img/camera_1.gif" alt="просмотр" width="20" height="17" border="0" class="post_img"></a>
+			</div>
+			<div class="postbox col-7 dash">
+				Истребитель <b>Сокол</b> =Завтра Война=
+			</div>
+			<div class="postbox col-1 dash">
+				<a href="https://yadi.sk/d/ZJ9HSxg5DeTE3"><img src="img/download.gif" alt="download it..." border="0" class="post_img"></a>
+			</div>
+			<div class="postbox col-3 dash">
+				<a target="_blank" href="http://lepaj80.narod.ru/rossiadirekt.html" title="посетить">Страница автора</a>  
+			</div>
+		</div>
+<!-- строка со ссылкой -->
+<!-- строка со ссылкой -->
+		<div class="row ahov">
+			<div class="postbox col-1 dash">
+				<a href="img/_other/beliyvoron.jpg" rel="zoom"><img src="img/camera_1.gif" alt="просмотр" width="20" height="17" border="0" class="post_img"></a>
+			</div>
+			<div class="postbox col-7 dash">
+				Штурмовик <b>Белый Ворон</b> =Завтра Война=
+			</div>
+			<div class="postbox col-1 dash">
+				<a href="https://yadi.sk/d/aKjlOUR5DeTp3"><img src="img/download.gif" alt="download it..." border="0" class="post_img"></a>
+			</div>
+			<div class="postbox col-3 dash">
+				<a target="_blank" href="http://lepaj80.narod.ru/rossiadirekt.html" title="посетить">Страница автора</a>  
+			</div>
+		</div>
+<!-- строка со ссылкой -->
+<!-- строка со ссылкой -->
+		<div class="row ahov">
+			<div class="postbox col-1 dash">
+				<a href="img/_other/camrad.jpg" rel="zoom"><img src="img/camera_1.gif" alt="просмотр" width="20" height="17" border="0" class="post_img"></a>
+			</div>
+			<div class="postbox col-7 dash">
+				Фрегат <b>Камарад Лепанто</b> =Завтра Война=
+			</div>
+			<div class="postbox col-1 dash">
+				<a href="https://yadi.sk/d/k4P-q9WeDeTwx"><img src="img/download.gif" alt="download it..." border="0" class="post_img"></a>
+			</div>
+			<div class="postbox col-3 dash">
+				<a target="_blank" href="http://lepaj80.narod.ru/rossiadirekt.html" title="посетить">Страница автора</a>  
+			</div>
+		</div>
+<!-- строка со ссылкой -->
+<!-- строка со ссылкой -->
+		<div class="row ahov">
+			<div class="postbox col-1 dash">
+				<a href="img/_other/duramdal.jpg" rel="zoom"><img src="img/camera_1.gif" alt="просмотр" width="20" height="17" border="0" class="post_img"></a>
+			</div>
+			<div class="postbox col-7 dash">
+				Истребитель <b>Дюрандаль</b> =Завтра Война=
+			</div>
+			<div class="postbox col-1 dash">
+				<a href="https://yadi.sk/d/OmZZoFIXDeU4g"><img src="img/download.gif" alt="download it..." border="0" class="post_img"></a>
+			</div>
+			<div class="postbox col-3 dash">
+				<a target="_blank" href="http://lepaj80.narod.ru/rossiadirekt.html" title="посетить">Страница автора</a>  
+			</div>
+		</div>
+<!-- строка со ссылкой -->
+<!-- строка со ссылкой -->
+		<div class="row ahov">
+			<div class="postbox col-1 dash">
+				<a href="img/_other/frensis_bakon.jpg" rel="zoom"><img src="img/camera_1.gif" alt="просмотр" width="20" height="17" border="0" class="post_img"></a>
+			</div>
+			<div class="postbox col-7 dash">
+				Контейнеровоз <b>френсис бэкон</b> =Завтра Война=
+			</div>
+			<div class="postbox col-1 dash">
+				<a href="https://yadi.sk/d/orIg9BgWDeUCW"><img src="img/download.gif" alt="download it..." border="0" class="post_img"></a>
+			</div>
+			<div class="postbox col-3 dash">
+				<a target="_blank" href="http://lepaj80.narod.ru/rossiadirekt.html" title="посетить">Страница автора</a>  
+			</div>
+		</div>
+<!-- строка со ссылкой -->
+<!-- строка со ссылкой -->
+		<div class="row ahov">
+			<div class="postbox col-1 dash">
+				<a href="img/_other/gor14.jpg" rel="zoom"><img src="img/camera_1.gif" alt="просмотр" width="20" height="17" border="0" class="post_img"></a>
+			</div>
+			<div class="postbox col-7 dash">
+				Истребитель <b>Горыныч</b> =Завтра Война=
+			</div>
+			<div class="postbox col-1 dash">
+				<a href="https://yadi.sk/d/0Xs8O7FfDeUPH"><img src="img/download.gif" alt="download it..." border="0" class="post_img"></a>
+			</div>
+			<div class="postbox col-3 dash">
+				<a target="_blank" href="http://lepaj80.narod.ru/rossiadirekt.html" title="посетить">Страница автора</a>  
+			</div>
+		</div>
+<!-- строка со ссылкой -->
+<!-- строка со ссылкой -->
+		<div class="row ahov">
+			<div class="postbox col-1 dash">
+				<a href="img/_other/grif.jpg" rel="zoom"><img src="img/camera_1.gif" alt="просмотр" width="20" height="17" border="0" class="post_img"></a>
+			</div>
+			<div class="postbox col-7 dash">
+				Истребитель барража <b>Гриф</b> =Завтра Война=
+			</div>
+			<div class="postbox col-1 dash">
+				<a href="https://yadi.sk/d/ZUgIBykkDeVaK"><img src="img/download.gif" alt="download it..." border="0" class="post_img"></a>
+			</div>
+			<div class="postbox col-3 dash">
+				<a target="_blank" href="http://lepaj80.narod.ru/rossiadirekt.html" title="посетить">Страница автора</a>  
+			</div>
+		</div>
+<!-- строка со ссылкой -->
+<!-- строка со ссылкой -->
+		<div class="row ahov">
+			<div class="postbox col-1 dash">
+				<a href="img/_other/jsnaz1_copy_2.jpg" rel="zoom"><img src="img/camera_1.gif" alt="просмотр" width="20" height="17" border="0" class="post_img"></a>
+			</div>
+			<div class="postbox col-7 dash">
+				<b>боец осназа</b> =Завтра Война=
+			</div>
+			<div class="postbox col-1 dash">
+				<a href="https://yadi.sk/d/BRLWt-8QDeVm8"><img src="img/download.gif" alt="download it..." border="0" class="post_img"></a>
+			</div>
+			<div class="postbox col-3 dash">
+				<a target="_blank" href="http://lepaj80.narod.ru/rossiadirekt.html" title="посетить">Страница автора</a>  
+			</div>
+		</div>
+<!-- строка со ссылкой -->
+<!-- строка со ссылкой -->
+		<div class="row ahov">
+			<div class="postbox col-1 dash">
+				<a href="img/_other/tankodes.jpg" rel="zoom"><img src="img/camera_1.gif" alt="просмотр" width="20" height="17" border="0" class="post_img"></a>
+			</div>
+			<div class="postbox col-7 dash">
+				<b>Цезарь Кунников</b> =Завтра Война=
+			</div>
+			<div class="postbox col-1 dash">
+				<a href="https://yadi.sk/d/yHdEwkq8DeW5o"><img src="img/download.gif" alt="download it..." border="0" class="post_img"></a>
+			</div>
+			<div class="postbox col-3 dash">
+				<a target="_blank" href="http://lepaj80.narod.ru/rossiadirekt.html" title="посетить">Страница автора</a>  
+			</div>
+		</div>
+<!-- строка со ссылкой -->
+<!-- строка со ссылкой -->
+		<div class="row ahov">
+			<div class="postbox col-1 dash">
+				<a href="img/_other/grebesh.jpg" rel="zoom"><img src="img/camera_1.gif" alt="просмотр" width="20" height="17" border="0" class="post_img"></a>
+			</div>
+			<div class="postbox col-7 dash">
+				<b>Гребешок</b> =Завтра Война=
+			</div>
+			<div class="postbox col-1 dash">
+				<a href="https://yadi.sk/d/_UWOQDfgDeWD9"><img src="img/download.gif" alt="download it..." border="0" class="post_img"></a>
+			</div>
+			<div class="postbox col-3 dash">
+				<a target="_blank" href="http://lepaj80.narod.ru/faktok.html" title="посетить">Страница автора</a>  
+			</div>
+		</div>
+<!-- строка со ссылкой -->
+<!-- строка со ссылкой -->
+		<div class="row ahov">
+			<div class="postbox col-1 dash">
+				<a href="img/_other/black_thunder.jpg" rel="zoom"><img src="img/camera_1.gif" alt="просмотр" width="20" height="17" border="0" class="post_img"></a>
+			</div>
+			<div class="postbox col-7 dash">
+				Истрибитель синдиката "trix" <b>Черный Гром</b> =Завтра Война=
+			</div>
+			<div class="postbox col-1 dash">
+				<a href="https://yadi.sk/d/n0SI4uNSDeWLU"><img src="img/download.gif" alt="download it..." border="0" class="post_img"></a>
+			</div>
+			<div class="postbox col-3 dash">
+				<a target="_blank" href="http://lepaj80.narod.ru/pirat.html" title="посетить">Страница автора</a>  
+			</div>
+		</div>
+<!-- строка со ссылкой -->
+<!-- строка со ссылкой -->
+		<div class="row ahov">
+			<div class="postbox col-1 dash">
+				<a href="img/_other/sumerecn_prizrak.jpg" rel="zoom"><img src="img/camera_1.gif" alt="просмотр" width="20" height="17" border="0" class="post_img"></a>
+			</div>
+			<div class="postbox col-7 dash">
+				Авианесущий рейдер алых тигров <b>Сумеречный Призрак</b> =Завтра Война=
+			</div>
+			<div class="postbox col-1 dash">
+				<a href="https://yadi.sk/d/jUYL6iXqDeWVD"><img src="img/download.gif" alt="download it..." border="0" class="post_img"></a>
+			</div>
+			<div class="postbox col-3 dash">
+				<a target="_blank" href="http://lepaj80.narod.ru/pirat.html" title="посетить">Страница автора</a>  
+			</div>
+		</div>
+<!-- строка со ссылкой -->
+<!-- строка со ссылкой -->
+		<div class="row ahov">
+			<div class="postbox col-1">
+				<a href="img/_other/leviafan.jpg" rel="zoom"><img src="img/camera_1.gif" alt="просмотр" width="20" height="17" border="0" class="post_img"></a>
+			</div>
+			<div class="postbox col-7">
+				Авианесущий рейдер синдикат "trix" <b>Левиафан</b> =Завтра Война=
+			</div>
+			<div class="postbox col-1">
+				<a href="https://yadi.sk/d/imwz4mp5DeWd3"><img src="img/download.gif" alt="download it..." border="0" class="post_img"></a>
+			</div>
+			<div class="postbox col-3">
+				<a target="_blank" href="http://lepaj80.narod.ru/pirat.html" title="посетить">Страница автора</a>  
+			</div>
+		</div>
+<!-- строка со ссылкой -->
+    </div>
+<!--incl zavtra.voyna.txt -->

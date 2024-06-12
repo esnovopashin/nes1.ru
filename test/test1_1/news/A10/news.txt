@@ -1,0 +1,3 @@
+Caldari Ibis =EVE online=
+<p>Ревизия Caldari Ibis</p>
+<p>Отревизированная (и получившая каркас) модель корабля IBIS /Caldari <br>уже <a href="index.php?page=ibis" title="перейти" target="_blank" rel= "noopener noreferrer">готова <i class="fa fa-external-link" aria-hidden="true" style="font-size:12px"></i></a><br>Приятной сборки!</p>

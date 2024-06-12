@@ -1,0 +1,16 @@
+<div class="row" style="margin-bottom:10px;">
+		<div class="column">
+<!-- column1 -->
+			<div class="imgbox">
+				<img src="models/PW.Cat.Trader/cat_title.jpg" style="width:100%" alt="Бумажная модель: Котик-трейдер =Perfect World=">
+		    <!--<img src="img/level2_act.gif" alt="level2">-->
+				<div class="imgtext">
+					<a href="index.php?page=pwcat" target="_blank"  rel= "noopener noreferrer">
+					<font size="2">Бумажная модель: Котик-трейдер =Perfect World=</font></a>
+				</div>
+			</div>
+
+		</div>
+<!-- column4 -->
+
+</div>

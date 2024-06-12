@@ -1,0 +1,32 @@
+.news-block {
+    border: 1px solid #000;
+    margin-bottom: 20px;
+    padding: 10px;
+}
+
+.date {
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+
+.news {
+    display: flex;
+}
+
+.image {
+    margin-right: 10px;
+}
+
+.image img {
+    width: 100px;
+    height: 100px;
+}
+
+.title {
+    font-weight: bold;
+    margin-bottom: 5px;
+}
+
+.description {
+    margin-bottom: 10px;
+}

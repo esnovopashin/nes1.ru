@@ -1,0 +1,26 @@
+<div class="row"  style="margin-bottom:10px;">
+		<div class="column">
+<!-- column1 -->
+			<div class="imgbox">
+				<img src="models/D3.Topor.i.Pen/d3topor_title_1.jpg" style="width:100%" alt="Бумажная модель: Топор и пень =Disciples3=">
+		    <!--<img src="https://nes1.ru/images/level2_act.gif" alt="level2">-->
+				<div class="imgtext">
+					<a href="index.php?page=d3topor" target="_blank" rel= "noopener noreferrer">
+					<font size="2">Бумажная модель: Топор и пень =Disciples3=</font></a>
+				</div>
+			</div>
+		</div>
+<!-- column1 -->
+		<div class="column">
+<!-- column2 -->
+			<div class="imgbox">
+				<img src="models/D3.Stone.Sword/StoneSword_title_1_200.jpg" style="width:100%" alt="Бумажная модель: Меч в камне =Disciples3=">
+		    <!--<img src="https://nes1.ru/images/level2_act.gif" alt="level2">-->
+				<div class="imgtext">
+					<a href="index.php?page=d3topor" target="_blank" rel= "noopener noreferrer">
+					<font size="2">Бумажная модель: Меч в камне =Disciples3=</font></a>
+				</div>
+			</div>
+		</div>
+<!-- column2 -->
+</div>

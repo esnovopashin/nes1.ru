@@ -1,0 +1,9 @@
+
+			<div class="imgbox">
+				<img src="models/EVE.Caldari.Osprey/bp_osprey_800.png" style="width:100%" alt="Бумажная модель: Osprey /EVEonline">
+		    <!--<img src="https://nes1.ru/images/level5_act.gif" alt="level5">-->
+				<div class="imgtext">
+					<a href="index.php?page=zakaz" target="_blank">
+					<font size="2">Бумажная модель: Osprey /EVEonline</font></a>
+				</div>
+			</div>

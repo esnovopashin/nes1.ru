@@ -1,0 +1,47 @@
+<?php
+$categ = $_GET['categ'];
+?>
+
+<!DOCTYPE html>
+<html>
+<head>
+
+    <meta http-equiv="content-language" content="ru">
+    <meta http-equiv="content-type" content="text/html; charset=utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta http-equiv="expires" content="0">
+    <title>Авторизация</title>
+    <link rel="stylesheet" type="text/css" href="modal.css">
+
+</head>
+
+<body>
+
+
+<div id="id02" class="modal">
+  
+  <form class="modal-content animate" action="#">
+    <div class="closemodal">
+      <span onclick="document.getElementById('id01').style.display='none'" class="close" title="Close Modal">&times;</span>
+
+    </div>
+
+    <div class="container">
+      <div style="width:100%">
+        <h3 style="text-align:center;">загрузить еще 1 файл?</h3>
+      </div>
+	  <div class="row" style="width:100%">
+      <div style="width:50%;">
+        <a href="mod_2.html"><button type="button" class="cancel" style="background:#f44336">Отмена</button></a>
+      </div>
+	  <a href="tmpl_1.php"><div style="width:50%;"><button type="button">загрузить</button></a></div>
+    </div>
+    </div>
+    <div class="container" style="background-color:#f1f1f1">
+    </div>
+  </form>
+</div>
+
+
+</body>
+</html>

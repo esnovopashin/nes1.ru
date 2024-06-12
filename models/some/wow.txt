@@ -1,0 +1,100 @@
+ <!--incl =wow.txt -->
+     <div class="cut wow fadeInUp" data-wow-offset="50"><h3>=World of Warcraft=</h3>
+<!-- строка со ссылкой -->
+		<div class="row ahov">
+			<div class="postbox col-1 dash">
+			<a href="img/_other/ballista.jpg" rel="zoom"><img src="img/camera_1.gif" alt="просмотр" width="20" height="17" border="0" class="post_img"></a>
+			</div>
+			<div class="postbox col-7 dash">
+				<b>Баллиста</b> =WoW= 
+			</div>
+			<div class="postbox col-1 dash">
+				<a href="https://yadi.sk/d/IOOJ9BvgDh8bp"><img src="img/download.gif" alt="download it..." border="0" class="post_img"></a>
+			</div>
+			<div class="postbox col-3 dash">
+				<a target="_blank" href="#" title="посетить">Страница автора в розыске</a>  
+			</div>
+		</div>
+ <!-- строка со ссылкой -->
+<!-- строка со ссылкой -->
+		<div class="row ahov">
+			<div class="postbox col-1 dash">
+			<a href="img/_other/blades_of_chaos.jpg" rel="zoom"><img src="img/camera_1.gif" alt="просмотр" width="20" height="17" border="0" class="post_img"></a>
+			</div>
+			<div class="postbox col-7 dash">
+				<b>Blades Of Chaos</b> =WoW= 
+			</div>
+			<div class="postbox col-1 dash">
+				<a href="https://yadi.sk/d/czDvljncDh8si"><img src="img/download.gif" alt="download it..." border="0" class="post_img"></a>
+			</div>
+			<div class="postbox col-3 dash">
+				<a target="_blank" href="#" title="посетить">Страница автора в розыске</a>  
+			</div>
+		</div>
+ <!-- строка со ссылкой -->
+<!-- строка со ссылкой -->
+		<div class="row ahov">
+			<div class="postbox col-1 dash">
+			<a href="img/_other/paper_zeppelin_toy.jpg" rel="zoom"><img src="img/camera_1.gif" alt="просмотр" width="20" height="17" border="0" class="post_img"></a>
+			</div>
+			<div class="postbox col-7 dash">
+				Zeppelin Toy Papercraft <b>Zippelin</b> =WoW= 
+			</div>
+			<div class="postbox col-1 dash">
+				<a href="https://yadi.sk/d/j3UvB-AHDh8yN"><img src="img/download.gif" alt="download it..." border="0" class="post_img"></a>
+			</div>
+			<div class="postbox col-3 dash">
+				<a target="_blank" href="https://www.paper-replika.com/index.php?option=com_content&view=article&id=3605:wow-zeppelin-toy-papercraft-zippelin&catid=101" title="посетить">Страница автора</a>  
+			</div>
+		</div>
+<!-- строка со ссылкой -->
+<!-- строка со ссылкой -->
+		<div class="row ahov">
+			<div class="postbox col-1 dash">
+			<a href="img/_other/human_guard_tower.jpg" rel="zoom"><img src="img/camera_1.gif" alt="просмотр" width="20" height="17" border="0" class="post_img"></a>
+			</div>
+			<div class="postbox col-7 dash">
+				<b>Human Guard Tower</b> =WoW= 
+			</div>
+			<div class="postbox col-1 dash">
+				<a href="https://yadi.sk/d/u7oyVq0mDh9AW"><img src="img/download.gif" alt="download it..." border="0" class="post_img"></a>
+			</div>
+			<div class="postbox col-3 dash">
+				<a target="_blank" href="https://only-paper.ru/news/human_guard_tower_world_of_warcraft/2010-08-08-5441" title="посетить">Ресурс, с которого получена модель</a>  
+			</div>
+		</div>
+<!-- строка со ссылкой -->
+<!-- строка со ссылкой -->
+		<div class="row ahov">
+			<div class="postbox col-1 dash">
+			<a href="img/_other/greatsword_of_the_sindorei.jpg" rel="zoom"><img src="img/camera_1.gif" alt="просмотр" width="20" height="17" border="0" class="post_img"></a>
+			</div>
+			<div class="postbox col-7 dash">
+				<b>Greatsword of the Sin'dorei</b> =WoW= 
+			</div>
+			<div class="postbox col-1 dash">
+				<a href="#"><img src="img/download.gif" alt="download it..." border="0" class="post_img"></a>
+			</div>
+			<div class="postbox col-3 dash">
+				<a target="_blank" href="https://only-paper.ru/news/greatsword_of_the_sin_dorei_world_of_warcraft/2010-08-08-5437" title="посетить">Ресурс, с которого получена модель</a>  
+			</div>
+		</div>
+<!-- строка со ссылкой -->
+<!-- строка со ссылкой -->
+		<div class="row ahov">
+			<div class="postbox col-1">
+			<a href="img/_other/sbornik_geroev.jpg" rel="zoom"><img src="img/camera_1.gif" alt="просмотр" width="20" height="17" border="0" class="post_img"></a>
+			</div>
+			<div class="postbox col-7">
+				<b>Сборник героев</b> =Warcraft III= 
+			</div>
+			<div class="postbox col-1">
+				<a href="#"><img src="img/download.gif" alt="download it..." border="0" class="post_img"></a>
+			</div>
+			<div class="postbox col-3">
+				<a target="_blank" href="https://only-paper.ru/news/sbornik_geroev_iz_igry_warcraft_iii/2010-05-29-5055" title="посетить">Ресурс, с которого получена модель</a>  
+			</div>
+		</div>
+<!-- строка со ссылкой -->
+</div>
+ <!--incl =wow.txt -->

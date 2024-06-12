@@ -1,0 +1,16 @@
+<div class="row" style="margin-bottom:10px;">
+<!-- column1 -->
+		<div class="column">
+
+			<div class="imgbox">
+				<img src="models/Fallout3.Pups/all_PUPS_promo.jpg" style="width:100%" alt="Fallout3. ВСЕ пупсы. Заказать.">
+		    <!--<img src="https://nes1.ru/images/level2_act.gif" alt="level2">-->
+				<div class="imgtext">
+					<a href="index.php?page=falloutpups" target="_blank"  rel= "noopener noreferrer">
+					<font size="2">Fallout3. ВСЕ пупсы</font></a>
+				</div>
+			</div>
+
+		</div>
+<!-- column4 -->
+</div>

@@ -1,0 +1,53 @@
+<!--incl =halflife2.txt -->
+     <div class="cut wow fadeInUp" data-wow-offset="50"><h3>=Halflife 2=</h3>
+<!-- строка со ссылкой -->
+		<div class="row ahov">
+			<div class="postbox col-1 dash">
+			<a href="img/_other/halflife2_dog.jpg" rel="zoom"><img src="img/camera_1.gif" alt="просмотр" width="20" height="17" border="0" class="post_img"></a>
+			</div>
+			<div class="postbox col-7 dash">
+				<b>Пёс</b> =Halflife 2= 
+			</div>
+			<div class="postbox col-1 dash">
+				<a href="https://yadi.sk/d/F9EY2z5SDeusC"><img src="img/download.gif" alt="download it..." border="0" class="post_img"></a>
+			</div>
+			<div class="postbox col-3 dash">
+				<a target="_blank" href="#" title="посетить">траница автора в розыске</a>  
+			</div>
+		</div>
+<!-- строка со ссылкой -->
+<!-- строка со ссылкой -->
+		<div class="row ahov">
+			<div class="postbox col-1 dash">
+			<a href="img/_other/headcrab.jpg" rel="zoom"><img src="img/camera_1.gif" alt="просмотр" width="20" height="17" border="0" class="post_img"></a>
+			</div>
+			<div class="postbox col-7 dash">
+				Маска - <b>хэдкраб</b> =Halflife= 
+			</div>
+			<div class="postbox col-1 dash">
+				<a href="#"><img src="img/download.gif" alt="download it..." border="0" class="post_img"></a>
+			</div>
+			<div class="postbox col-3 dash">
+				<a target="_blank" href="https://only-paper.ru/news/maska_khehdkrab_po_motivam_igry_half_life/2010-05-13-4988" title="посетить">Ресурс, с которого получена модель</a>  
+			</div>
+		</div>
+<!-- строка со ссылкой -->
+<!-- строка со ссылкой -->
+		<div class="row ahov">
+			<div class="postbox col-1">
+			<a href="img/_other/spy.jpg" rel="zoom"><img src="img/camera_1.gif" alt="просмотр" width="20" height="17" border="0" class="post_img"></a>
+			</div>
+			<div class="postbox col-7">
+				<b>Шпион / Spy</b> =Team Fortress 2= 
+			</div>
+			<div class="postbox col-1">
+				<a href="#"><img src="img/download.gif" alt="download it..." border="0" class="post_img"></a>
+			</div>
+			<div class="postbox col-3">
+				<a target="_blank" href="https://only-paper.ru/news/shpion_spy_team_fortress_2/2010-05-19-5010" title="посетить">Ресурс, с которого получена модель</a>  
+			</div>
+		</div>
+<!-- строка со ссылкой -->
+       
+    </div>
+<!--incl =halflife2.txt -->

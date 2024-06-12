@@ -1,0 +1,132 @@
+<!--incl =la2.txt -->
+     <div class="cut wow fadeInUp" data-wow-offset="50"><h3>=Lineage 2=</h3>
+<!-- строка со ссылкой -->
+		<div class="row ahov">
+			<div class="postbox col-1 dash">
+			<a href="img/_other/forgotten_blade.jpg" rel="zoom"><img src="img/camera_1.gif" alt="просмотр" width="20" height="17" border="0" class="post_img"></a>
+			</div>
+			<div class="postbox col-7 dash">
+				<b>Забытый Клинок</b> =Lineage 2= 
+			</div>
+			<div class="postbox col-1 dash">
+				<a href="https://yadi.sk/d/IkAQe4rgDevcC"><img src="img/download.gif" alt="download it..." border="0" class="post_img"></a>
+			</div>
+			<div class="postbox col-3 dash">
+				<a target="_blank" href="https://papermania.ru" title="посетить">Страница автора</a>  
+			</div>
+		</div>
+<!-- строка со ссылкой -->
+<!-- строка со ссылкой -->
+		<div class="row ahov">
+			<div class="postbox col-1 dash">
+			<a href="img/_other/gnoma.jpg" rel="zoom"><img src="img/camera_1.gif" alt="просмотр" width="20" height="17" border="0" class="post_img"></a>
+			</div>
+			<div class="postbox col-7 dash">
+				GamePaper 09<b>Гномка</b> =Lineage 2= 
+			</div>
+			<div class="postbox col-1 dash">
+				<img src="img/download.gif" alt="download it..." border="0" class="post_img">
+			</div>
+			<div class="postbox col-3 dash">
+				<a target="_blank" href="https://papermania.ru/news/gnomka_iz_lineage_ii_gamepaper_09_10/2010-08-21-538" title="посетить">Страница автора</a>  
+			</div>
+		</div>
+<!-- строка со ссылкой -->
+<!-- строка со ссылкой -->
+		<div class="row ahov">
+			<div class="postbox col-1 dash">
+			<img src="img/camera_1.gif" alt="просмотр" width="20" height="17" border="0" class="post_img">
+			</div>
+			<div class="postbox col-7 dash">
+				<b>mr.CAT</b> =Lineage 2= 
+			</div>
+			<div class="postbox col-1 dash">
+				<a href="https://yadi.sk/d/ZkovjJ-xDew6u"><img src="img/download.gif" alt="download it..." border="0" class="post_img"></a>
+			</div>
+			<div class="postbox col-3 dash">
+				<a target="_blank" href="#" title="посетить">Страница автора в розыске</a>  
+			</div>
+		</div>
+<!-- строка со ссылкой -->
+       <!-- строка со ссылкой -->
+		<div class="row ahov">
+			<div class="postbox col-1 dash">
+			<img src="img/camera_1.gif" alt="просмотр" width="20" height="17" border="0" class="post_img">
+			</div>
+			<div class="postbox col-7 dash">
+				<b>Dark elf in BWL</b> =Lineage 2= 
+			</div>
+			<div class="postbox col-1 dash">
+				<a href="https://yadi.sk/d/4jhLs5yAgE63X"><img src="img/download.gif" alt="download it..." border="0" class="post_img"></a>
+			</div>
+			<div class="postbox col-3 dash">
+				<a target="_blank" href="#" title="посетить">Страница автора в розыске</a>  
+			</div>
+		</div>
+<!-- строка со ссылкой -->
+              <!-- строка со ссылкой -->
+		<div class="row ahov">
+			<div class="postbox col-1 dash">
+			<img src="img/camera_1.gif" alt="просмотр" width="20" height="17" border="0" class="post_img">
+			</div>
+			<div class="postbox col-7 dash">
+				<b>Dark elf female noobie</b> =Lineage 2= 
+			</div>
+			<div class="postbox col-1 dash">
+				<a href="https://yadi.sk/d/oZ52rncfgE5hz"><img src="img/download.gif" alt="download it..." border="0" class="post_img"></a>
+			</div>
+			<div class="postbox col-3 dash">
+				<a target="_blank" href="#" title="посетить">Страница автора в розыске</a>  
+			</div>
+		</div>
+<!-- строка со ссылкой -->
+<!-- строка со ссылкой -->
+		<div class="row ahov">
+			<div class="postbox col-1 dash">
+			<img src="img/camera_1.gif" alt="просмотр" width="20" height="17" border="0" class="post_img">
+			</div>
+			<div class="postbox col-7 dash">
+				<b>Human</b> =Lineage 2= 
+			</div>
+			<div class="postbox col-1 dash">
+				<a href="https://yadi.sk/d/GhYmc7O0gE5kY"><img src="img/download.gif" alt="download it..." border="0" class="post_img"></a>
+			</div>
+			<div class="postbox col-3 dash">
+				<a target="_blank" href="#" title="посетить">Страница автора в розыске</a>  
+			</div>
+		</div>
+<!-- строка со ссылкой -->
+<!-- строка со ссылкой -->
+		<div class="row ahov">
+			<div class="postbox col-1 dash">
+			<img src="img/camera_1.gif" alt="просмотр" width="20" height="17" border="0" class="post_img">
+			</div>
+			<div class="postbox col-7 dash">
+				<b>Light Elf</b> =Lineage 2= 
+			</div>
+			<div class="postbox col-1 dash">
+				<a href="https://yadi.sk/d/UgXJgpCRgE5nT"><img src="img/download.gif" alt="download it..." border="0" class="post_img"></a>
+			</div>
+			<div class="postbox col-3 dash">
+				<a target="_blank" href="#" title="посетить">Страница автора в розыске</a>  
+			</div>
+		</div>
+<!-- строка со ссылкой -->
+<!-- строка со ссылкой -->
+		<div class="row ahov">
+			<div class="postbox col-1">
+			<img src="img/camera_1.gif" alt="просмотр" width="20" height="17" border="0" class="post_img">
+			</div>
+			<div class="postbox col-7">
+				<b>Healer</b> =Lineage 2= 
+			</div>
+			<div class="postbox col-1">
+				<a href="https://yadi.sk/d/tbeyvAdggDzuf"><img src="img/download.gif" alt="download it..." border="0" class="post_img"></a>
+			</div>
+			<div class="postbox col-3">
+				<a target="_blank" href="#" title="посетить">Страница автора в розыске</a>  
+			</div>
+		</div>
+<!-- строка со ссылкой -->
+    </div>
+ <!--incl =la2.txt -->

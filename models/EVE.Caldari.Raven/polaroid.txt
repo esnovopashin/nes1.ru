@@ -1,0 +1,9 @@
+
+			<div class="imgbox">
+				<img src="models/EVE.Caldari.Raven/bp_raven_iso.jpg" style="width:100%" alt="Бумажная модель: RAVEN (old) /EVE online">
+		    <!--<img src="https://nes1.ru/images/level5_act.gif" alt="level5">-->
+				<div class="imgtext">
+					<a href="index.php?page=zakaz" target="_blank">
+					<font size="2">Бумажная модель: RAVEN (old) /EVE online</font></a>
+				</div>
+			</div>

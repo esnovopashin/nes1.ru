@@ -1,0 +1,49 @@
+<html>
+<head>
+
+    <meta http-equiv="content-language" content="ru">
+    <meta http-equiv="content-type" content="text/html; charset=utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta http-equiv="expires" content="0">
+    <title>categ</title>
+	<title>$categ</title>
+    <link rel="stylesheet" type="text/css" href="style.css">
+	<script type="text/javascript" src="http://jqueryjs.googlecode.com/files/jquery-1.3.1.min.js"></script>
+</head>
+
+<body>
+    <div id="mydiv">
+		
+
+		<div style="padding-left:5px"><br>
+		    
+			Нотариус: " . $familiya . " " . $imya . " " . $otchestvo<br>
+			 <p><input class="inputbutton" onclick="PrintElem('#mydiv')" value="ПОДПИСАТЬ"\></p>
+<!-- в таблице bin_data у текущего id обновляем поле newpicture на 0 -->
+<!-- записываем в таблицу IMGWITHFIELDS 'pictureid' 'doctype' 'field_1' ... 'field_n' 'printthis' 'oper_name' 'dateofcompletion' 'dateofmodify' 'opermodify'-->
+
+
+	    </div>
+		<div class="footer_end"></div>
+	</div>
+<script type="text/javascript">
+function PrintElem(elem)
+{
+Popup($(elem).html());
+}
+function Popup(data)
+{
+var mywindow = window.open('', 'my div', 'width=100%');
+mywindow.document.write('<html><head><title>my div</title>');
+mywindow.document.write('</head><body >');
+mywindow.document.write(data);
+mywindow.document.write('</body></html>');
+mywindow.document.close(); // necessary for IE >= 10
+mywindow.focus(); // necessary for IE >= 10
+mywindow.print();
+mywindow.close();
+return true;
+}
+</script>
+</body>
+</html>

@@ -1,0 +1,9 @@
+
+			<div class="imgbox">
+				<img src="models/EVE.Anathema/Anathema.jpg" style="width:100%" alt="Бумажная модель: Anathema /EVE online">
+		    <!--<img src="https://nes1.ru/images/level2_act.gif" alt="level2">-->
+				<div class="imgtext">
+					<a href="index.php?page=zakaz" target="_blank">
+					<font size="2">Бумажная модель: Anathema /EVE online</font></a>
+				</div>
+			</div>

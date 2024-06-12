@@ -1,0 +1,1 @@
+<a href="index.php?page=armageddon" target="_blank"><font size="2">Бумажная модель: Armageddon /EVE online</font></a>

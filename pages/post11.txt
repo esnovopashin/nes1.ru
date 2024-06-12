@@ -1,0 +1,15 @@
+<!-- решение проблемы с обтеканием картинки текстом и одновременным выравниванием блока по размеру картинки, взято тут (хоть, как и следовало ожидать, лежало на поверхности): http://jsfiddle.net/afshinprofe/R4bCy/7/-->
+<div class="cut contentbox">
+	<div class="wow fadeInUp" data-wow-offset="50" style="min-height:150px">
+		<div style="float:left; padding-right:10px">
+			<a href="models/EVE.Caldari.Heavy.Missle/chm_600_w.jpg" rel="zoom" titlt="">
+			<img src="models/EVE.Caldari.Heavy.Missle/P4030172_1t.jpg" alt="EVEonline. Caldari Heavy Missle II" height="150" style="float:left"></a>
+		</div>
+		<div style="min-height:150px">
+			<p>Отличный подарок пилоту EVE online - модель тяжелой ракетной установки Caldari<br>&nbsp;<br>
+			Модель выполнена с возможностью вращения вокруг вертикальной оси и изменения угла наклона блока ракет<br>
+			Каркас делает модель прочной. При использовании магнитной бумаги в основании, можно устанавливать модель даже на вертикальных металлических поверхностях<br>
+			Поспешите стать обладателем эксклюзивной модели!</p> <a href="<?=$pagelink?>eveheavymissle" target="_blank" rel= "noopener noreferrer">перейти <i class="fa fa-external-link" aria-hidden="true" style="font-size:12px"></i></a>
+		</div>
+	</div>
+</div>

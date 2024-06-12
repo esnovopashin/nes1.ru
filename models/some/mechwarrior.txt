@@ -1,0 +1,1635 @@
+<!--incl =mechwarrior.txt -->
+     <div class="cut wow fadeInUp" data-wow-offset="50"><h3>=BattleTech = MechCommander = MechWarrior =</h3>
+<!-- строка со ссылкой -->
+		<div class="row ahov">
+			<div class="postbox col-1 dash">
+			<a href="img/_other/bushwacke.jpg" rel="zoom"><img src="img/camera_1.gif" alt="просмотр" width="20" height="17" border="0" class="post_img"></a>
+			</div>
+			<div class="postbox col-7 dash">
+				<b>Bushwacke</b> =MechWarrior= 
+			</div>
+			<div class="postbox col-1 dash">
+				<a href="https://yadi.sk/d/OP37QlGYDi4ie"><img src="img/download.gif" alt="download it..." border="0" class="post_img"></a>
+			</div>
+			<div class="postbox col-3 dash">
+				<a target="_blank" href="https://only-paper.ru/news/bushwacke/2010-06-09-5119" title="посетить">Ресурс, с которого получена модель</a>  
+			</div>
+		</div>
+<!-- строка со ссылкой -->
+<!-- строка со ссылкой -->
+		<div class="row ahov">
+			<div class="postbox col-1 dash">
+			<a href="img/_other/rifleman.jpg" rel="zoom"><img src="img/camera_1.gif" alt="просмотр" width="20" height="17" border="0" class="post_img"></a>
+			</div>
+			<div class="postbox col-7 dash">
+				<b>RifleMan</b> =MechWarrior= 
+			</div>
+			<div class="postbox col-1 dash">
+				<a href="https://yadi.sk/d/UzOvAiDuDi4yb"><img src="img/download.gif" alt="download it..." border="0" class="post_img"></a>
+			</div>
+			<div class="postbox col-3 dash">
+				<a target="_blank" href="https://only-paper.ru/news/rifleman/2010-06-08-5106" title="посетить">Ресурс, с которого получена модель</a>  
+			</div>
+		</div>
+<!-- строка со ссылкой -->
+<!-- строка со ссылкой -->
+		<div class="row ahov">
+			<div class="postbox col-1 dash">
+			<a href="img/_other/masakari.jpg" rel="zoom"><img src="img/camera_1.gif" alt="просмотр" width="20" height="17" border="0" class="post_img"></a>
+			</div>
+			<div class="postbox col-7 dash">
+				<b>Masakari</b> =MechWarrior= 
+			</div>
+			<div class="postbox col-1 dash">
+				<a href="https://yadi.sk/d/PKYL3egXDi563"><img src="img/download.gif" alt="download it..." border="0" class="post_img"></a>
+			</div>
+			<div class="postbox col-3 dash">
+				<a target="_blank" href="https://only-paper.ru/news/masakari/2010-06-08-5105" title="посетить">Ресурс, с которого получена модель</a>  
+			</div>
+		</div>
+<!-- строка со ссылкой -->
+<!-- строка со ссылкой -->
+		<div class="row ahov">
+			<div class="postbox col-1 dash">
+			<a href="#" rel="zoom"><img src="img/camera_1.gif" alt="просмотр" width="20" height="17" border="0" class="post_img"></a>
+			</div>
+			<div class="postbox col-7 dash">
+				 MW4 <b>Archer Steiner</b> =MechWarrior= 
+			</div>
+			<div class="postbox col-1 dash">
+				<a href="https://yadi.sk/d/iWrXvp7jDi5CH"><img src="img/download.gif" alt="download it..." border="0" class="post_img"></a>
+			</div>
+			<div class="postbox col-3 dash">
+				<a target="_blank" href="https://www.mechwarrior3.org/" title="посетить">Страница автора</a>  
+			</div>
+		</div>
+<!-- строка со ссылкой -->
+<!-- строка со ссылкой -->
+		<div class="row ahov">
+			<div class="postbox col-1 dash">
+			<a href="#" rel="zoom"><img src="img/camera_1.gif" alt="просмотр" width="20" height="17" border="0" class="post_img"></a>
+			</div>
+			<div class="postbox col-7 dash">
+				 MW4 <b>Arcticwolf</b> =MechWarrior= 
+			</div>
+			<div class="postbox col-1 dash">
+				<a href="https://yadi.sk/d/5H8YQnpjDi5xM"><img src="img/download.gif" alt="download it..." border="0" class="post_img"></a>
+			</div>
+			<div class="postbox col-3 dash">
+				<a target="_blank" href="https://www.mechwarrior3.org/wforum/download.php?id=2774" title="посетить">Страница автора</a>  
+			</div>
+		</div>
+<!-- строка со ссылкой -->
+<!-- строка со ссылкой -->
+		<div class="row ahov">
+			<div class="postbox col-1 dash">
+			<a href="#" rel="zoom"><img src="img/camera_1.gif" alt="просмотр" width="20" height="17" border="0" class="post_img"></a>
+			</div>
+			<div class="postbox col-7 dash">
+				 MW4 <b>Battlemaster Davion</b> =MechWarrior= 
+			</div>
+			<div class="postbox col-1 dash">
+				<a href="https://yadi.sk/d/kEkAvpOjDi6SQ"><img src="img/download.gif" alt="download it..." border="0" class="post_img"></a>
+			</div>
+			<div class="postbox col-3 dash">
+				<a target="_blank" href="https://www.mechwarrior3.org/wforum/download.php?id=2774" title="посетить">Страница автора</a>  
+			</div>
+		</div>
+<!-- строка со ссылкой -->
+<!-- строка со ссылкой -->
+		<div class="row ahov">
+			<div class="postbox col-1 dash">
+			<a href="#" rel="zoom"><img src="img/camera_1.gif" alt="просмотр" width="20" height="17" border="0" class="post_img"></a>
+			</div>
+			<div class="postbox col-7 dash">
+				 MW4 <b>Catapult</b> =MechWarrior= 
+			</div>
+			<div class="postbox col-1 dash">
+				<a href="https://yadi.sk/d/UnNzmjB2Di6ZM"><img src="img/download.gif" alt="download it..." border="0" class="post_img"></a>
+			</div>
+			<div class="postbox col-3 dash">
+				<a target="_blank" href="https://www.mechwarrior3.org/wforum/download.php?id=2774" title="посетить">Страница автора</a>  
+			</div>
+		</div>
+<!-- строка со ссылкой -->
+<!-- строка со ссылкой -->
+		<div class="row ahov">
+			<div class="postbox col-1 dash">
+			<a href="#" rel="zoom"><img src="img/camera_1.gif" alt="просмотр" width="20" height="17" border="0" class="post_img"></a>
+			</div>
+			<div class="postbox col-7 dash">
+				 MW4 <b>Cauldronborn</b> =MechWarrior= 
+			</div>
+			<div class="postbox col-1 dash">
+				<a href="https://yadi.sk/d/_SYkHDe9Di6e2"><img src="img/download.gif" alt="download it..." border="0" class="post_img"></a>
+			</div>
+			<div class="postbox col-3 dash">
+				<a target="_blank" href="https://www.mechwarrior3.org/" title="посетить">Страница автора</a>  
+			</div>
+		</div>
+<!-- строка со ссылкой -->
+<!-- строка со ссылкой -->
+		<div class="row ahov">
+			<div class="postbox col-1 dash">
+			<a href="#" rel="zoom"><img src="img/camera_1.gif" alt="просмотр" width="20" height="17" border="0" class="post_img"></a>
+			</div>
+			<div class="postbox col-7 dash">
+				 MW4 <b>Cougar</b> =MechWarrior= 
+			</div>
+			<div class="postbox col-1 dash">
+				<a href="https://yadi.sk/d/4e9acg6hDi6iW"><img src="img/download.gif" alt="download it..." border="0" class="post_img"></a>
+			</div>
+			<div class="postbox col-3 dash">
+				<a target="_blank" href="https://www.mechwarrior3.org/" title="посетить">Страница автора</a>  
+			</div>
+		</div>
+<!-- строка со ссылкой -->
+<!-- строка со ссылкой -->
+		<div class="row ahov">
+			<div class="postbox col-1 dash">
+			<a href="#" rel="zoom"><img src="img/camera_1.gif" alt="просмотр" width="20" height="17" border="0" class="post_img"></a>
+			</div>
+			<div class="postbox col-7 dash">
+				 MW4 <b>Daishi</b> =MechWarrior= 
+			</div>
+			<div class="postbox col-1 dash">
+				<a href="https://yadi.sk/d/US3Nh_s7Di6nn"><img src="img/download.gif" alt="download it..." border="0" class="post_img"></a>
+			</div>
+			<div class="postbox col-3 dash">
+				<a target="_blank" href="https://www.mechwarrior3.org/" title="посетить">Страница автора</a>  
+			</div>
+		</div>
+<!-- строка со ссылкой -->
+<!-- строка со ссылкой -->
+		<div class="row ahov">
+			<div class="postbox col-1 dash">
+			<a href="#" rel="zoom"><img src="img/camera_1.gif" alt="просмотр" width="20" height="17" border="0" class="post_img"></a>
+			</div>
+			<div class="postbox col-7 dash">
+				 MW4 <b>Dragon</b> =MechWarrior= 
+			</div>
+			<div class="postbox col-1 dash">
+				<a href="https://yadi.sk/d/-zc4NN3JDi75p"><img src="img/download.gif" alt="download it..." border="0" class="post_img"></a>
+			</div>
+			<div class="postbox col-3 dash">
+				<a target="_blank" href="https://www.mechwarrior3.org/" title="посетить">Страница автора</a>  
+			</div>
+		</div>
+<!-- строка со ссылкой -->
+<!-- строка со ссылкой -->
+		<div class="row ahov">
+			<div class="postbox col-1 dash">
+			<a href="#" rel="zoom"><img src="img/camera_1.gif" alt="просмотр" width="20" height="17" border="0" class="post_img"></a>
+			</div>
+			<div class="postbox col-7 dash">
+				 MW4 <b>Hauptmann</b> =MechWarrior= 
+			</div>
+			<div class="postbox col-1 dash">
+				<a href="https://yadi.sk/d/flv0aC23Di7FJ"><img src="img/download.gif" alt="download it..." border="0" class="post_img"></a>
+			</div>
+			<div class="postbox col-3 dash">
+				<a target="_blank" href="https://www.mechwarrior3.org/" title="посетить">Страница автора</a>  
+			</div>
+		</div>
+<!-- строка со ссылкой -->
+<!-- строка со ссылкой -->
+		<div class="row ahov">
+			<div class="postbox col-1 dash">
+			<a href="#" rel="zoom"><img src="img/camera_1.gif" alt="просмотр" width="20" height="17" border="0" class="post_img"></a>
+			</div>
+			<div class="postbox col-7 dash">
+				 MW4 <b>Hellhound</b> =MechWarrior= 
+			</div>
+			<div class="postbox col-1 dash">
+				<a href="https://yadi.sk/d/0ERAnd6YDi7up"><img src="img/download.gif" alt="download it..." border="0" class="post_img"></a>
+			</div>
+			<div class="postbox col-3 dash">
+				<a target="_blank" href="https://www.mechwarrior3.org/" title="посетить">Страница автора</a>  
+			</div>
+		</div>
+<!-- строка со ссылкой -->
+<!-- строка со ссылкой -->
+		<div class="row ahov">
+			<div class="postbox col-1 dash">
+			<a href="#" rel="zoom"><img src="img/camera_1.gif" alt="просмотр" width="20" height="17" border="0" class="post_img"></a>
+			</div>
+			<div class="postbox col-7 dash">
+				 MW4 <b>Madcat</b> =MechWarrior= 
+			</div>
+			<div class="postbox col-1 dash">
+				<a href="https://yadi.sk/d/BtkFGb3cDi839"><img src="img/download.gif" alt="download it..." border="0" class="post_img"></a>
+			</div>
+			<div class="postbox col-3 dash">
+				<a target="_blank" href="https://www.mechwarrior3.org/" title="посетить">Страница автора</a>  
+			</div>
+		</div>
+<!-- строка со ссылкой -->
+<!-- строка со ссылкой -->
+		<div class="row ahov">
+			<div class="postbox col-1 dash">
+			<a href="#" rel="zoom"><img src="img/camera_1.gif" alt="просмотр" width="20" height="17" border="0" class="post_img"></a>
+			</div>
+			<div class="postbox col-7 dash">
+				 MW4 <b>Mauler</b> =MechWarrior= 
+			</div>
+			<div class="postbox col-1 dash">
+				<a href="https://yadi.sk/d/IHPRaoIZDi88k"><img src="img/download.gif" alt="download it..." border="0" class="post_img"></a>
+			</div>
+			<div class="postbox col-3 dash">
+				<a target="_blank" href="https://www.mechwarrior3.org/" title="посетить">Страница автора</a>  
+			</div>
+		</div>
+<!-- строка со ссылкой -->
+<!-- строка со ссылкой -->
+		<div class="row ahov">
+			<div class="postbox col-1 dash">
+			<a href="#" rel="zoom"><img src="img/camera_1.gif" alt="просмотр" width="20" height="17" border="0" class="post_img"></a>
+			</div>
+			<div class="postbox col-7 dash">
+				 MW4 <b>Novacat</b> =MechWarrior= 
+			</div>
+			<div class="postbox col-1 dash">
+				<a href="https://yadi.sk/d/Lbnjc64aDi8SS"><img src="img/download.gif" alt="download it..." border="0" class="post_img"></a>
+			</div>
+			<div class="postbox col-3 dash">
+				<a target="_blank" href="https://www.mechwarrior3.org/" title="посетить">Страница автора</a>  
+			</div>
+		</div>
+<!-- строка со ссылкой -->
+<!-- строка со ссылкой -->
+		<div class="row ahov">
+			<div class="postbox col-1 dash">
+			<a href="#" rel="zoom"><img src="img/camera_1.gif" alt="просмотр" width="20" height="17" border="0" class="post_img"></a>
+			</div>
+			<div class="postbox col-7 dash">
+				 MW4 <b>Shadowcat</b> =MechWarrior= 
+			</div>
+			<div class="postbox col-1 dash">
+				<a href="https://yadi.sk/d/2Y7vF6p5Di8jX"><img src="img/download.gif" alt="download it..." border="0" class="post_img"></a>
+			</div>
+			<div class="postbox col-3 dash">
+				<a target="_blank" href="https://www.mechwarrior3.org/" title="посетить">Прямая ссылка</a>  
+			</div>
+		</div>
+<!-- строка со ссылкой -->
+<!-- строка со ссылкой -->
+		<div class="row ahov">
+			<div class="postbox col-1 dash">
+			<a href="#" rel="zoom"><img src="img/camera_1.gif" alt="просмотр" width="20" height="17" border="0" class="post_img"></a>
+			</div>
+			<div class="postbox col-7 dash">
+				 MW4 <b>Uller</b> =MechWarrior= 
+			</div>
+			<div class="postbox col-1 dash">
+				<a href="https://yadi.sk/d/UAhW-tAUDi8qj"><img src="img/download.gif" alt="download it..." border="0" class="post_img"></a>
+			</div>
+			<div class="postbox col-3 dash">
+				<a target="_blank" href="https://www.mechwarrior3.org/" title="посетить">Прямая ссылка</a>  
+			</div>
+		</div>
+<!-- строка со ссылкой -->
+<!-- строка со ссылкой -->
+		<div class="row ahov">
+			<div class="postbox col-1 dash">
+			<a href="#" rel="zoom"><img src="img/camera_1.gif" alt="просмотр" width="20" height="17" border="0" class="post_img"></a>
+			</div>
+			<div class="postbox col-7 dash">
+				 MW4 <b>Uziel</b> =MechWarrior= 
+			</div>
+			<div class="postbox col-1 dash">
+				<a href="https://yadi.sk/d/_H9cms2ODi8y7"><img src="img/download.gif" alt="download it..." border="0" class="post_img"></a>
+			</div>
+			<div class="postbox col-3 dash">
+				<a target="_blank" href="https://www.mechwarrior3.org/" title="посетить">Прямая ссылка</a>  
+			</div>
+		</div>
+<!-- строка со ссылкой -->
+<!-- строка со ссылкой -->
+		<div class="row ahov">
+			<div class="postbox col-1 dash">
+			<a href="#" rel="zoom"><img src="img/camera_1.gif" alt="просмотр" width="20" height="17" border="0" class="post_img"></a>
+			</div>
+			<div class="postbox col-7 dash">
+				 MW4 <b>Victor</b> =MechWarrior= 
+			</div>
+			<div class="postbox col-1 dash">
+				<a href="https://yadi.sk/d/1LYtmwFHDi9As"><img src="img/download.gif" alt="download it..." border="0" class="post_img"></a>
+			</div>
+			<div class="postbox col-3 dash">
+				<a target="_blank" href="https://www.mechwarrior3.org/" title="посетить">Прямая ссылка</a>  
+			</div>
+		</div>
+<!-- строка со ссылкой -->
+<!-- строка со ссылкой -->
+		<div class="row ahov">
+			<div class="postbox col-1 dash">
+			<a href="#" rel="zoom"><img src="img/camera_1.gif" alt="просмотр" width="20" height="17" border="0" class="post_img"></a>
+			</div>
+			<div class="postbox col-7 dash">
+				 MW4 <b>Vulture</b> =MechWarrior= 
+			</div>
+			<div class="postbox col-1 dash">
+				<a href="https://yadi.sk/d/K0TPO5uzDi9GX"><img src="img/download.gif" alt="download it..." border="0" class="post_img"></a>
+			</div>
+			<div class="postbox col-3 dash">
+				<a target="_blank" href="https://www.mechwarrior3.org/" title="посетить">Прямая ссылка</a>  
+			</div>
+		</div>
+<!-- строка со ссылкой -->
+<!-- строка со ссылкой -->
+		<div class="row ahov">
+			<div class="postbox col-1 dash">
+			<a href="#" rel="zoom"><img src="img/camera_1.gif" alt="просмотр" width="20" height="17" border="0" class="post_img"></a>
+			</div>
+			<div class="postbox col-7 dash">
+				 MW4 <b>Zeus</b> =MechWarrior= 
+			</div>
+			<div class="postbox col-1 dash">
+				<a href="https://yadi.sk/d/GGXnOI_FDi9af"><img src="img/download.gif" alt="download it..." border="0" class="post_img"></a>
+			</div>
+			<div class="postbox col-3 dash">
+				<a target="_blank" href="https://www.mechwarrior3.org/" title="посетить">Прямая ссылка</a>  
+			</div>
+		</div>
+<!-- строка со ссылкой -->
+       <!-- строка со ссылкой -->
+		<div class="row ahov">
+			<div class="postbox col-1 dash">
+			<a href="#" rel="zoom"><img src="img/camera_1.gif" alt="просмотр" width="20" height="17" border="0" class="post_img"></a>
+			</div>
+			<div class="postbox col-7 dash">
+				 MW4 <b>HeavyTruck</b> =MechWarrior= 
+			</div>
+			<div class="postbox col-1 dash">
+				<a href="https://yadi.sk/d/JW05c3pLDi9n5"><img src="img/download.gif" alt="download it..." border="0" class="post_img"></a>
+			</div>
+			<div class="postbox col-3 dash">
+				<a target="_blank" href="https://www.mechwarrior3.org/" title="посетить">Прямая ссылка</a>  
+			</div>
+		</div>
+<!-- строка со ссылкой -->
+       
+ <!-- строка разделитель -->
+		<div class="postbox col-12 dash"></div>
+<!-- строка разделитель -->
+       
+<!-- строка со ссылкой -->
+		<div class="row ahov">
+			<div class="postbox col-1 dash">
+			<a href="#" rel="zoom"><img src="img/camera_1.gif" alt="просмотр" width="20" height="17" border="0" class="post_img"></a>
+			</div>
+			<div class="postbox col-7 dash">
+				 MW3 <b>Annihilator</b> =MechWarrior= 
+			</div>
+			<div class="postbox col-1 dash">
+				<a href="https://yadi.sk/d/49SHCUOrDiB8K"><img src="img/download.gif" alt="download it..." border="0" class="post_img"></a>
+			</div>
+			<div class="postbox col-3 dash">
+				<a target="_blank" href="https://www.mechwarrior3.org/" title="посетить">Прямая ссылка</a>  
+			</div>
+		</div>
+<!-- строка со ссылкой -->
+<!-- строка со ссылкой -->
+		<div class="row ahov">
+			<div class="postbox col-1 dash">
+			<a href="#" rel="zoom"><img src="img/camera_1.gif" alt="просмотр" width="20" height="17" border="0" class="post_img"></a>
+			</div>
+			<div class="postbox col-7 dash">
+				 MW3 <b>Avatar</b> =MechWarrior= 
+			</div>
+			<div class="postbox col-1 dash">
+				<a href="https://yadi.sk/d/OnrVWn5QDiBJM"><img src="img/download.gif" alt="download it..." border="0" class="post_img"></a>
+			</div>
+			<div class="postbox col-3 dash">
+				<a target="_blank" href="https://www.mechwarrior3.org/" title="посетить">Прямая ссылка</a>  
+			</div>
+		</div>
+<!-- строка со ссылкой -->
+<!-- строка со ссылкой -->
+		<div class="row ahov">
+			<div class="postbox col-1 dash">
+			<a href="#" rel="zoom"><img src="img/camera_1.gif" alt="просмотр" width="20" height="17" border="0" class="post_img"></a>
+			</div>
+			<div class="postbox col-7 dash">
+				 MW3 <b>Awesome</b> =MechWarrior= 
+			</div>
+			<div class="postbox col-1 dash">
+				<a href="https://yadi.sk/d/_9Mrs8dIDiBPQ"><img src="img/download.gif" alt="download it..." border="0" class="post_img"></a>
+			</div>
+			<div class="postbox col-3 dash">
+				<a target="_blank" href="https://www.mechwarrior3.org/" title="посетить">Прямая ссылка</a>  
+			</div>
+		</div>
+<!-- строка со ссылкой -->
+<!-- строка со ссылкой -->
+		<div class="row ahov">
+			<div class="postbox col-1 dash">
+			<a href="#" rel="zoom"><img src="img/camera_1.gif" alt="просмотр" width="20" height="17" border="0" class="post_img"></a>
+			</div>
+			<div class="postbox col-7 dash">
+				 MW3 <b>Bushwacker</b> =MechWarrior= 
+			</div>
+			<div class="postbox col-1 dash">
+				<a href="#"><img src="img/download.gif" alt="download it..." border="0" class="post_img"></a>
+			</div>
+			<div class="postbox col-3 dash">
+				<a target="_blank" href="https://www.mechwarrior3.org/" title="посетить">Прямая ссылка</a>  
+			</div>
+		</div>
+<!-- строка со ссылкой -->
+<!-- строка со ссылкой -->
+		<div class="row ahov dash">
+			<div class="postbox col-1">
+			<a href="#" rel="zoom"><img src="img/camera_1.gif" alt="просмотр" width="20" height="17" border="0" class="post_img"></a>
+			</div>
+			<div class="postbox col-7">
+				 MW3 <b>Blackhawk</b> =MechWarrior= 
+			</div>
+			<div class="postbox col-1">
+				<a href="https://yadi.sk/d/SpFN8bsWDiFi5"><img src="img/download.gif" alt="download it..." border="0" class="post_img"></a>
+			</div>
+			<div class="postbox col-3">
+				<a target="_blank" href="https://www.mechwarrior3.org/" title="посетить">Прямая ссылка</a>  
+			</div>
+		</div>
+<!-- строка со ссылкой -->
+<!-- строка со ссылкой -->
+		<div class="row ahov dash">
+			<div class="postbox col-1">
+			<a href="#" rel="zoom"><img src="img/camera_1.gif" alt="просмотр" width="20" height="17" border="0" class="post_img"></a>
+			</div>
+			<div class="postbox col-7">
+				 MW3 <b>MadCat</b> =MechWarrior= 
+			</div>
+			<div class="postbox col-1">
+				<a href="https://yadi.sk/d/ZjvvVpo_DiFsC"><img src="img/download.gif" alt="download it..." border="0" class="post_img"></a>
+			</div>
+			<div class="postbox col-3">
+				<a target="_blank" href="https://www.mechwarrior3.org/" title="посетить">Страница автора</a>  
+			</div>
+		</div>
+<!-- строка со ссылкой -->
+<!-- строка со ссылкой -->
+		<div class="row ahov dash">
+			<div class="postbox col-1">
+			<a href="#" rel="zoom"><img src="img/camera_1.gif" alt="просмотр" width="20" height="17" border="0" class="post_img"></a>
+			</div>
+			<div class="postbox col-7">
+				 MW3 <b>Orion</b> =MechWarrior= 
+			</div>
+			<div class="postbox col-1">
+				<a href="https://yadi.sk/d/Wcv2nf5JDiFwW"><img src="img/download.gif" alt="download it..." border="0" class="post_img"></a>
+			</div>
+			<div class="postbox col-3">
+				<a target="_blank" href="https://www.mechwarrior3.org/" title="посетить">Страница автора</a>  
+			</div>
+		</div>
+<!-- строка со ссылкой -->
+<!-- строка со ссылкой -->
+		<div class="row ahov dash">
+			<div class="postbox col-1">
+			<a href="#" rel="zoom"><img src="img/camera_1.gif" alt="просмотр" width="20" height="17" border="0" class="post_img"></a>
+			</div>
+			<div class="postbox col-7">
+				 MW3 <b>Owens</b> =MechWarrior= 
+			</div>
+			<div class="postbox col-1">
+				<a href="https://yadi.sk/d/XtjCkahQDiG8G"><img src="img/download.gif" alt="download it..." border="0" class="post_img"></a>
+			</div>
+			<div class="postbox col-3">
+				<a target="_blank" href="https://www.mechwarrior3.org/" title="посетить">Страница автора</a>  
+			</div>
+		</div>
+<!-- строка со ссылкой -->
+<!-- строка со ссылкой -->
+		<div class="row ahov dash">
+			<div class="postbox col-1">
+			<a href="#" rel="zoom"><img src="img/camera_1.gif" alt="просмотр" width="20" height="17" border="0" class="post_img"></a>
+			</div>
+			<div class="postbox col-7">
+				 MW3 <b>ShadowCat</b> =MechWarrior= 
+			</div>
+			<div class="postbox col-1">
+				<a href="https://yadi.sk/d/VOgyK4JsDiGCk"><img src="img/download.gif" alt="download it..." border="0" class="post_img"></a>
+			</div>
+			<div class="postbox col-3">
+				<a target="_blank" href="https://www.mechwarrior3.org/" title="посетить">Страница автора</a>  
+			</div>
+		</div>
+<!-- строка со ссылкой -->
+<!-- строка со ссылкой -->
+		<div class="row ahov dash">
+			<div class="postbox col-1">
+			<a href="#" rel="zoom"><img src="img/camera_1.gif" alt="просмотр" width="20" height="17" border="0" class="post_img"></a>
+			</div>
+			<div class="postbox col-7">
+				 MW3 <b>Sunder</b> =MechWarrior= 
+			</div>
+			<div class="postbox col-1">
+				<a href="https://yadi.sk/d/-ySkFRXEDiGJC"><img src="img/download.gif" alt="download it..." border="0" class="post_img"></a>
+			</div>
+			<div class="postbox col-3">
+				<a target="_blank" href="https://www.mechwarrior3.org/" title="посетить">Страница автора</a>  
+			</div>
+		</div>
+<!-- строка со ссылкой -->
+<!-- строка со ссылкой -->
+		<div class="row ahov dash">
+			<div class="postbox col-1">
+			<a href="#" rel="zoom"><img src="img/camera_1.gif" alt="просмотр" width="20" height="17" border="0" class="post_img"></a>
+			</div>
+			<div class="postbox col-7">
+				 MW3 <b>Thor</b> =MechWarrior= 
+			</div>
+			<div class="postbox col-1">
+				<a href="#"><img src="img/download.gif" alt="download it..." border="0" class="post_img"></a>
+			</div>
+			<div class="postbox col-3">
+				<a target="_blank" href="https://www.mechwarrior3.org/" title="посетить">Страница автора</a>  
+			</div>
+		</div>
+<!-- строка со ссылкой -->
+<!-- строка со ссылкой -->
+		<div class="row ahov dash">
+			<div class="postbox col-1">
+			<a href="#" rel="zoom"><img src="img/camera_1.gif" alt="просмотр" width="20" height="17" border="0" class="post_img"></a>
+			</div>
+			<div class="postbox col-7">
+				 MW3 <b>Vulture</b> =MechWarrior= 
+			</div>
+			<div class="postbox col-1">
+				<a href="#"><img src="img/download.gif" alt="download it..." border="0" class="post_img"></a>
+			</div>
+			<div class="postbox col-3">
+				<a target="_blank" href="https://www.mechwarrior3.org/" title="посетить">Страница автора</a>  
+			</div>
+		</div>
+<!-- строка со ссылкой -->
+<!-- строка со ссылкой -->
+		<div class="row ahov dash">
+			<div class="postbox col-1">
+			<a href="#" rel="zoom"><img src="img/camera_1.gif" alt="просмотр" width="20" height="17" border="0" class="post_img"></a>
+			</div>
+			<div class="postbox col-7">
+				 MW3 <b>Elemental</b> =MechWarrior= 
+			</div>
+			<div class="postbox col-1">
+				<a href="https://yadi.sk/d/T-s626mzDiJUc"><img src="img/download.gif" alt="download it..." border="0" class="post_img"></a>
+			</div>
+			<div class="postbox col-3">
+				<a target="_blank" href="https://www.mechwarrior3.org/" title="посетить">Страница автора</a>  
+			</div>
+		</div>
+<!-- строка со ссылкой -->
+<!-- строка со ссылкой -->
+		<div class="row ahov dash">
+			<div class="postbox col-1">
+			<a href="#" rel="zoom"><img src="img/camera_1.gif" alt="просмотр" width="20" height="17" border="0" class="post_img"></a>
+			</div>
+			<div class="postbox col-7">
+				 MW3 <b>Masakari</b> =MechWarrior= 
+			</div>
+			<div class="postbox col-1">
+				<a href="https://yadi.sk/d/T-s626mzDiJUc"><img src="img/download.gif" alt="download it..." border="0" class="post_img"></a>
+			</div>
+			<div class="postbox col-3">
+				<a target="_blank" href="https://www.mechwarrior3.org/" title="посетить">Страница автора</a>  
+			</div>
+		</div>
+<!-- строка со ссылкой -->
+<!-- строка со ссылкой -->
+		<div class="row ahov dash">
+			<div class="postbox col-1">
+			<a href="#" rel="zoom"><img src="img/camera_1.gif" alt="просмотр" width="20" height="17" border="0" class="post_img"></a>
+			</div>
+			<div class="postbox col-7">
+				 MW3 <b>Ryoken</b> =MechWarrior= 
+			</div>
+			<div class="postbox col-1">
+				<a href="https://yadi.sk/d/T-s626mzDiJUc"><img src="img/download.gif" alt="download it..." border="0" class="post_img"></a>
+			</div>
+			<div class="postbox col-3">
+				<a target="_blank" href="https://www.mechwarrior3.org/" title="посетить">Страница автора</a>  
+			</div>
+		</div>
+<!-- строка со ссылкой -->
+<!-- строка со ссылкой -->
+		<div class="row ahov dash">
+			<div class="postbox col-1">
+			<a href="#" rel="zoom"><img src="img/camera_1.gif" alt="просмотр" width="20" height="17" border="0" class="post_img"></a>
+			</div>
+			<div class="postbox col-7">
+				 MW3 <b>Всяка всячина</b> =MechWarrior= 
+			</div>
+			<div class="postbox col-1">
+				<a href="https://yadi.sk/d/1PD1B8O5DiJte"><img src="img/download.gif" alt="download it..." border="0" class="post_img"></a>
+			</div>
+			<div class="postbox col-3">
+				<a target="_blank" href="https://www.mechwarrior3.org/" title="посетить">Страница автора</a>  
+			</div>
+		</div>
+<!-- строка со ссылкой -->
+       
+<!-- строка разделитель -->
+		<div class="postbox col-12 dash"></div>
+<!-- строка разделитель -->       
+       
+<!-- строка со ссылкой -->
+		<div class="row ahov dash">
+			<div class="postbox col-1">
+			<a href="#" rel="zoom"><img src="img/camera_1.gif" alt="просмотр" width="20" height="17" border="0" class="post_img"></a>
+			</div>
+			<div class="postbox col-7">
+				 MC2 <b>Anubis</b> =MechCommander= 
+			</div>
+			<div class="postbox col-1">
+				<a href="https://yadi.sk/d/HPwO3JiaDjUFJ"><img src="img/download.gif" alt="download it..." border="0" class="post_img"></a>
+			</div>
+			<div class="postbox col-3">
+				<a target="_blank" href="https://www.mechwarrior3.org/" title="посетить">Прямая ссылка</a>  
+			</div>
+		</div>
+<!-- строка со ссылкой -->
+<!-- строка со ссылкой -->
+		<div class="row ahov dash">
+			<div class="postbox col-1">
+			<a href="#" rel="zoom"><img src="img/camera_1.gif" alt="просмотр" width="20" height="17" border="0" class="post_img"></a>
+			</div>
+			<div class="postbox col-7">
+				 MC2 <b>Atlas</b> =MechCommander= 
+			</div>
+			<div class="postbox col-1">
+				<a href="https://yadi.sk/d/WUaWwdQ5DjUQo"><img src="img/download.gif" alt="download it..." border="0" class="post_img"></a>
+			</div>
+			<div class="postbox col-3">
+				<a target="_blank" href="https://www.mechwarrior3.org/" title="посетить">Прямая ссылка</a>  
+			</div>
+		</div>
+<!-- строка со ссылкой -->
+<!-- строка со ссылкой -->
+		<div class="row ahov dash">
+			<div class="postbox col-1">
+			<a href="#" rel="zoom"><img src="img/camera_1.gif" alt="просмотр" width="20" height="17" border="0" class="post_img"></a>
+			</div>
+			<div class="postbox col-7">
+				 MC2 <b>BloodAsp</b> =MechCommander= 
+			</div>
+			<div class="postbox col-1">
+				<a href="https://yadi.sk/d/bgg2-YDJDjUZr"><img src="img/download.gif" alt="download it..." border="0" class="post_img"></a>
+			</div>
+			<div class="postbox col-3">
+				<a target="_blank" href="https://www.mechwarrior3.org/" title="посетить">Прямая ссылка</a>  
+			</div>
+		</div>
+<!-- строка со ссылкой -->
+<!-- строка со ссылкой -->
+		<div class="row ahov dash">
+			<div class="postbox col-1">
+			<a href="#" rel="zoom"><img src="img/camera_1.gif" alt="просмотр" width="20" height="17" border="0" class="post_img"></a>
+			</div>
+			<div class="postbox col-7">
+				 MC2 <b>Bushwacker</b> =MechCommander= 
+			</div>
+			<div class="postbox col-1">
+				<a href="https://yadi.sk/d/foSuKEmJDjUmg"><img src="img/download.gif" alt="download it..." border="0" class="post_img"></a>
+			</div>
+			<div class="postbox col-3">
+				<a target="_blank" href="https://www.mechwarrior3.org/" title="посетить">Прямая ссылка</a>  
+			</div>
+		</div>
+<!-- строка со ссылкой -->
+<!-- строка со ссылкой -->
+		<div class="row ahov dash">
+			<div class="postbox col-1">
+			<a href="#" rel="zoom"><img src="img/camera_1.gif" alt="просмотр" width="20" height="17" border="0" class="post_img"></a>
+			</div>
+			<div class="postbox col-7">
+				 MC2 <b>Catapult</b> =MechCommander= 
+			</div>
+			<div class="postbox col-1">
+				<a href="https://yadi.sk/d/twwHfPA2DjUtT"><img src="img/download.gif" alt="download it..." border="0" class="post_img"></a>
+			</div>
+			<div class="postbox col-3">
+				<a target="_blank" href="https://www.mechwarrior3.org/" title="посетить">Прямая ссылка</a>  
+			</div>
+		</div>
+<!-- строка со ссылкой -->
+<!-- строка со ссылкой -->
+		<div class="row ahov dash">
+			<div class="postbox col-1">
+			<a href="#" rel="zoom"><img src="img/camera_1.gif" alt="просмотр" width="20" height="17" border="0" class="post_img"></a>
+			</div>
+			<div class="postbox col-7">
+				 MC2 <b>Cougar</b> =MechCommander= 
+			</div>
+			<div class="postbox col-1">
+				<a href="https://yadi.sk/d/bvTxF1MtDjUz3"><img src="img/download.gif" alt="download it..." border="0" class="post_img"></a>
+			</div>
+			<div class="postbox col-3">
+				<a target="_blank" href="https://www.mechwarrior3.org/" title="посетить">Прямая ссылка</a>  
+			</div>
+		</div>
+<!-- строка со ссылкой -->
+<!-- строка со ссылкой -->
+		<div class="row ahov dash">
+			<div class="postbox col-1">
+			<a href="#" rel="zoom"><img src="img/camera_1.gif" alt="просмотр" width="20" height="17" border="0" class="post_img"></a>
+			</div>
+			<div class="postbox col-7">
+				 MC2 <b>Cyclops</b> =MechCommander= 
+			</div>
+			<div class="postbox col-1">
+				<a href="https://yadi.sk/d/KK1_2pVFDjV8x"><img src="img/download.gif" alt="download it..." border="0" class="post_img"></a>
+			</div>
+			<div class="postbox col-3">
+				<a target="_blank" href="https://www.mechwarrior3.org/" title="посетить">Прямая ссылка</a>  
+			</div>
+		</div>
+<!-- строка со ссылкой -->
+<!-- строка со ссылкой -->
+		<div class="row ahov dash">
+			<div class="postbox col-1">
+			<a href="#" rel="zoom"><img src="img/camera_1.gif" alt="просмотр" width="20" height="17" border="0" class="post_img"></a>
+			</div>
+			<div class="postbox col-7">
+				 MC2 <b>Enfield</b> =MechCommander= 
+			</div>
+			<div class="postbox col-1">
+				<a href="https://yadi.sk/d/BOq6-2dTDjVGW"><img src="img/download.gif" alt="download it..." border="0" class="post_img"></a>
+			</div>
+			<div class="postbox col-3">
+				<a target="_blank" href="https://www.mechwarrior3.org/" title="посетить">Прямая ссылка</a>  
+			</div>
+		</div>
+<!-- строка со ссылкой -->
+<!-- строка со ссылкой -->
+		<div class="row ahov dash">
+			<div class="postbox col-1">
+			<a href="#" rel="zoom"><img src="img/camera_1.gif" alt="просмотр" width="20" height="17" border="0" class="post_img"></a>
+			</div>
+			<div class="postbox col-7">
+				 MC2 <b>FireAnt</b> =MechCommander= 
+			</div>
+			<div class="postbox col-1">
+				<a href="https://yadi.sk/d/TAWz8nXPDjVSk"><img src="img/download.gif" alt="download it..." border="0" class="post_img"></a>
+			</div>
+			<div class="postbox col-3">
+				<a target="_blank" href="https://www.mechwarrior3.org/" title="посетить">Прямая ссылка</a>  
+			</div>
+		</div>
+<!-- строка со ссылкой -->
+<!-- строка со ссылкой -->
+		<div class="row ahov dash">
+			<div class="postbox col-1">
+			<a href="#" rel="zoom"><img src="img/camera_1.gif" alt="просмотр" width="20" height="17" border="0" class="post_img"></a>
+			</div>
+			<div class="postbox col-7">
+				 MC2 <b>Highlander</b> =MechCommander= 
+			</div>
+			<div class="postbox col-1">
+				<a href="https://yadi.sk/d/XLoXsTwbDjVgg"><img src="img/download.gif" alt="download it..." border="0" class="post_img"></a>
+			</div>
+			<div class="postbox col-3">
+				<a target="_blank" href="https://www.mechwarrior3.org/" title="посетить">Прямая ссылка</a>  
+			</div>
+		</div>
+<!-- строка со ссылкой -->
+<!-- строка со ссылкой -->
+		<div class="row ahov dash">
+			<div class="postbox col-1">
+			<a href="#" rel="zoom"><img src="img/camera_1.gif" alt="просмотр" width="20" height="17" border="0" class="post_img"></a>
+			</div>
+			<div class="postbox col-7">
+				 MC2 <b>Hunchback Hardcase</b> =MechCommander= 
+			</div>
+			<div class="postbox col-1">
+				<a href="https://yadi.sk/d/ifV-4KwwDjVyZ"><img src="img/download.gif" alt="download it..." border="0" class="post_img"></a>
+			</div>
+			<div class="postbox col-3">
+				<a target="_blank" href="https://www.mechwarrior3.org/" title="посетить">Прямая ссылка</a>  
+			</div>
+		</div>
+<!-- строка со ссылкой -->
+<!-- строка со ссылкой -->
+		<div class="row ahov dash">
+			<div class="postbox col-1">
+			<a href="#" rel="zoom"><img src="img/camera_1.gif" alt="просмотр" width="20" height="17" border="0" class="post_img"></a>
+			</div>
+			<div class="postbox col-7">
+				 MC2 <b>Jagermech</b> =MechCommander= 
+			</div>
+			<div class="postbox col-1">
+				<a href="https://yadi.sk/d/epyV858CDjWAX"><img src="img/download.gif" alt="download it..." border="0" class="post_img"></a>
+			</div>
+			<div class="postbox col-3">
+				<a target="_blank" href="https://www.mechwarrior3.org/" title="посетить">Прямая ссылка</a>  
+			</div>
+		</div>
+<!-- строка со ссылкой -->
+<!-- строка со ссылкой -->
+		<div class="row ahov dash">
+			<div class="postbox col-1">
+			<a href="#" rel="zoom"><img src="img/camera_1.gif" alt="просмотр" width="20" height="17" border="0" class="post_img"></a>
+			</div>
+			<div class="postbox col-7">
+				 MC2 <b>Lao-Hu</b> =MechCommander= 
+			</div>
+			<div class="postbox col-1">
+				<a href="https://yadi.sk/d/gtEEIkteDjWFS"><img src="img/download.gif" alt="download it..." border="0" class="post_img"></a>
+			</div>
+			<div class="postbox col-3">
+				<a target="_blank" href="https://www.mechwarrior3.org/" title="посетить">Прямая ссылка</a>  
+			</div>
+		</div>
+<!-- строка со ссылкой -->
+<!-- строка со ссылкой -->
+		<div class="row ahov dash">
+			<div class="postbox col-1">
+			<a href="#" rel="zoom"><img src="img/camera_1.gif" alt="просмотр" width="20" height="17" border="0" class="post_img"></a>
+			</div>
+			<div class="postbox col-7">
+				 MC2 <b>MadDog</b> =MechCommander= 
+			</div>
+			<div class="postbox col-1">
+				<a href="https://yadi.sk/d/8VWXSW5GDjWQh"><img src="img/download.gif" alt="download it..." border="0" class="post_img"></a>
+			</div>
+			<div class="postbox col-3">
+				<a target="_blank" href="https://www.mechwarrior3.org/" title="посетить">Прямая ссылка</a>  
+			</div>
+		</div>
+<!-- строка со ссылкой -->
+<!-- строка со ссылкой -->
+		<div class="row ahov dash">
+			<div class="postbox col-1">
+			<a href="#" rel="zoom"><img src="img/camera_1.gif" alt="просмотр" width="20" height="17" border="0" class="post_img"></a>
+			</div>
+			<div class="postbox col-7">
+				 MC2 <b>Men-Shen</b> =MechCommander= 
+			</div>
+			<div class="postbox col-1">
+				<a href="https://yadi.sk/d/pm4liHxwDjWht"><img src="img/download.gif" alt="download it..." border="0" class="post_img"></a>
+			</div>
+			<div class="postbox col-3">
+				<a target="_blank" href="https://www.mechwarrior3.org/" title="посетить">Прямая ссылка</a>  
+			</div>
+		</div>
+<!-- строка со ссылкой -->
+<!-- строка со ссылкой -->
+		<div class="row ahov dash">
+			<div class="postbox col-1">
+			<a href="#" rel="zoom"><img src="img/camera_1.gif" alt="просмотр" width="20" height="17" border="0" class="post_img"></a>
+			</div>
+			<div class="postbox col-7">
+				 MC2 <b>Raven</b> =MechCommander= 
+			</div>
+			<div class="postbox col-1">
+				<a href="https://yadi.sk/d/x7hcmhrXDjWth"><img src="img/download.gif" alt="download it..." border="0" class="post_img"></a>
+			</div>
+			<div class="postbox col-3">
+				<a target="_blank" href="https://www.mechwarrior3.org/" title="посетить">Прямая ссылка</a>  
+			</div>
+		</div>
+<!-- строка со ссылкой -->
+<!-- строка со ссылкой -->
+		<div class="row ahov dash">
+			<div class="postbox col-1">
+			<a href="#" rel="zoom"><img src="img/camera_1.gif" alt="просмотр" width="20" height="17" border="0" class="post_img"></a>
+			</div>
+			<div class="postbox col-7">
+				 MC2 <b>Razorback</b> =MechCommander= 
+			</div>
+			<div class="postbox col-1">
+				<a href="https://yadi.sk/d/__1AlIcWDjX2n"><img src="img/download.gif" alt="download it..." border="0" class="post_img"></a>
+			</div>
+			<div class="postbox col-3">
+				<a target="_blank" href="https://www.mechwarrior3.org/" title="посетить">Прямая ссылка</a>  
+			</div>
+		</div>
+<!-- строка со ссылкой -->
+<!-- строка со ссылкой -->
+		<div class="row ahov dash">
+			<div class="postbox col-1">
+			<a href="#" rel="zoom"><img src="img/camera_1.gif" alt="просмотр" width="20" height="17" border="0" class="post_img"></a>
+			</div>
+			<div class="postbox col-7">
+				 MC2 <b>Ryoken</b> =MechCommander= 
+			</div>
+			<div class="postbox col-1">
+				<a href="https://yadi.sk/d/HvIEAX0sDjX9q"><img src="img/download.gif" alt="download it..." border="0" class="post_img"></a>
+			</div>
+			<div class="postbox col-3">
+				<a target="_blank" href="https://www.mechwarrior3.org/" title="посетить">Прямая ссылка</a>  
+			</div>
+		</div>
+<!-- строка со ссылкой -->
+<!-- строка со ссылкой -->
+		<div class="row ahov dash">
+			<div class="postbox col-1">
+			<a href="#" rel="zoom"><img src="img/camera_1.gif" alt="просмотр" width="20" height="17" border="0" class="post_img"></a>
+			</div>
+			<div class="postbox col-7">
+				 MC2 <b>Sha-Yu</b> =MechCommander= 
+			</div>
+			<div class="postbox col-1">
+				<a href="https://yadi.sk/d/N9SjGBDJDjXJt"><img src="img/download.gif" alt="download it..." border="0" class="post_img"></a>
+			</div>
+			<div class="postbox col-3">
+				<a target="_blank" href="https://www.mechwarrior3.org/" title="посетить">Прямая ссылка</a>  
+			</div>
+		</div>
+<!-- строка со ссылкой -->
+<!-- строка со ссылкой -->
+		<div class="row ahov dash">
+			<div class="postbox col-1">
+			<a href="#" rel="zoom"><img src="img/camera_1.gif" alt="просмотр" width="20" height="17" border="0" class="post_img"></a>
+			</div>
+			<div class="postbox col-7">
+				 MC2 <b>Shadowcat</b> =MechCommander= 
+			</div>
+			<div class="postbox col-1">
+				<a href="https://yadi.sk/d/LTcuQ3zUDjZcr"><img src="img/download.gif" alt="download it..." border="0" class="post_img"></a>
+			</div>
+			<div class="postbox col-3">
+				<a target="_blank" href="https://www.mechwarrior3.org/" title="посетить">Прямая ссылка</a>  
+			</div>
+		</div>
+<!-- строка со ссылкой -->
+<!-- строка со ссылкой -->
+		<div class="row ahov dash">
+			<div class="postbox col-1">
+			<a href="#" rel="zoom"><img src="img/camera_1.gif" alt="просмотр" width="20" height="17" border="0" class="post_img"></a>
+			</div>
+			<div class="postbox col-7">
+				 MC2 <b>Shootist</b> =MechCommander= 
+			</div>
+			<div class="postbox col-1">
+				<a href="https://yadi.sk/d/TpwEAXiADjZjK"><img src="img/download.gif" alt="download it..." border="0" class="post_img"></a>
+			</div>
+			<div class="postbox col-3">
+				<a target="_blank" href="https://www.mechwarrior3.org/" title="посетить">Прямая ссылка</a>  
+			</div>
+		</div>
+<!-- строка со ссылкой -->
+<!-- строка со ссылкой -->
+		<div class="row ahov dash">
+			<div class="postbox col-1">
+			<a href="#" rel="zoom"><img src="img/camera_1.gif" alt="просмотр" width="20" height="17" border="0" class="post_img"></a>
+			</div>
+			<div class="postbox col-7">
+				 MC2 <b>StarSlayer</b> =MechCommander= 
+			</div>
+			<div class="postbox col-1">
+				<a href="https://yadi.sk/d/zNexKq97DjZqu"><img src="img/download.gif" alt="download it..." border="0" class="post_img"></a>
+			</div>
+			<div class="postbox col-3">
+				<a target="_blank" href="https://www.mechwarrior3.org/" title="посетить">Прямая ссылка</a>  
+			</div>
+		</div>
+<!-- строка со ссылкой -->
+<!-- строка со ссылкой -->
+		<div class="row ahov dash">
+			<div class="postbox col-1">
+			<a href="#" rel="zoom"><img src="img/camera_1.gif" alt="просмотр" width="20" height="17" border="0" class="post_img"></a>
+			</div>
+			<div class="postbox col-7">
+				 MC2 <b>Summoner</b> =MechCommander= 
+			</div>
+			<div class="postbox col-1">
+				<a href="https://yadi.sk/d/Wm_dQFNvDjZw7"><img src="img/download.gif" alt="download it..." border="0" class="post_img"></a>
+			</div>
+			<div class="postbox col-3">
+				<a target="_blank" href="https://www.mechwarrior3.org/" title="посетить">Прямая ссылка</a>  
+			</div>
+		</div>
+<!-- строка со ссылкой -->
+<!-- строка со ссылкой -->
+		<div class="row ahov dash">
+			<div class="postbox col-1">
+			<a href="#" rel="zoom"><img src="img/camera_1.gif" alt="просмотр" width="20" height="17" border="0" class="post_img"></a>
+			</div>
+			<div class="postbox col-7">
+				 MC2 <b>Timberwolf</b> =MechCommander= 
+			</div>
+			<div class="postbox col-1">
+				<a href="https://yadi.sk/d/vZRzc70lDja3C"><img src="img/download.gif" alt="download it..." border="0" class="post_img"></a>
+			</div>
+			<div class="postbox col-3">
+				<a target="_blank" href="https://www.mechwarrior3.org/" title="посетить">Прямая ссылка</a>  
+			</div>
+		</div>
+<!-- строка со ссылкой -->
+<!-- строка со ссылкой -->
+		<div class="row ahov dash">
+			<div class="postbox col-1">
+			<a href="#" rel="zoom"><img src="img/camera_1.gif" alt="просмотр" width="20" height="17" border="0" class="post_img"></a>
+			</div>
+			<div class="postbox col-7">
+				 MC2 <b>Urbanmech</b> =MechCommander= 
+			</div>
+			<div class="postbox col-1">
+				<a href="https://yadi.sk/d/Mw_8MGn4Dja96"><img src="img/download.gif" alt="download it..." border="0" class="post_img"></a>
+			</div>
+			<div class="postbox col-3">
+				<a target="_blank" href="https://www.mechwarrior3.org/" title="посетить">Прямая ссылка</a>  
+			</div>
+		</div>
+<!-- строка со ссылкой -->
+<!-- строка со ссылкой -->
+		<div class="row ahov dash">
+			<div class="postbox col-1">
+			<a href="#" rel="zoom"><img src="img/camera_1.gif" alt="просмотр" width="20" height="17" border="0" class="post_img"></a>
+			</div>
+			<div class="postbox col-7">
+				 MC2 <b>Wolfhound</b> =MechCommander= 
+			</div>
+			<div class="postbox col-1">
+				<a href="https://yadi.sk/d/Z9gxkybJDjaDx"><img src="img/download.gif" alt="download it..." border="0" class="post_img"></a>
+			</div>
+			<div class="postbox col-3">
+				<a target="_blank" href="https://www.mechwarrior3.org/" title="посетить">Прямая ссылка</a>  
+			</div>
+		</div>
+<!-- строка со ссылкой -->
+<!-- строка со ссылкой -->
+		<div class="row ahov dash">
+			<div class="postbox col-1">
+			<a href="#" rel="zoom"><img src="img/camera_1.gif" alt="просмотр" width="20" height="17" border="0" class="post_img"></a>
+			</div>
+			<div class="postbox col-7">
+				 MC2 <b>Zeus</b> =MechCommander= 
+			</div>
+			<div class="postbox col-1">
+				<a href="https://yadi.sk/d/hL-dxJLDDjaJT"><img src="img/download.gif" alt="download it..." border="0" class="post_img"></a>
+			</div>
+			<div class="postbox col-3">
+				<a target="_blank" href="https://www.mechwarrior3.org/" title="посетить">Прямая ссылка</a>  
+			</div>
+		</div>
+<!-- строка со ссылкой -->
+<!-- строка со ссылкой -->
+		<div class="row ahov dash">
+			<div class="postbox col-1">
+			<a href="#" rel="zoom"><img src="img/camera_1.gif" alt="просмотр" width="20" height="17" border="0" class="post_img"></a>
+			</div>
+			<div class="postbox col-7">
+				 MC2 <b>Skinpack</b> =MechCommander= 
+			</div>
+			<div class="postbox col-1">
+				<a href="https://yadi.sk/d/-vJIcrD_Djama"><img src="img/download.gif" alt="download it..." border="0" class="post_img"></a>
+			</div>
+			<div class="postbox col-3">
+				<a target="_blank" href="https://www.mechwarrior3.org/" title="посетить">Прямая ссылка</a>  
+			</div>
+		</div>
+<!-- строка со ссылкой -->
+<!-- строка со ссылкой -->
+		<div class="row ahov dash">
+			<div class="postbox col-1">
+			<a href="#" rel="zoom"><img src="img/camera_1.gif" alt="просмотр" width="20" height="17" border="0" class="post_img"></a>
+			</div>
+			<div class="postbox col-7">
+				 MC2 <b>Powered Armor</b> =MechCommander= 
+			</div>
+			<div class="postbox col-1">
+				<a href="https://yadi.sk/d/zG79bhkcDjatw"><img src="img/download.gif" alt="download it..." border="0" class="post_img"></a>
+			</div>
+			<div class="postbox col-3">
+				<a target="_blank" href="https://www.mechwarrior3.org/" title="посетить">Прямая ссылка</a>  
+			</div>
+		</div>
+<!-- строка со ссылкой -->
+<!-- строка со ссылкой -->
+		<div class="row ahov dash">
+			<div class="postbox col-1">
+			<a href="#" rel="zoom"><img src="img/camera_1.gif" alt="просмотр" width="20" height="17" border="0" class="post_img"></a>
+			</div>
+			<div class="postbox col-7">
+				 MC2 <b>Storm Tank</b> =MechCommander= 
+			</div>
+			<div class="postbox col-1">
+				<a href="https://yadi.sk/d/iJr4ikR8Djayn"><img src="img/download.gif" alt="download it..." border="0" class="post_img"></a>
+			</div>
+			<div class="postbox col-3">
+				<a target="_blank" href="https://www.mechwarrior3.org/" title="посетить">Прямая ссылка</a>  
+			</div>
+		</div>
+<!-- строка со ссылкой -->
+<!-- строка со ссылкой -->
+		<div class="row ahov dash">
+			<div class="postbox col-1">
+			<a href="#" rel="zoom"><img src="img/camera_1.gif" alt="просмотр" width="20" height="17" border="0" class="post_img"></a>
+			</div>
+			<div class="postbox col-7">
+				 MC2 <b>Partisan Tank</b> =MechCommander= 
+			</div>
+			<div class="postbox col-1">
+				<a href="https://yadi.sk/d/h0T1C2tZDjb5V"><img src="img/download.gif" alt="download it..." border="0" class="post_img"></a>
+			</div>
+			<div class="postbox col-3">
+				<a target="_blank" href="https://www.mechwarrior3.org/" title="посетить">Прямая ссылка</a>  
+			</div>
+		</div>
+<!-- строка со ссылкой -->
+<!-- строка со ссылкой -->
+		<div class="row ahov dash">
+			<div class="postbox col-1">
+			<a href="#" rel="zoom"><img src="img/camera_1.gif" alt="просмотр" width="20" height="17" border="0" class="post_img"></a>
+			</div>
+			<div class="postbox col-7">
+				 MC2 <b>Hetzer Tank</b> =MechCommander= 
+			</div>
+			<div class="postbox col-1">
+				<a href="https://yadi.sk/d/6kK-eLveDjbAC"><img src="img/download.gif" alt="download it..." border="0" class="post_img"></a>
+			</div>
+			<div class="postbox col-3">
+				<a target="_blank" href="https://www.mechwarrior3.org/" title="посетить">Прямая ссылка</a>  
+			</div>
+		</div>
+<!-- строка со ссылкой -->
+<!-- строка со ссылкой -->
+		<div class="row ahov dash">
+			<div class="postbox col-1">
+			<a href="#" rel="zoom"><img src="img/camera_1.gif" alt="просмотр" width="20" height="17" border="0" class="post_img"></a>
+			</div>
+			<div class="postbox col-7">
+				 MC2 <b>Drillson Hovertank</b> =MechCommander= 
+			</div>
+			<div class="postbox col-1">
+				<a href="https://yadi.sk/d/8HIFuyVTDjbFK"><img src="img/download.gif" alt="download it..." border="0" class="post_img"></a>
+			</div>
+			<div class="postbox col-3">
+				<a target="_blank" href="https://www.mechwarrior3.org/" title="посетить">Прямая ссылка</a>  
+			</div>
+		</div>
+<!-- строка со ссылкой -->
+<!-- строка со ссылкой -->
+		<div class="row ahov dash">
+			<div class="postbox col-1">
+			<a href="#" rel="zoom"><img src="img/camera_1.gif" alt="просмотр" width="20" height="17" border="0" class="post_img"></a>
+			</div>
+			<div class="postbox col-7">
+				 MC2 <b>Harasser Hovercraft</b> =MechCommander= 
+			</div>
+			<div class="postbox col-1">
+				<a href="https://yadi.sk/d/ZmEsYLncDjbNE"><img src="img/download.gif" alt="download it..." border="0" class="post_img"></a>
+			</div>
+			<div class="postbox col-3">
+				<a target="_blank" href="https://www.mechwarrior3.org/" title="посетить">Прямая ссылка</a>  
+			</div>
+		</div>
+<!-- строка со ссылкой -->
+<!-- строка со ссылкой -->
+		<div class="row ahov dash">
+			<div class="postbox col-1">
+			<a href="#" rel="zoom"><img src="img/camera_1.gif" alt="просмотр" width="20" height="17" border="0" class="post_img"></a>
+			</div>
+			<div class="postbox col-7">
+				 MC2 <b>Slayer Aerospace</b> =MechCommander= 
+			</div>
+			<div class="postbox col-1">
+				<a href="https://yadi.sk/d/1DcguG8iDjbTB"><img src="img/download.gif" alt="download it..." border="0" class="post_img"></a>
+			</div>
+			<div class="postbox col-3">
+				<a target="_blank" href="https://www.mechwarrior3.org/" title="посетить">Прямая ссылка</a>  
+			</div>
+		</div>
+<!-- строка со ссылкой -->
+<!-- строка со ссылкой -->
+		<div class="row ahov dash">
+			<div class="postbox col-1">
+			<a href="#" rel="zoom"><img src="img/camera_1.gif" alt="просмотр" width="20" height="17" border="0" class="post_img"></a>
+			</div>
+			<div class="postbox col-7">
+				 MC2 <b>Attack Helo</b> =MechCommander= 
+			</div>
+			<div class="postbox col-1">
+				<a href="#"><img src="img/download.gif" alt="download it..." border="0" class="post_img"></a>
+			</div>
+			<div class="postbox col-3">
+				<a target="_blank" href="https://www.mechwarrior3.org/" title="посетить">Прямая ссылка</a>  
+			</div>
+		</div>
+<!-- строка со ссылкой -->
+<!-- строка со ссылкой -->
+		<div class="row ahov dash">
+			<div class="postbox col-1">
+			<a href="#" rel="zoom"><img src="img/camera_1.gif" alt="просмотр" width="20" height="17" border="0" class="post_img"></a>
+			</div>
+			<div class="postbox col-7">
+				 MC2 <b>Karnov</b> =MechCommander= 
+			</div>
+			<div class="postbox col-1">
+				<a href="#"><img src="img/download.gif" alt="download it..." border="0" class="post_img"></a>
+			</div>
+			<div class="postbox col-3">
+				<a target="_blank" href="https://www.mechwarrior3.org/" title="посетить">Прямая ссылка</a>  
+			</div>
+		</div>
+<!-- строка со ссылкой -->
+<!-- строка со ссылкой -->
+		<div class="row ahov dash">
+			<div class="postbox col-1">
+			<a href="#" rel="zoom"><img src="img/camera_1.gif" alt="просмотр" width="20" height="17" border="0" class="post_img"></a>
+			</div>
+			<div class="postbox col-7">
+				 MC2 <b>Ambulance</b>  =MechCommander= 
+			</div>
+			<div class="postbox col-1">
+				<a href="https://yadi.sk/d/J8uoVJsTDjcAh"><img src="img/download.gif" alt="download it..." border="0" class="post_img"></a>
+			</div>
+			<div class="postbox col-3">
+				<a target="_blank" href="https://www.mechwarrior3.org/" title="посетить">Прямая ссылка</a>  
+			</div>
+		</div>
+<!-- строка со ссылкой -->
+<!-- строка со ссылкой -->
+		<div class="row ahov dash">
+			<div class="postbox col-1">
+			<a href="#" rel="zoom"><img src="img/camera_1.gif" alt="просмотр" width="20" height="17" border="0" class="post_img"></a>
+			</div>
+			<div class="postbox col-7">
+				 MC2 <b>Jeep</b>  =MechCommander= 
+			</div>
+			<div class="postbox col-1">
+				<a href="https://yadi.sk/d/Q41V01XKDjcJD"><img src="img/download.gif" alt="download it..." border="0" class="post_img"></a>
+			</div>
+			<div class="postbox col-3">
+				<a target="_blank" href="https://www.mechwarrior3.org/" title="посетить">Прямая ссылка</a>  
+			</div>
+		</div>
+<!-- строка со ссылкой -->
+<!-- строка со ссылкой -->
+		<div class="row ahov dash">
+			<div class="postbox col-1">
+			<a href="#" rel="zoom"><img src="img/camera_1.gif" alt="просмотр" width="20" height="17" border="0" class="post_img"></a>
+			</div>
+			<div class="postbox col-7">
+				 MC2 <b>Dropship</b>  =MechCommander= 
+			</div>
+			<div class="postbox col-1">
+				<a href="#"><img src="img/download.gif" alt="download it..." border="0" class="post_img"></a>
+			</div>
+			<div class="postbox col-3">
+				<a target="_blank" href="https://www.mechwarrior3.org/" title="посетить">Прямая ссылка</a>  
+			</div>
+		</div>
+<!-- строка со ссылкой -->
+<!-- строка со ссылкой -->
+		<div class="row ahov dash">
+			<div class="postbox col-1">
+			<a href="#" rel="zoom"><img src="img/camera_1.gif" alt="просмотр" width="20" height="17" border="0" class="post_img"></a>
+			</div>
+			<div class="postbox col-7">
+				 MC2 <b>Repair Vehicle</b>  =MechCommander= 
+			</div>
+			<div class="postbox col-1">
+				<a href="#"><img src="img/download.gif" alt="download it..." border="0" class="post_img"></a>
+			</div>
+			<div class="postbox col-3">
+				<a target="_blank" href="https://www.mechwarrior3.org/" title="посетить">Прямая ссылка</a>  
+			</div>
+		</div>
+<!-- строка со ссылкой -->
+       
+<!-- строка разделитель -->
+		<div class="postbox col-12 dash"></div>
+<!-- строка разделитель -->
+       
+<!-- строка со ссылкой -->
+		<div class="row ahov dash">
+			<div class="postbox col-1">
+			<a href="#" rel="zoom"><img src="img/camera_1.gif" alt="просмотр" width="20" height="17" border="0" class="post_img"></a>
+			</div>
+			<div class="postbox col-7">
+				 <b>Argus</b> =Classic Battletech= 
+			</div>
+			<div class="postbox col-1">
+				<a href="https://yadi.sk/d/oGFQbnAyDkM4T"><img src="img/download.gif" alt="download it..." border="0" class="post_img"></a>
+			</div>
+			<div class="postbox col-3">
+				<a target="_blank" href="https://www.mechwarrior3.org/" title="посетить">Прямая ссылка</a>  
+			</div>
+		</div>
+<!-- строка со ссылкой -->
+<!-- строка со ссылкой -->
+		<div class="row ahov dash">
+			<div class="postbox col-1">
+			<a href="#" rel="zoom"><img src="img/camera_1.gif" alt="просмотр" width="20" height="17" border="0" class="post_img"></a>
+			</div>
+			<div class="postbox col-7">
+				 <b>Crab</b> =Classic Battletech= 
+			</div>
+			<div class="postbox col-1">
+				<a href="https://yadi.sk/d/Ui_MJoT3DkMZr"><img src="img/download.gif" alt="download it..." border="0" class="post_img"></a>
+			</div>
+			<div class="postbox col-3">
+				<a target="_blank" href="https://www.mechwarrior3.org/" title="посетить">Прямая ссылка</a>  
+			</div>
+		</div>
+<!-- строка со ссылкой -->
+<!-- строка со ссылкой -->
+		<div class="row ahov dash">
+			<div class="postbox col-1">
+			<a href="#" rel="zoom"><img src="img/camera_1.gif" alt="просмотр" width="20" height="17" border="0" class="post_img"></a>
+			</div>
+			<div class="postbox col-7">
+				 <b>Devastator</b> =Classic Battletech= 
+			</div>
+			<div class="postbox col-1">
+				<a href="https://yadi.sk/d/IRDEDlnuDkMeo"><img src="img/download.gif" alt="download it..." border="0" class="post_img"></a>
+			</div>
+			<div class="postbox col-3">
+				<a target="_blank" href="https://www.mechwarrior3.org/" title="посетить">Прямая ссылка</a>  
+			</div>
+		</div>
+<!-- строка со ссылкой -->
+<!-- строка со ссылкой -->
+		<div class="row ahov dash">
+			<div class="postbox col-1">
+			<a href="#" rel="zoom"><img src="img/camera_1.gif" alt="просмотр" width="20" height="17" border="0" class="post_img"></a>
+			</div>
+			<div class="postbox col-7">
+				 <b>Executioner</b> =Classic Battletech= 
+			</div>
+			<div class="postbox col-1">
+				<a href="https://yadi.sk/d/WnwfJ8AXDkMjE"><img src="img/download.gif" alt="download it..." border="0" class="post_img"></a>
+			</div>
+			<div class="postbox col-3">
+				<a target="_blank" href="https://www.mechwarrior3.org/" title="посетить">Прямая ссылка</a>  
+			</div>
+		</div>
+<!-- строка со ссылкой -->
+<!-- строка со ссылкой -->
+		<div class="row ahov dash">
+			<div class="postbox col-1">
+			<a href="#" rel="zoom"><img src="img/camera_1.gif" alt="просмотр" width="20" height="17" border="0" class="post_img"></a>
+			</div>
+			<div class="postbox col-7">
+				 <b>Gargoyle</b> =Classic Battletech= 
+			</div>
+			<div class="postbox col-1">
+				<a href="https://yadi.sk/d/8XHikH0LDkMtR"><img src="img/download.gif" alt="download it..." border="0" class="post_img"></a>
+			</div>
+			<div class="postbox col-3">
+				<a target="_blank" href="https://www.mechwarrior3.org/" title="посетить">Прямая ссылка</a>  
+			</div>
+		</div>
+<!-- строка со ссылкой -->
+<!-- строка со ссылкой -->
+		<div class="row ahov dash">
+			<div class="postbox col-1">
+			<a href="#" rel="zoom"><img src="img/camera_1.gif" alt="просмотр" width="20" height="17" border="0" class="post_img"></a>
+			</div>
+			<div class="postbox col-7">
+				 <b>Hellbringer</b> =Classic Battletech= 
+			</div>
+			<div class="postbox col-1">
+				<a href="https://yadi.sk/d/NT1wZ4TRDkMyQ"><img src="img/download.gif" alt="download it..." border="0" class="post_img"></a>
+			</div>
+			<div class="postbox col-3">
+				<a target="_blank" href="https://www.mechwarrior3.org/" title="посетить">Прямая ссылка</a>  
+			</div>
+		</div>
+<!-- строка со ссылкой -->
+<!-- строка со ссылкой -->
+		<div class="row ahov dash">
+			<div class="postbox col-1">
+			<a href="#" rel="zoom"><img src="img/camera_1.gif" alt="просмотр" width="20" height="17" border="0" class="post_img"></a>
+			</div>
+			<div class="postbox col-7">
+				 <b>Hyena Salvage Mech</b> =Classic Battletech= 
+			</div>
+			<div class="postbox col-1">
+				<a href="https://yadi.sk/d/y1K7_Eu4DkN7X"><img src="img/download.gif" alt="download it..." border="0" class="post_img"></a>
+			</div>
+			<div class="postbox col-3">
+				<a target="_blank" href="https://www.mechwarrior3.org/" title="посетить">Прямая ссылка</a>  
+			</div>
+		</div>
+<!-- строка со ссылкой -->
+<!-- строка со ссылкой -->
+		<div class="row ahov dash">
+			<div class="postbox col-1">
+			<a href="#" rel="zoom"><img src="img/camera_1.gif" alt="просмотр" width="20" height="17" border="0" class="post_img"></a>
+			</div>
+			<div class="postbox col-7">
+				 <b>IceFerret</b> =Classic Battletech= 
+			</div>
+			<div class="postbox col-1">
+				<a href="https://yadi.sk/d/oWiW5KkKDkNCY"><img src="img/download.gif" alt="download it..." border="0" class="post_img"></a>
+			</div>
+			<div class="postbox col-3">
+				<a target="_blank" href="https://www.mechwarrior3.org/" title="посетить">Прямая ссылка</a>  
+			</div>
+		</div>
+<!-- строка со ссылкой -->
+<!-- строка со ссылкой -->
+		<div class="row ahov dash">
+			<div class="postbox col-1">
+			<a href="#" rel="zoom"><img src="img/camera_1.gif" alt="просмотр" width="20" height="17" border="0" class="post_img"></a>
+			</div>
+			<div class="postbox col-7">
+				 <b>Linebacker - Punakettu's</b> =Classic Battletech= 
+			</div>
+			<div class="postbox col-1">
+				<a href="https://yadi.sk/d/anIUbawuDkNJ8"><img src="img/download.gif" alt="download it..." border="0" class="post_img"></a>
+			</div>
+			<div class="postbox col-3">
+				<a target="_blank" href="https://www.mechwarrior3.org/" title="посетить">Прямая ссылка</a>  
+			</div>
+		</div>
+<!-- строка со ссылкой -->
+<!-- строка со ссылкой -->
+		<div class="row ahov dash">
+			<div class="postbox col-1">
+			<a href="#" rel="zoom"><img src="img/camera_1.gif" alt="просмотр" width="20" height="17" border="0" class="post_img"></a>
+			</div>
+			<div class="postbox col-7">
+				 <b>Linebacker</b> =Classic Battletech= 
+			</div>
+			<div class="postbox col-1">
+				<a href="https://yadi.sk/d/EM52QdhQDkNNr"><img src="img/download.gif" alt="download it..." border="0" class="post_img"></a>
+			</div>
+			<div class="postbox col-3">
+				<a target="_blank" href="https://www.mechwarrior3.org/" title="посетить">Прямая ссылка</a>  
+			</div>
+		</div>
+<!-- строка со ссылкой -->
+<!-- строка со ссылкой -->
+		<div class="row ahov dash">
+			<div class="postbox col-1">
+			<a href="#" rel="zoom"><img src="img/camera_1.gif" alt="просмотр" width="20" height="17" border="0" class="post_img"></a>
+			</div>
+			<div class="postbox col-7">
+				 <b>MadCat Mk3</b> =Classic Battletech= 
+			</div>
+			<div class="postbox col-1">
+				<a href="https://yadi.sk/d/-kValbUmDkNSQ"><img src="img/download.gif" alt="download it..." border="0" class="post_img"></a>
+			</div>
+			<div class="postbox col-3">
+				<a target="_blank" href="https://www.mechwarrior3.org/" title="посетить">Прямая ссылка</a>  
+			</div>
+		</div>
+<!-- строка со ссылкой -->
+<!-- строка со ссылкой -->
+		<div class="row ahov dash">
+			<div class="postbox col-1">
+			<a href="#" rel="zoom"><img src="img/camera_1.gif" alt="просмотр" width="20" height="17" border="0" class="post_img"></a>
+			</div>
+			<div class="postbox col-7">
+				 <b>Naga</b> =Classic Battletech= 
+			</div>
+			<div class="postbox col-1">
+				<a href="https://yadi.sk/d/1C_MkT6ZDkNX3"><img src="img/download.gif" alt="download it..." border="0" class="post_img"></a>
+			</div>
+			<div class="postbox col-3">
+				<a target="_blank" href="https://www.mechwarrior3.org/" title="посетить">Прямая ссылка</a>  
+			</div>
+		</div>
+<!-- строка со ссылкой -->
+<!-- строка со ссылкой -->
+		<div class="row ahov dash">
+			<div class="postbox col-1">
+			<a href="#" rel="zoom"><img src="img/camera_1.gif" alt="просмотр" width="20" height="17" border="0" class="post_img"></a>
+			</div>
+			<div class="postbox col-7">
+				 <b>Naginata</b> =Classic Battletech= 
+			</div>
+			<div class="postbox col-1">
+				<a href="https://yadi.sk/d/Y1poYohJDkNbo"><img src="img/download.gif" alt="download it..." border="0" class="post_img"></a>
+			</div>
+			<div class="postbox col-3">
+				<a target="_blank" href="https://www.mechwarrior3.org/" title="посетить">Прямая ссылка</a>  
+			</div>
+		</div>
+<!-- строка со ссылкой -->
+<!-- строка со ссылкой -->
+		<div class="row ahov dash">
+			<div class="postbox col-1">
+			<a href="#" rel="zoom"><img src="img/camera_1.gif" alt="просмотр" width="20" height="17" border="0" class="post_img"></a>
+			</div>
+			<div class="postbox col-7">
+				 <b>Penetrator</b> =Classic Battletech= 
+			</div>
+			<div class="postbox col-1">
+				<a href="#"><img src="img/download.gif" alt="download it..." border="0" class="post_img"></a>
+			</div>
+			<div class="postbox col-3">
+				<a target="_blank" href="https://www.mechwarrior3.org/" title="посетить">Прямая ссылка</a>  
+			</div>
+		</div>
+<!-- строка со ссылкой -->
+<!-- строка со ссылкой -->
+		<div class="row ahov dash">
+			<div class="postbox col-1">
+			<a href="#" rel="zoom"><img src="img/camera_1.gif" alt="просмотр" width="20" height="17" border="0" class="post_img"></a>
+			</div>
+			<div class="postbox col-7">
+				 <b>Thanatos</b> =Classic Battletech= 
+			</div>
+			<div class="postbox col-1">
+				<a href="#"><img src="img/download.gif" alt="download it..." border="0" class="post_img"></a>
+			</div>
+			<div class="postbox col-3">
+				<a target="_blank" href="https://www.mechwarrior3.org/" title="посетить">Прямая ссылка</a>  
+			</div>
+		</div>
+<!-- строка со ссылкой -->
+<!-- строка со ссылкой -->
+		<div class="row ahov dash">
+			<div class="postbox col-1">
+			<a href="#" rel="zoom"><img src="img/camera_1.gif" alt="просмотр" width="20" height="17" border="0" class="post_img"></a>
+			</div>
+			<div class="postbox col-7">
+				 <b>Toyama</b> =Classic Battletech= 
+			</div>
+			<div class="postbox col-1">
+				<a href="https://yadi.sk/d/lI8p5sccDkNrS"><img src="img/download.gif" alt="download it..." border="0" class="post_img"></a>
+			</div>
+			<div class="postbox col-3">
+				<a target="_blank" href="https://www.mechwarrior3.org/" title="посетить">Прямая ссылка</a>  
+			</div>
+		</div>
+<!-- строка со ссылкой -->
+<!-- строка со ссылкой -->
+		<div class="row ahov dash">
+			<div class="postbox col-1">
+			<a href="#" rel="zoom"><img src="img/camera_1.gif" alt="просмотр" width="20" height="17" border="0" class="post_img"></a>
+			</div>
+			<div class="postbox col-7">
+				 <b>Sirocco</b> =Classic Battletech= 
+			</div>
+			<div class="postbox col-1">
+				<a href="https://yadi.sk/d/cv6lkKBCDkNus"><img src="img/download.gif" alt="download it..." border="0" class="post_img"></a>
+			</div>
+			<div class="postbox col-3">
+				<a target="_blank" href="https://www.mechwarrior3.org/" title="посетить">Прямая ссылка</a>  
+			</div>
+		</div>
+<!-- строка со ссылкой -->
+<!-- строка со ссылкой -->
+		<div class="row ahov dash">
+			<div class="postbox col-1">
+			<a href="#" rel="zoom"><img src="img/camera_1.gif" alt="просмотр" width="20" height="17" border="0" class="post_img"></a>
+			</div>
+			<div class="postbox col-7">
+				 <b>Striker</b> =Classic Battletech= 
+			</div>
+			<div class="postbox col-1">
+				<a href="https://yadi.sk/d/G5Dzk43KDkNyh"><img src="img/download.gif" alt="download it..." border="0" class="post_img"></a>
+			</div>
+			<div class="postbox col-3">
+				<a target="_blank" href="https://www.mechwarrior3.org/" title="посетить">Прямая ссылка</a>  
+			</div>
+		</div>
+<!-- строка со ссылкой -->
+<!-- строка со ссылкой -->
+		<div class="row ahov dash">
+			<div class="postbox col-1">
+			<a href="#" rel="zoom"><img src="img/camera_1.gif" alt="просмотр" width="20" height="17" border="0" class="post_img"></a>
+			</div>
+			<div class="postbox col-7">
+				 <b>Yeoman</b> =Classic Battletech= 
+			</div>
+			<div class="postbox col-1">
+				<a href="#"><img src="img/download.gif" alt="download it..." border="0" class="post_img"></a>
+			</div>
+			<div class="postbox col-3">
+				<a target="_blank" href="https://www.mechwarrior3.org/" title="посетить">Прямая ссылка</a>  
+			</div>
+		</div>
+<!-- строка со ссылкой -->
+<!-- строка со ссылкой -->
+		<div class="row ahov dash">
+			<div class="postbox col-1">
+			<a href="#" rel="zoom"><img src="img/camera_1.gif" alt="просмотр" width="20" height="17" border="0" class="post_img"></a>
+			</div>
+			<div class="postbox col-7">
+				 <b>Zentraedi Battlepod</b> =Classic Battletech= 
+			</div>
+			<div class="postbox col-1">
+				<a href="#"><img src="img/download.gif" alt="download it..." border="0" class="post_img"></a>
+			</div>
+			<div class="postbox col-3">
+				<a target="_blank" href="https://www.mechwarrior3.org/" title="посетить">Прямая ссылка</a>  
+			</div>
+		</div>
+<!-- строка со ссылкой -->
+<!-- строка со ссылкой -->
+		<div class="row ahov">
+			<div class="postbox col-1">
+			<a href="#" rel="zoom"><img src="img/camera_1.gif" alt="просмотр" width="20" height="17" border="0" class="post_img"></a>
+			</div>
+			<div class="postbox col-7">
+				 <b>Locust</b> =Classic Battletech= 
+			</div>
+			<div class="postbox col-1">
+				<a href="#"><img src="img/download.gif" alt="download it..." border="0" class="post_img"></a>
+			</div>
+			<div class="postbox col-3">
+				<a target="_blank" href="https://www.mechwarrior3.org/" title="посетить">Прямая ссылка</a>  
+			</div>
+		</div>
+<!-- строка со ссылкой -->
+    </div>
+<!--incl =mechwarrior.txt -->

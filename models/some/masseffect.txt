@@ -1,0 +1,36 @@
+<!--incl =masseffekt.txt -->
+    <div class="cut wow fadeInUp" data-wow-offset="50"><h3>=Mass Effect 2=</h3>
+<!-- строка со ссылкой -->
+		<div class="row ahov">
+			<div class="postbox col-1 dash">
+			<a href="img/_other/helm_mass_effect.jpg" rel="zoom"><img src="img/camera_1.gif" alt="просмотр" width="20" height="17" border="0" class="post_img"></a>
+			</div>
+			<div class="postbox col-7 dash">
+				<b>Шлем</b> =Mass Effect 2=
+			</div>
+			<div class="postbox col-1 dash">
+				<a href="#"><img src="img/download.gif" alt="download it..." border="0" class="post_img"></a>
+			</div>
+			<div class="postbox col-3 dash">
+				<a target="_blank" href="https://only-paper.ru/news/shlem_iz_igry_mass_effect/2010-08-21-5541" title="посетить">Ресурс, с которого получена модель</a>  
+			</div>
+		</div>
+ <!-- строка со ссылкой -->
+ <!-- строка со ссылкой -->
+		<div class="row ahov">
+			<div class="postbox col-1">
+			<a href="img/_other/tali_zora.jpg" rel="zoom"><img src="img/camera_1.gif" alt="просмотр" width="20" height="17" border="0" class="post_img"></a>
+			</div>
+			<div class="postbox col-7">
+				GamePaper 10 <b>Tali Zora vas Normandy</b> =Mass Effect 2=
+			</div>
+			<div class="postbox col-1">
+				<a href="#"><img src="img/download.gif" alt="download it..." border="0" class="post_img"></a>
+			</div>
+			<div class="postbox col-3">
+				<a target="_blank" href="https://only-paper.ru/news/2010-10-18-5828-0-1" title="посетить">Ресурс, с которого получена модель</a>  
+			</div>
+		</div>
+ <!-- строка со ссылкой -->     
+    </div>
+ <!--incl =masseffekt.txt --> 

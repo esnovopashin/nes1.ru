@@ -1,0 +1,133 @@
+<!--incl =stalker.txt -->
+    <div class="cut wow fadeInUp" data-wow-offset="50"><h3>=S.T.A.L.K.E.R.=</h3>
+<!-- строка со ссылкой -->
+		<div class="row ahov">
+			<div class="postbox col-1 dash">
+			<a href="img/_other/gp11_gauss_riffle.jpg" rel="zoom"><img src="img/camera_1.gif" alt="просмотр" width="20" height="17" border="0" class="post_img"></a>
+			</div>
+			<div class="postbox col-7 dash">
+				GamePaper 11 <b>Gauss Rifle</b> =S.T.A.L.K.E.R. Зов Припяти=
+			</div>
+			<div class="postbox col-1 dash">
+				<a href="#"><img src="img/download.gif" alt="download it..." border="0" class="post_img"></a>
+			</div>
+			<div class="postbox col-3 dash">
+				<a target="_blank" href="https://only-paper.ru/news/gauss_rifle_from_scop_gamepaper_11/2010-10-24-5852" title="посетить">Ресурс, с которого получена модель</a>  
+			</div>
+		</div>
+ <!-- строка со ссылкой -->
+<!-- строка со ссылкой -->
+		<div class="row ahov">
+			<div class="postbox col-1 dash">
+			<a href="img/_other/detektor_svarog.jpg" rel="zoom"><img src="img/camera_1.gif" alt="просмотр" width="20" height="17" border="0" class="post_img"></a>
+			</div>
+			<div class="postbox col-7 dash">
+				Детектор <b>Сварог</b> =S.T.A.L.K.E.R.=
+			</div>
+			<div class="postbox col-1 dash">
+				<a href="#"><img src="img/download.gif" alt="download it..." border="0" class="post_img"></a>
+			</div>
+			<div class="postbox col-3 dash">
+				<a target="_blank" href="https://only-paper.ru/news/detektor_svarog/2010-07-31-5386" title="посетить">Ресурс, с которого получена модель</a>  
+			</div>
+		</div>
+ <!-- строка со ссылкой -->
+<!-- строка со ссылкой -->
+		<div class="row ahov">
+			<div class="postbox col-1 dash">
+			<a href="img/_other/protivogaz_stalker.jpg" rel="zoom"><img src="img/camera_1.gif" alt="просмотр" width="20" height="17" border="0" class="post_img"></a>
+			</div>
+			<div class="postbox col-7 dash">
+				<b>Противогаз</b> =S.T.A.L.K.E.R.=
+			</div>
+			<div class="postbox col-1 dash">
+				<a href="#"><img src="img/download.gif" alt="download it..." border="0" class="post_img"></a>
+			</div>
+			<div class="postbox col-3 dash">
+				<a target="_blank" href="https://only-paper.ru/news/protivogaz_stalker/2009-12-25-4366" title="посетить">Ресурс, с которого получена модель</a>  
+			</div>
+		</div>
+ <!-- строка со ссылкой -->
+<!-- строка со ссылкой -->
+		<div class="row ahov">
+			<div class="postbox col-1 dash">
+			<a href="img/_other/sphere_m12.jpg" rel="zoom"><img src="img/camera_1.gif" alt="просмотр" width="20" height="17" border="0" class="post_img"></a>
+			</div>
+			<div class="postbox col-7 dash">
+				Шлем <b>Сфера М12</b> =S.T.A.L.K.E.R.=
+			</div>
+			<div class="postbox col-1 dash">
+				<a href="#"><img src="img/download.gif" alt="download it..." border="0" class="post_img"></a>
+			</div>
+			<div class="postbox col-3 dash">
+				<a target="_blank" href="https://only-paper.ru/news/2009-11-23-4227-0-1" title="посетить">Ресурс, с которого получена модель</a>  
+			</div>
+		</div>
+ <!-- строка со ссылкой -->
+<!-- строка со ссылкой -->
+		<div class="row ahov">
+			<div class="postbox col-1 dash">
+			<a href="img/_other/nabor_junogo_stalkera.jpg" rel="zoom"><img src="img/camera_1.gif" alt="просмотр" width="20" height="17" border="0" class="post_img"></a>
+			</div>
+			<div class="postbox col-7 dash">
+				<b>Набор юного сталкера</b> =S.T.A.L.K.E.R.=
+			</div>
+			<div class="postbox col-1 dash">
+				<a href="#"><img src="img/download.gif" alt="download it..." border="0" class="post_img"></a>
+			</div>
+			<div class="postbox col-3 dash">
+				<a target="_blank" href="https://only-paper.ru/news/nabor_junogo_stalkeraigrushki_iz_bumagi/2010-01-10-4442" title="посетить">Ресурс, с которого получена модель</a>  
+			</div>
+		</div>
+ <!-- строка со ссылкой -->
+<!-- строка со ссылкой -->
+		<div class="row ahov">
+			<div class="postbox col-1 dash">
+			<a href="img/_other/artefact_compass.jpg" rel="zoom"><img src="img/camera_1.gif" alt="просмотр" width="20" height="17" border="0" class="post_img"></a>
+			</div>
+			<div class="postbox col-7 dash">
+				Артефакт <b>Компас</b> =S.T.A.L.K.E.R.=
+			</div>
+			<div class="postbox col-1 dash">
+				<a href="#"><img src="img/download.gif" alt="download it..." border="0" class="post_img"></a>
+			</div>
+			<div class="postbox col-3 dash">
+				<a target="_blank" href="https://only-paper.ru/news/artefakt_kompas/2010-08-17-5510" title="посетить">Ресурс, с которого получена модель</a>  
+			</div>
+		</div>
+ <!-- строка со ссылкой -->
+<!-- строка со ссылкой -->
+		<div class="row ahov">
+			<div class="postbox col-1 dash">
+			<a href="img/_other/ognennyj_shar.jpg" rel="zoom"><img src="img/camera_1.gif" alt="просмотр" width="20" height="17" border="0" class="post_img"></a>
+			</div>
+			<div class="postbox col-7 dash">
+				Артефакт <b>Огненный шар</b> =S.T.A.L.K.E.R.=
+			</div>
+			<div class="postbox col-1 dash">
+				<a href="#"><img src="img/download.gif" alt="download it..." border="0" class="post_img"></a>
+			</div>
+			<div class="postbox col-3 dash">
+				<a target="_blank" href="https://only-paper.ru/news/artefakt_ognennyj_shar/2010-01-08-4427" title="посетить">Ресурс, с которого получена модель</a>  
+			</div>
+		</div>
+ <!-- строка со ссылкой -->
+<!-- строка со ссылкой -->
+		<div class="row ahov">
+			<div class="postbox col-1">
+			<a href="img/_other/vintorez.jpg" rel="zoom"><img src="img/camera_1.gif" alt="просмотр" width="20" height="17" border="0" class="post_img"></a>
+			</div>
+			<div class="postbox col-7">
+				ВСС <b>Винторез</b> =S.T.A.L.K.E.R.=
+			</div>
+			<div class="postbox col-1">
+				<a href="#"><img src="img/download.gif" alt="download it..." border="0" class="post_img"></a>
+			</div>
+			<div class="postbox col-3">
+				<a target="_blank" href="https://only-paper.ru/news/vss_vintorez_stalker/2010-01-08-4426" title="посетить">Ресурс, с которого получена модель</a>  
+			</div>
+		</div>
+ <!-- строка со ссылкой -->
+      
+    </div>
+<!--incl =stalker.txt -->

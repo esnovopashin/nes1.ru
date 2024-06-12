@@ -1,0 +1,93 @@
+	<div class="row" style="margin-bottom:10px;">
+		<div class="column">
+<!-- column1 -->
+
+			<div class="imgbox">
+				<img src="models/LA2.Dragon.Slayer/ds_title1.jpg" style="width:100%" alt="Бумажная модель: Dragon Slayer /LineAge 2" title="Бумажная модель: Dragon Slayer /LineAge 2">
+		    	<div class="imgtext">
+					<a href="index.php?page=dragonslayer" target="_blank"  rel= "noopener noreferrer"><font size="2">Бумажная модель: Dragon Slayer /LineAge 2</font></a>
+				</div>
+			</div>
+			<div class="imgbox">
+				<img src="models/LA2.Siras.Blade/title1.jpg" style="width:100%" alt="Бумажная модель: Sirra's Blade (beta) /LineAge 2" title="Бумажная модель: Sirra's Blade (beta) /LineAge 2">
+		    	<div class="imgtext">
+					<a href="index.php?page=sirasblade" target="_blank"  rel= "noopener noreferrer"><font size="2">Бумажная модель: Sirra's Blade (beta) /LineAge 2</font></a>
+				</div>
+			</div>
+			<div class="imgbox">
+				<img src="models/LA2.Yaxa.Mace/Y_title_1.jpg" style="width:100%" alt="Бумажная модель: Yaksa Mace /LineAge 2" title="Бумажная модель: Yaksa Mace /LineAge 2">
+		    	<div class="imgtext">
+					<a href="index.php?page=yaxa" target="_blank"  rel= "noopener noreferrer"><font size="2">Бумажная модель: Yaksa Mace /LineAge 2</font></a>
+				</div>
+			</div>
+
+		</div>
+<!-- column1 -->
+<!-- column2 -->
+		<div class="column">
+		
+			<div class="imgbox">
+				<img src="models/LA2.Angel.Slayer/AngelSlayer_title_1.jpg" style="width:100%" alt="Бумажная модель: Angel Slayer /LineAge 2" title="Бумажная модель: Angel Slayer /LineAge 2">
+		    	<div class="imgtext">
+					<a href="index.php?page=angelslayer" target="_blank"  rel= "noopener noreferrer"><font size="2">Бумажная модель: Angel Slayer /LineAge 2</font></a>
+				</div>
+			</div>
+			<div class="imgbox">
+				<img src="models/LA2.Berserker.Blade/BerserkerBlade_title_1.jpg" style="width:100%" alt="Бумажная модель: Berserker Blade /LineAge 2" title="Бумажная модель: Berserker Blade /LineAge 2">
+		    	<div class="imgtext">
+					<a href="index.php?page=zakaz" target="_blank"  rel= "noopener noreferrer"><font size="2">Бумажная модель: Berserker Blade /LineAge 2</font></a>
+				</div>
+			</div>
+			<div class="imgbox">
+				<img src="models/LA2.Sarnga/Sarnga_title_1.jpg" style="width:100%" alt="Бумажная модель: Sarnga (beta) /LineAge 2" title="Бумажная модель: Sarnga (beta) /LineAge 2">
+		    	<div class="imgtext">
+					<a href="index.php?page=sarnga" target="_blank"  rel= "noopener noreferrer"><font size="2">Бумажная модель: Sarnga (beta) /LineAge 2</font></a>
+				</div>
+			</div>
+
+		</div>
+<!-- column2 -->
+<!-- column3 -->
+		<div class="column">
+		
+			<div class="imgbox">
+				<img src="models/LA2.Samurai.Long.Sword/Samurai Longsword_title1.jpg" style="width:100%" alt="Бумажная модель: Samurai Longsword (beta) /LineAge 2" title="Бумажная модель: Samurai Longsword (beta) /LineAge 2">
+		    	<div class="imgtext">
+					<a href="index.php?page=samurailongsword" target="_blank"  rel= "noopener noreferrer"><font size="2">Бумажная модель: Samurai Longsword (beta) /LineAge 2</font></a>
+				</div>
+			</div>
+			<div class="imgbox">
+				<img src="models/LA2.Full.Plate.Shield/FullPlateShield_title_1.jpg" style="width:100%" alt="Бумажная модель: Full Plate Shield (beta) /LineAge 2" title="Бумажная модель: Full Plate Shield (beta) /LineAge 2">
+		    	<div class="imgtext">
+					<a href="index.php?page=fps" target="_blank"  rel= "noopener noreferrer"><font size="2">Бумажная модель: Full Plate Shield (beta) /LineAge 2</font></a>
+				</div>
+			</div>
+			<div class="imgbox">
+				<img src="models/LA2.Doom.Shield/DoomShield_title_1.jpg" style="width:100%" alt="Бумажная модель: Doom Shield (beta) /LineAge 2" title="Бумажная модель: Doom Shield (beta) /LineAge 2">
+		    	<div class="imgtext">
+					<a href="index.php?page=doomshield" target="_blank"  rel= "noopener noreferrer"><font size="2">Бумажная модель: Doom Shield (beta) /LineAge 2</font></a>
+				</div>
+			</div>
+
+		</div>
+<!-- column3 -->
+<!-- column4 -->
+		<div class="column">
+		
+			<div class="imgbox">
+				<img src="models/LA2.Imperial.Crusade.Shield/ImperialCrusaderShield_title_1.jpg" style="width:100%" alt="Бумажная модель: Imperial Crusader Shield (beta) /LineAge 2" title="Заказать модель: Imperial Crusader Shield (beta) /LineAge 2">
+				<div class="imgtext">
+					<a href="index.php?page=ics" target="_blank"  rel= "noopener noreferrer"><font size="2">Бумажная модель: Imperial Crusader Shield (beta) /LineAge 2</font></a>
+				</div>
+			</div>
+			<div class="imgbox">
+				<img src="models/LA2.Kite.Shield/KiteShield_title_1.jpg" style="width:100%" alt="Бумажная модель: Imperial Kite Shield (beta) /LineAge 2" title="Заказать модель: Kite Shield (beta) /LineAge 2">
+				<div class="imgtext">
+					<a href="index.php?page=kiteshield" target="_blank"  rel= "noopener noreferrer"><font size="2">Бумажная модель: Kite Shield (beta) /LineAge 2</font></a>
+				</div>
+			</div>
+
+		</div>
+<!-- column4 -->
+
+    </div>

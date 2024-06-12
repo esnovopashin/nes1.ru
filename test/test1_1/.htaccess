@@ -1,0 +1,9 @@
+ErrorDocument 404 https://nes1.ru/404.php
+php_flag display_errors 0
+
+#Redirect 301 / https://nes1.ru
+
+RewriteEngine On
+RewriteCond %{ENV:HTTPS} !on [OR]
+RewriteCond %{HTTP_HOST} ^www\.(.*)$ [NC]
+RewriteRule ^(.*)$ https://nes1.ru%{REQUEST_URI} [L,R=301]

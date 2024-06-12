@@ -1,0 +1,52 @@
+        <td height="400" width="80%" align="left" valign="top">
+		
+<table width="100%" border="0" STYLE="border-bottom-width: 1px; border-bottom-color: grey; border-bottom-style: dashed;">
+ <td width="150" rowspan="5" align="center" valign="middle">
+<a href=models/dragon_slayer/ds_title1.jpg rel=zoom><img src="models/dragon_slayer/ds_title1.jpg" alt="Unicorn" border="0" height="190"></a></td>
+          <td width="5" rowspan="5" align="center" valign="middle" STYLE="border-right-width: 1px; border-right-color: grey; border-right-style: dashed;">&nbsp;</td>
+          <td colspan="9" align="left" valign="middle"  STYLE="border-bottom-width: 1px; border-bottom-color: grey; border-bottom-style: dashed;">
+		    <font color="#0033CC" size="3" face="Arial, Helvetica, sans-serif"><p><strong>Бумажная модель оружия из Lineage 2 -=- Dragon Slayer -=-</strong></p></font>
+		  </td>
+        </tr>
+        <tr> 
+          <td colspan="9" align="left" valign="middle"  STYLE="border-bottom-width: 1px; border-bottom-color: grey; border-bottom-style: dashed;">
+<!-- <a href=models/castle.Gir/0.jpg rel=zoom><img src=models/castle.Gir/0_r.jpg alt="Бумажная модель - Giran Замок" border=0></a>&nbsp; 
+<a href=models/castle.Gir/83733967.jpg rel=zoom><img src=models/castle.Gir/83733967_r.jpg alt="Бумажная модель - Giran Замок" border=0></a>&nbsp; 
+<a href=models/castle.Gir/83693843.jpg rel=zoom><img src=models/castle.Gir/83693843_r.jpg alt="Бумажная модель - Giran Замок" border=0></a>&nbsp; 
+<a href=models/castle.Gir/83851747.jpg rel=zoom><img src=models/castle.Gir/83851747_r.jpg alt="Бумажная модель - Giran Замок" border=0></a>&nbsp; 
+<a href=models/castle.Gir/83851762.jpg rel=zoom><img src=models/castle.Gir/83851762_r.jpg alt="Бумажная модель - Giran Замок" border=0></a>&nbsp; 
+<a href=models/castle.Gir/83851794.jpg rel=zoom><img src=models/castle.Gir/83851794_r.jpg alt="Бумажная модель - Giran Замок" border=0></a>&nbsp; 
+<a href=models/castle.Gir/83851801.jpg rel=zoom><img src=models/castle.Gir/83851801_r.jpg alt="Бумажная модель - Giran Замок" border=0></a>&nbsp;
+<a href=models/castle.Gir/83851803.jpg rel=zoom><img src=models/castle.Gir/83851803_r.jpg alt="Бумажная модель - Giran Замок" border=0></a> -->
+		  </td>
+        </tr>
+        <tr> 
+          <td colspan="9" align="left" valign="top" STYLE="border-bottom-width: 1px; border-bottom-color: grey; border-bottom-style: dashed;"> 
+            <div align="left"><font color="#003399" size="2" face="Arial, Helvetica, sans-serif">
+			  <strong>Название:</strong> Dragon Slayer<br>
+                  <strong>Формат А4:</strong> 1 лист <br>
+                  <strong>Деталей:</strong> 9<br>
+                  <strong>H. Высота:</strong> 200 mm<br>
+                  <strong>D. Длина:</strong> 46 mm<br>
+                  <strong>W. Ширина:</strong> 130 mm<br>
+                  <strong>Сложность:</strong>от 9 лет<br>&nbsp;<br></div><br>
+
+<a href=https://yadi.sk/d/Om9TIYYJEJknp>Cкачать</a></font><br>&nbsp;<br>
+
+</td>
+        </tr>
+		<tr> 
+          <td colspan="9" align="left" valign="middle">
+		  <script type="text/javascript" src="//yandex.st/share/share.js"
+charset="utf-8"></script>
+<script type="text/javascript" src="//yandex.st/share/share.js"
+charset="utf-8"></script>
+<div class="yashare-auto-init" data-yashareL10n="ru"
+ data-yashareQuickServices="yaru,vkontakte,facebook,twitter,odnoklassniki,moimir,gplus" data-yashareTheme="counter"
+
+></div>  
+		  </td>         
+ <!-- END -->
+      </table>
+		
+            </td>

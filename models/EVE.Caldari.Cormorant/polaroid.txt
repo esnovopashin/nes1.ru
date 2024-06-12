@@ -1,0 +1,9 @@
+
+			<div class="imgbox">
+				<img src="models/EVE.Caldari.Cormorant/blueprint_cormorant_0.jpg" style="width:100%" alt="Бумажная модель: Cormorant /EVEonline">
+		    <!--<img src="https://nes1.ru/images/level2_act.gif" alt="level2">-->
+				<div class="imgtext">
+					<a href="index.php?page=zakaz" target="_blank">
+					<font size="2">Бумажная модель: Cormorant /EVEonline</font></a>
+				</div>
+			</div>

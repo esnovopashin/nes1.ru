@@ -1,0 +1,111 @@
+body {
+	font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+}
+*, *:after, *:before {
+  box-sizing: border-box;}
+.base {
+  margin: 0 auto;
+  padding:0px;
+  width: 100%;
+  background: white;
+  max-width: 1280px;
+  box-shadow: 0 0 10px #000000;
+}
+.row {
+  display: flex;
+  flex-wrap: wrap;
+}
+.main {
+  padding:10px;
+  width:100%;
+}
+.tmplt{
+  width: 33%;
+  height: 30px;
+  text-align: center;
+}
+table {
+  border-collapse: collapse;
+  width: 100%;
+}
+
+td, th {
+  border: 1px solid #dddddd;
+  text-align: left;
+  padding: 8px;
+}
+
+tr:nth-child(even) {
+  background-color: #dddddd;
+}
+footer {
+  height:5px;
+  padding: 5px 0;
+  background: #0066ff;
+  color: white;
+}
+.footer_oper {
+  height:5px;
+  padding: 5px 0;
+  background: #ff9900;
+  color: white;
+}
+.footer_end {
+  height:5px;
+  padding: 5px 0;
+  background: #00cc00;
+  color: white;
+}
+.form {
+  width:100%;
+  padding-left:5px;
+  padding-right:5px;
+}
+/* Полная ширина для всех полей ввода */
+input[type=text], input[type=password] {
+  width: 100%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  box-sizing: border-box;
+}
+/* Стили для всех кнопок */
+button {
+  background-color: #0066ff;
+  color: white;
+  padding: 14px 20px;
+  margin: 8px 0;
+  border: none;
+  cursor: pointer;
+  width: 100%;
+}
+
+button:hover {
+  opacity: 0.8;
+}
+.inputbutton {
+background-color: #0066ff;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}
+.inputbutton:hover {
+  opacity: 0.8;
+}
+.ltitle {
+	width:50%;
+	height:50px;
+	text-align:left;
+	padding-left:5px;
+}
+.rtitle {
+	width:50%;
+	height:50px;
+	text-align:right;
+	padding-right:5px;
+}

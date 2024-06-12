@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+    <meta http-equiv="content-language" content="ru">
+    <meta http-equiv="content-type" content="text/html; charset=utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta http-equiv="expires" content="0">
+    <title>Авторизация</title>
+    <link rel="stylesheet" type="text/css" href="modal.css">
+   
+</head>
+
+<body>
+
+
+	<div class="firstwindow">
+		<h2 style="text-align:center">Пожалуйста, авторизуйтесь</h2>
+
+		<p style="text-align:center">
+			<button onclick="document.getElementById('id01').style.display='block'" style="width:auto;">Войти</button>
+		</p>
+
+		<div id="id01" class="modal"> <!-- модальное окно с формой авторизации -->
+  
+			<form class="modal-content animate" action="/action_page.php"><!-- /action_page.php не существует, но на него нужно будет отправлять данные для проверки -->
+				<div class="closemodal"><!-- класс крестика -->
+					<span onclick="document.getElementById('id01').style.display='none'" class="close" title="Close Modal">&times;</span>
+				</div>
+
+				<div class="container">
+					<label for="uname"><b>Логин</b></label>
+					<input type="text" placeholder="Введите логин" name="uname" required />
+
+					<label for="psw"><b>Пароль</b></label>
+					<input type="password" placeholder="Введите пароль" name="psw" required />
+					<button type="submit">ВОЙТИ</button>
+				</div>
+
+				<div class="container" style="background-color:#f1f1f1">
+					<button type="button" onclick="document.getElementById('id01').style.display='none'" class="cancelbtn">Отмена</button>
+					<span class="psw">Забыли <a href="#">пароль?</a></span><!-- прикрутить обработку восстановления пароля -->
+				</div>
+			</form>
+		</div>
+	</div>
+
+</body>
+</html>

@@ -1,0 +1,112 @@
+	<div class="row">
+		<div class="column">
+<!-- column1 -->
+
+			<div class="imgbox">
+				<img src="models/TL.Cyclop/title1.jpg" style="width:100%" alt="Бумажная модель: Голова Циклопа /TorchLight 2" title="Бумажная модель: Голова Циклопа /TorchLight 2">
+		    	<div class="imgtext">
+					<a href="index.php?page=cyclophead" target="_blank"  rel= "noopener noreferrer"><font size="2">Бумажная модель: Голова Циклопа /TorchLight 2</font></a>
+				</div>
+			</div>
+			<div class="imgbox">
+				<img src="models/TL.Braced.Bulwark.Shield/BracedBulwarkShield_title_1.jpg" style="width:100%" alt="Бумажная модель: Braced Bulwark Shield (beta) /TorchLight 2" title="Бумажная модель: Braced Bulwark Shield (beta) /TorchLight 2">
+		    	<div class="imgtext">
+					<a href="index.php?page=bbs" target="_blank"  rel= "noopener noreferrer"><font size="2">Бумажная модель: Angel Slayer /TorchLight 2</font></a>
+				</div>
+			</div>
+			<div class="imgbox">
+				<img src="models/TL.Flanged.Shield.Of.The.Enduring/FlangedShieldOfTheEnduring_title_1.jpg" style="width:100%" alt="Бумажная модель: Flanged Shield Of The Enduring (beta) /TorchLight 2" title="Бумажная модель: Flanged Shield Of The Enduring (beta) /TorchLight 2">
+		    	<div class="imgtext">
+					<a href="index.php?page=fsote" target="_blank"  rel= "noopener noreferrer"><font size="2">Бумажная модель: Flanged Shield Of The Enduring (beta) /TorchLight 2</font></a>
+				</div>
+			</div>
+			<div class="imgbox">
+				<img src="models/TL.Beryl.Iron.Eclipse/BerylIronEclipse_title_1.jpg" style="width:100%" alt="Бумажная модель: Beryl Iron Eclipse (beta) /TorchLight 2" title="Бумажная модель: Beryl Iron Eclipse (beta) )/TorchLight 2">
+		    	<div class="imgtext">
+					<a href="index.php?page=zakaz" target="_blank"  rel= "noopener noreferrer"><font size="2">Бумажная модель: Beryl Iron Eclipse (beta) /TorchLight 2</font></a>
+				</div>
+			</div>
+
+		</div>
+<!-- column1 -->
+<!-- column2 -->
+		<div class="column">
+			<div class="imgbox">
+				<img src="models/TL.Fiery.Polished.Shiv/FieryPolishedShiv_title1.jpg" style="width:100%" alt="Бумажная модель: Fiery Polished Shiv (beta) /TorchLight 2" title="Бумажная модель: Fiery Polished Shiv (beta)/TorchLight 2">
+		    	<div class="imgtext">
+					<a href="index.php?page=zakaz" target="_blank"  rel= "noopener noreferrer"><font size="2">Бумажная модель: Fiery Polished Shiv (beta) /TorchLight 2</font></a>
+				</div>
+			</div>
+
+			<div class="imgbox">
+				<img src="models/TL.Orcish.Wand/orcish_wand_title_1.jpg" style="width:100%" alt="Бумажная модель: Булава орков (beta) /TorchLight 2" title="Бумажная модель: Булава орков (beta) /TorchLight 2">
+		    	<div class="imgtext">
+					<a href="index.php?page=orcishwand" target="_blank"  rel= "noopener noreferrer"><font size="2">Бумажная модель: Булава орков (beta) /TorchLight 2</font></a>
+				</div>
+			</div>
+			<div class="imgbox">
+				<img src="models/TL.Ashen.Wand/Ashen_wand_title_1.jpg" style="width:100%" alt="Бумажная модель: Ashen Wand (beta) /TorchLight 2" title="Бумажная модель: Ashen Wand (beta) /TorchLight 2">
+		    	<div class="imgtext">
+					<a href="index.php?page=ashenwand" target="_blank"  rel= "noopener noreferrer"><font size="2">Бумажная модель: Ashen Wand (beta) /TorchLight 2</font></a>
+				</div>
+			</div>
+
+			<div class="imgbox">
+				<img src="models/TL.Morning.Star/morningStar1_title1.jpg" style="width:100%" alt="Бумажная модель: Morningstar (beta) /TorchLight 2" title="Бумажная модель: Morningstar (beta) )/TorchLight 2">
+		    	<div class="imgtext">
+					<a href="index.php?page=morningstar" target="_blank"  rel= "noopener noreferrer"><font size="2">Бумажная модель: Morningstar (beta) /TorchLight 2</font></a>
+				</div>
+			</div>
+
+		</div>
+<!-- column2 -->
+<!-- column3 -->
+		<div class="column">
+		
+			<div class="imgbox">
+				<img src="models/TL.Vampire.Axe/VampireAxe_title_1.jpg" style="width:100%" alt="Бумажная модель: Vampire Axe (beta) /TorchLight 2" title="Заказать модель: Vampire Axe (beta) /TorchLight 2">
+				<div class="imgtext">
+					<a href="index.php?page=zakaz" target="_blank"  rel= "noopener noreferrer"><font size="2">Бумажная модель: Vampire Axe (beta) /TorchLight 2</font></a>
+				</div>
+			</div>
+			<div class="imgbox">
+				<img src="models/TL.Broad.Sword/BroadSword_title.jpg" style="width:100%" alt="Бумажная модель: Broad Sword (beta) /TorchLight 2" title="Заказать модель: Broad Sword (beta) /TorchLight 2">
+				<div class="imgtext">
+					<a href="index.php?page=zakaz" target="_blank"  rel= "noopener noreferrer"><font size="2">Бумажная модель: Broad Sword (beta) /TorchLight 2</font></a>
+				</div>
+			</div>
+			<div class="imgbox">
+				<img src="models/TL.Goblin.Axe/GoblinAxe_title_1.jpg" style="width:100%" alt="Бумажная модель: Goblin Axe /TorchLight 2" title="Бумажная модель: Goblin Axe /TorchLight 2">
+		    	<div class="imgtext">
+					<a href="index.php?page=zakaz" target="_blank"  rel= "noopener noreferrer"><font size="2">Бумажная модель: Goblin Axe (beta) /TorchLight 2</font></a>
+				</div>
+			</div>
+			<div class="imgbox">
+				<img src="models/TL.Goblin.Bardsword.Of.The.Savage/GoblinBardswordOfTheSavage_title_1.jpg" style="width:100%" alt="Бумажная модель: Goblin Bardsword Of The Savage /TorchLight 2" title="Бумажная модель: Goblin Bardsword Of The Savage /TorchLight 2">
+		    	<div class="imgtext">
+					<a href="index.php?page=zakaz" target="_blank"  rel= "noopener noreferrer"><font size="2">Бумажная модель: Goblin Bardsword Of The Savage (beta) /TorchLight 2</font></a>
+				</div>
+			</div>
+
+		</div>
+<!-- column3 -->
+<!-- column4 -->
+		<div class="column">
+			<div class="imgbox">
+				<img src="models/TL.Freezing.Pike.Gun/FreezingPikeGun_title_1.jpg" style="width:100%" alt="Бумажная модель: Freezing Pike Gun /TorchLight 2" title="Бумажная модель: Freezing Pike Gun /TorchLight 2">
+		    	<div class="imgtext">
+					<a href="index.php?page=zakaz" target="_blank"  rel= "noopener noreferrer"><font size="2">Бумажная модель: Freezing Pike Gun (beta) /TorchLight 2</font></a>
+				</div>
+			</div>
+			<div class="imgbox">
+				<img src="models/TL.Piercing.Ribauldeguin.Of.The.Bear/PiercingRibauldeguinOfTheBear_title_1.jpg" style="width:100%" alt="Бумажная модель: Piercing Ribauldeguin Of The Bear /TorchLight 2" title="Бумажная модель: Piercing Ribauldeguin Of The Bear /TorchLight 2">
+		    	<div class="imgtext">
+					<a href="index.php?page=zakaz" target="_blank"  rel= "noopener noreferrer"><font size="2">Бумажная модель: Piercing Ribauldeguin Of The Bear (beta) /TorchLight 2</font></a>
+				</div>
+			</div>	
+
+
+		</div>
+<!-- column4 -->
+
+    </div>

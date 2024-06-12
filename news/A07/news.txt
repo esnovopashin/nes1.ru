@@ -1,0 +1,3 @@
+Контурная модель фригата Kestrel =EVE online=
+<p>Еще один, более необычный для меня релиз: КОНТУРНАЯ модель фригата <a href="models/EVE.Caldari.Kestrel/title.jpg" rel="zoom" title="посмотреть">Kestrel</a></p>
+<p>Появилась в результате масштабной переделки.</p><a href="https://yadi.sk/i/fWhT2oFDgFiUo" title="скачать бесплатно">Скачать <i class="fa fa-external-link" aria-hidden="true" style="font-size:12px"></i></a>

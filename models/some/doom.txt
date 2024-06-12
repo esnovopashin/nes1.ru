@@ -1,0 +1,36 @@
+<!--incl =doom.txt -->
+    <div class="cut wow fadeInUp" data-wow-offset="50"><h3>=DOOM=</h3>
+<!-- строка со ссылкой -->
+		<div class="row ahov">
+			<div class="postbox col-1 dash">
+			<a href="img/_other/bfg.jpg" rel="zoom"><img src="img/camera_1.gif" alt="просмотр" width="20" height="17" border="0" class="post_img"></a>
+			</div>
+			<div class="postbox col-7 dash">
+				<b>BFG</b> =DOOM=
+			</div>
+			<div class="postbox col-1 dash">
+				<a href="https://yadi.sk/d/1VdfYlxEDghYB"><img src="img/download.gif" alt="download it..." border="0" class="post_img"></a>
+			</div>
+			<div class="postbox col-3 dash">
+				<a target="_blank" href="http://only-paper.ru/news/bfg_iz_filma_doom/2010-06-20-5198" title="посетить">Ресурс, с которого получена модель</a>  
+			</div>
+		</div>
+ <!-- строка со ссылкой -->
+<!-- строка со ссылкой -->
+		<div class="row ahov">
+			<div class="postbox col-1">
+			<a href="img/_other/barrel.jpg" rel="zoom"><img src="img/camera_1.gif" alt="просмотр" width="20" height="17" border="0" class="post_img"></a>
+			</div>
+			<div class="postbox col-7">
+				<b>Super Shotgun</b> =Doom 3=
+			</div>
+			<div class="postbox col-1">
+				<a href="https://yadi.sk/d/KrSlQcAoDghqE"><img src="img/download.gif" alt="download it..." border="0" class="post_img"></a>
+			</div>
+			<div class="postbox col-3">
+				<a target="_blank" href="#" title="посетить">Страница автора в розыске</a>  
+			</div>
+		</div>
+ <!-- строка со ссылкой -->
+</div>
+<!--incl =doom.txt -->

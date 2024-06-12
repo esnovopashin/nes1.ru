@@ -1,0 +1,52 @@
+        <td height="400" width="80%" align="left" valign="top">
+		
+<table width="100%" border="0" STYLE="border-bottom-width: 1px; border-bottom-color: grey; border-bottom-style: dashed;">
+ <td width="150" rowspan="5" align="center" valign="middle"><a href=models/AXI/title1.jpg rel=zoom><img src=models/AXI/title_150.jpg alt="AXI" border=0></a></td>
+          <td width="5" rowspan="5" align="center" valign="middle" STYLE="border-right-width: 1px; border-right-color: grey; border-right-style: dashed;">&nbsp;</td>
+          <td colspan="9" align="left" valign="middle"  STYLE="border-bottom-width: 1px; border-bottom-color: grey; border-bottom-style: dashed;">
+		    <font color="#0033CC" size="3" face="Arial, Helvetica, sans-serif"><p><strong>Бумажная 
+              модель персонажа - гномка AXI</strong></p></font>
+		  </td>
+        </tr>
+        <tr> 
+          <td colspan="9" align="left" valign="middle"  STYLE="border-bottom-width: 1px; border-bottom-color: grey; border-bottom-style: dashed;">
+		  <a href=models/AXI/AXI.jpg rel=zoom><img src="https://nes1.ru/files/img_b/AXI_b.jpg" alt="AXI_zoom" border=0></a>&nbsp; 
+            <img src=models/AXI/AXI_instr_037.jpg alt="AXI_instr" border=0>&nbsp; 
+            <img src=models/AXI/AXI_instr_038.jpg alt="AXI_instr" border=0>&nbsp; 
+            <a href=models/AXI/84535970.jpg rel=zoom><img src=models/AXI/DSC00016_1.jpg alt="AXI_zoom" border=0 ></a>&nbsp; 
+            <a href=models/AXI/84539485.jpg rel=zoom><img src=models/AXI/DSC00016_3.jpg alt="AXI_zoom" border=0></a>&nbsp; 
+            <a href=models/AXI/84530161.jpg rel=zoom><img src=models/AXI/Yaxa_7.jpg alt="AXI_zoom" border=0></a>&nbsp;
+            <a href=models/AXI/84573708.jpg rel=zoom><img src=models/AXI/DSC00016_2.jpg alt="AXI_zoom" border=0></a>&nbsp; 
+            <!--<a href=models/AXI/84573710.jpg rel=zoom><img src="https://nes1.ru/img_ml/DSC00018_2.jpg" alt="AXI_zoom" border=0></a>-->
+		  </td>
+        </tr>
+        <tr> 
+          <td colspan="9" align="left" valign="top" STYLE="border-bottom-width: 1px; border-bottom-color: grey; border-bottom-style: dashed;"> 
+            <div align="left"><font color="#003399" size="2" face="Arial, Helvetica, sans-serif">
+			  <strong>Название:</strong> AXI<br>
+              <strong>Формат А4:</strong> 4листа + инструкции<br>
+              <strong>Деталей:</strong> 147<br>
+              <strong>H. Высота:</strong> 20 cm<br>
+              <strong>W. Ширина:</strong> 15 cm<br>
+              <strong>D. Толщина:</strong> 14 cm<br>
+              <strong>Сложность:</strong> высокая</font></div><br>
+
+<a href=https://yadi.sk/d/w6gzsG1IDzDcZ>Cкачать</a><br>&nbsp;<br>
+
+</td>
+        </tr>
+		<tr> 
+          <td colspan="9" align="left" valign="middle">
+		  <script type="text/javascript" src="//yandex.st/share/share.js"
+charset="utf-8"></script>
+<script type="text/javascript" src="//yandex.st/share/share.js"
+charset="utf-8"></script>
+<div class="yashare-auto-init" data-yashareL10n="ru"
+ data-yashareQuickServices="yaru,vkontakte,facebook,twitter,odnoklassniki,moimir,gplus" data-yashareTheme="counter"
+
+></div>  
+		  </td>         
+ <!-- END -->
+      </table>
+		
+            </td>

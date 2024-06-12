@@ -1,0 +1,52 @@
+        <td height="400" width="80%" align="left" valign="top">
+		
+<table width="100%" border="0" STYLE="border-bottom-width: 1px; border-bottom-color: grey; border-bottom-style: dashed;">
+ <td width="150" rowspan="5" align="center" valign="middle">
+ <a href=https://nes1.ru/models/doll/doll.title2.jpg rel=zoom><img src="https://nes1.ru/models/doll/doll.title2.jpg" alt="Бумажная модель. Кукла" border="0" height="190"></a></td>
+          <td width="5" rowspan="5" align="center" valign="middle" STYLE="border-right-width: 1px; border-right-color: grey; border-right-style: dashed;">&nbsp;</td>
+          <td colspan="9" align="left" valign="middle"  STYLE="border-bottom-width: 1px; border-bottom-color: grey; border-bottom-style: dashed;">
+		    <font color="#0033CC" size="3" face="Arial, Helvetica, sans-serif"><p><strong>Бумажная модель. LineAge 2 = Кукла</strong></p></font>
+		  </td>
+        </tr>
+        <tr> 
+          <td colspan="9" align="left" valign="middle"  STYLE="border-bottom-width: 1px; border-bottom-color: grey; border-bottom-style: dashed;">
+		  <!-- <a href=models/cat/85406522.jpg rel=zoom><img src=models/cat/85406522_1.jpg alt="Бумажная модель. Perfect World = Котик-трейдер" border=0></a>&nbsp; 
+                <a href=models/cat/85481538.jpg rel=zoom><img src=models/cat/85481538_1.jpg alt="Бумажная модель - Котик-трейдер" border=0></a>&nbsp; 
+				<a href=models/cat/85481565.jpg rel=zoom><img src=models/cat/85481565_1.jpg alt="Бумажная модель - Котик-трейдер" border=0></a>&nbsp; 
+                <a href=models/cat/85481540.jpg rel=zoom><img src=models/cat/85481540_1.jpg alt="Бумажная модель - Котик-трейдер" border=0></a>&nbsp; 
+                <a href=models/cat/85481541.jpg rel=zoom><img src=models/cat/85481541_1.jpg alt="Бумажная модель - Котик-трейдер" border=0></a>&nbsp; 
+                <a href=models/cat/85481543.jpg rel=zoom><img src=models/cat/85481543_1.jpg alt="Бумажная модель - Котик-трейдер" border=0></a>&nbsp; 
+                <a href=models/cat/85481575.jpg rel=zoom><img src=models/cat/85481575_1.jpg alt="Бумажная модель - Котик-трейдер" border=0></a>&nbsp; 
+                <a href=models/cat/85481546.jpg rel=zoom><img src=models/cat/85481546_1.jpg alt="Бумажная модель - Котик-трейдер" border=0></a>-->
+		  </td>
+        </tr>
+        <tr> 
+          <td colspan="9" align="left" valign="top" STYLE="border-bottom-width: 1px; border-bottom-color: grey; border-bottom-style: dashed;"> 
+            <div align="left"><font color="#003399" size="2" face="Arial, Helvetica, sans-serif">
+			  <strong>Название:</strong> Кукла<br>
+                  <strong>Формат А4:</strong> 3 листa<br>
+                  <strong>Деталей:</strong> 50<br>
+                  <strong>H. Высота:</strong> 20 cm<br>
+                  <strong>W. Ширина:</strong> 8,9 cm<br>
+                  <strong>D. Толщина:</strong> 7,2 cm<br>
+                  <strong>Сложность:</strong>от 9 лет<br>&nbsp;<br></div><br>
+
+<a href=https://yadi.sk/d/Lr4ACT2yDg8tc>Cкачать</a></font><br>&nbsp;<br>
+
+</td>
+        </tr>
+		<tr> 
+          <td colspan="9" align="left" valign="middle">
+		  <script type="text/javascript" src="//yandex.st/share/share.js"
+charset="utf-8"></script>
+<script type="text/javascript" src="//yandex.st/share/share.js"
+charset="utf-8"></script>
+<div class="yashare-auto-init" data-yashareL10n="ru"
+ data-yashareQuickServices="yaru,vkontakte,facebook,twitter,odnoklassniki,moimir,gplus" data-yashareTheme="counter"
+
+></div>  
+		  </td>         
+ <!-- END -->
+      </table>
+		
+            </td>

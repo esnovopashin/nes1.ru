@@ -1,0 +1,3 @@
+Gallente Vexor =EVE online=
+<p>Началась разработка первого Gallente в моей коллекции -  Vexor</p>
+<p>Модель изготавливалась по заказу преподавателя школы CODDY, в которой учится младшая. Преподаватель переехал, но разработка ведется. Весь процесс <a href="index.php?page=vexor" target="_blank"  rel= "noopener noreferrer" title="">тут <i class="fa fa-external-link" aria-hidden="true" style="font-size:12px"></i></a></p>

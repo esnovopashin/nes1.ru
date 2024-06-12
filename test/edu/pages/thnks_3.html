@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+    <meta http-equiv="content-language" content="ru">
+    <meta http-equiv="content-type" content="text/html; charset=utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta http-equiv="expires" content="0">
+    <title>Шаблон 0</title>
+    <link rel="stylesheet" type="text/css" href="style.css">
+
+</head>
+
+<body>
+<style>
+body {font-family: Arial, Helvetica, sans-serif;}
+*, *:after, *:before {
+  box-sizing: border-box;}
+.base {
+  margin: 0 auto;
+  padding:0px;
+  width: 100%;
+  background: white;
+  max-width: 1280px;
+  box-shadow: 0 0 10px #000000;
+}
+.row {
+  display: flex;
+  flex-wrap: wrap;
+}
+.tmplt{
+  width: 33%;
+  height: 30px;
+  text-align: center;
+}
+.footer_end {
+  height:5px;
+  padding: 5px 0;
+  background: #00cc00;
+  color: white;
+}
+</style>
+
+<div class="base">
+<header></header>
+<div class="main row">
+  <div style="width:50%;height:50px;text-align:left;padding-left:5px"><h3>Всего доброго, $firstname,  $patronymic !</h3></div>
+  <div style="width:50%;height:50px;text-align:right;padding-right:5px"><h3>dd.mm.yyyy</h3></div>
+  <div style="padding:10px;width:100%;"><hr><h3>Спасибо за работу!<h3></br>
+  </div>
+</div>
+<div class="footer_end"></div>
+</div>
+
+</body>
+</html>
