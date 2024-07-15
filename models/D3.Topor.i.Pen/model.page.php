@@ -20,8 +20,8 @@ $alting = 'alt="'.$title. '" title="'.$title.'"';
 		<div class="cut contentbox row">
 			
 			<div class="modelcard-img">
-				<a href="<?=$adress?>/StoneSword_title_1_800.jpg" rel="zoom">
-				<img src="<?=$adress?>/StoneSword_title_1_150.jpg" <?=$alting?> width="150px" border="0"></a>
+				<a href="<?=$adress?>/title.jpg" rel="zoom">
+				<img src="<?=$adress?>/title_s.jpg" <?=$alting?> width="150px" border="0"></a>
 			</div>
 			
 			<div class="modelcard">
