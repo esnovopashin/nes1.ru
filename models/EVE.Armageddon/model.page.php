@@ -18,8 +18,8 @@ $alting = 'alt="'.$title. '" title="'.$title.'"';
 		<div class="cut contentbox row">
 			
 			<div class="modelcard-img">
-				<a href="<?=$adress?>/img.jpg" <?=$alting?> rel="zoom">
-				<img src="<?=$adress?>/img_s.jpg" <?=$alting?> width="150px" border="0"></a>
+				<a href="<?=$adress?>/title.jpg" <?=$alting?> rel="zoom">
+				<img src="<?=$adress?>/title_s.jpg" <?=$alting?> width="150px" border="0"></a>
 				<br>&nbsp;<br>&nbsp;
 			</div>
 			
@@ -28,7 +28,7 @@ $alting = 'alt="'.$title. '" title="'.$title.'"';
 					<strong><h3><?=$title?></h3></strong>
 				</div>
 				<div class="dash contentbox"  style="min-height:80px">
-<?php
+				<?php
 function displayImages() {
     $currentDirectory = dirname(__FILE__);
     $rootPath = str_replace($_SERVER['DOCUMENT_ROOT'], '', $currentDirectory);
@@ -41,9 +41,15 @@ function displayImages() {
     if (!empty($images)) {
         // Выводим каждое изображение в div
         foreach ($images as $image) {
+            $basename = basename($image);
+            // Исключаем изображения, содержащие в названии слово "title" в любом контексте
+            if (stripos($basename, 'title') !== false) {
+                continue;
+            }
+
             echo '<div style="display: inline-block; margin-right: 10px; width: 100px;">';
-			echo '<a href="'. $url . '/' . basename($image) . '" rel="zoom">';
-            echo '<img src="'. $url . '/' . basename($image) . '" alt="Image" style="width: 100%;"></a>';
+            echo '<a href="'. $url . '/' . $basename . '" rel="zoom">';
+            echo '<img src="'. $url . '/' . $basename . '" alt="Image" style="width: 100%;"></a>';
             echo '</div>';
         }
     } 
