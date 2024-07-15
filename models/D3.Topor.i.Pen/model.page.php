@@ -46,7 +46,7 @@ $alting = 'alt="'.$title. '" title="'.$title.'"';
 					<strong>Сложность:</strong> от 10 лет<br>
 				</div>
 				<div class="dash contentbox" style="padding-left:10px">
-					<a href="https://yadi.sk/d/39ZfXW0pg6vfh">Cкачать</a><br>&nbsp;<br>
+					<a href="https://disk.yandex.ru/d/mGR8kwz0EKFZd">Cкачать</a><br>&nbsp;<br>
 				</div>
 				<script type="text/javascript" src="//yandex.st/share/share.js" charset="utf-8"></script>
 				<div class="yashare-auto-init" data-yashareL10n="ru" data-yashareQuickServices="yaru,vkontakte,facebook,twitter,odnoklassniki,moimir" data-yashareTheme="counter"></div>
