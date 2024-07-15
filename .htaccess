@@ -1,4 +1,4 @@
-ErrorDocument 404 https://nes1.ru/index.php?page=404
+ErrorDocument 404 /index.php?page=404
 php_flag display_errors 0
 
 #Redirect 301 / https://nes1.ru

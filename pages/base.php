@@ -26,7 +26,7 @@ $alting = 'alt="'.$title. '" title="'.$title.'"';
         <br>
 		Бумажные модели, представленные в <a href="<?=$pagelink?>gallery" title="перейти">галерее <i class="fa fa-external-link" aria-hidden="true" style="font-size:12px"></i></a> - это все модели, что сделал на данный момент. Обратите внимание, что некоторые из них не имеют инструкции по сборке. подробную информацию можно получить на странице интересующей Вас модели
         <br>
-		<small>Сайт создается с помощью нейронок, в качестве помощника, консультанта (Aria в браузере Opera, а также <a href=""https://chat.deepseek.com/coder title="deepseek">deepseek</a>) и <a href="https://codepen.io/pen/" title="CodePen">CodePen <i class="fa fa-external-link" aria-hidden="true" style="font-size:12px"></i></a>, контент в ДОработке.
+		<small>Сайт создается с помощью нейронок, в качестве помощника, консультанта (Aria в браузере Opera, а также <a href="https://chat.deepseek.com/coder" title="deepseek">deepseek</a>) и <a href="https://codepen.io/pen/" title="CodePen">CodePen <i class="fa fa-external-link" aria-hidden="true" style="font-size:12px"></i></a>, контент в ДОработке.
 		И это - моя опытная площадка в "сайтострое". Простите, если что не так, ну или черкните в почту, что исправить.</small></p>
     </div>
 
