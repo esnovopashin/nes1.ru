@@ -42,7 +42,8 @@ function displayImages() {
         // Выводим каждое изображение в div
         foreach ($images as $image) {
             echo '<div style="display: inline-block; margin-right: 10px; width: 100px;">';
-            echo '<img src="'. $url . '/' . basename($image) . '" alt="Image" style="width: 100%;">';
+			echo '<a href="'. $url . '/' . basename($image) . '" rel="zoom">';
+            echo '<img src="'. $url . '/' . basename($image) . '" alt="Image" style="width: 100%;"></a>';
             echo '</div>';
         }
     } 
