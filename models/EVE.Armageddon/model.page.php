@@ -28,7 +28,7 @@ $alting = 'alt="'.$title. '" title="'.$title.'"';
 					<strong><h3><?=$title?></h3></strong>
 				</div>
 				<div class="dash contentbox"  style="min-height:80px">
-				<?php
+<?php
 function displayImages() {
     $currentDirectory = dirname(__FILE__);
     $rootPath = str_replace($_SERVER['DOCUMENT_ROOT'], '', $currentDirectory);

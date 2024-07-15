@@ -44,9 +44,15 @@ function displayImages() {
     if (!empty($images)) {
         // Выводим каждое изображение в div
         foreach ($images as $image) {
+            $basename = basename($image);
+            // Исключаем изображения, содержащие в названии слово "title" в любом контексте
+            if (stripos($basename, 'title') !== false) {
+                continue;
+            }
+
             echo '<div style="display: inline-block; margin-right: 10px; width: 100px;">';
-			echo '<a href="'. $url . '/' . basename($image) . '" rel="zoom">';
-            echo '<img src="'. $url . '/' . basename($image) . '" alt="Image" style="width: 100%;"></a>';
+            echo '<a href="'. $url . '/' . $basename . '" rel="zoom">';
+            echo '<img src="'. $url . '/' . $basename . '" alt="Image" style="width: 100%;"></a>';
             echo '</div>';
         }
     } 
