@@ -12,7 +12,7 @@
 				<a href="https://yadi.sk/i/AGkC37RbgGE7A"><img src="img/download.gif" alt="download it..." border="0" class="post_img"></a>
 			</div>
 			<div class="postbox col-3 dash">
-				<a target="_blank" href="http://paper-replika.com/index.php?option=com_content&view=article&id=5612:r2-d2-star-wars-papercraft&catid=40&Itemid=200144#how_to_make" title="посетить">страница автора</a>
+				<a target="_blank" href="https://www.paper-replika.com/index.php/star-wars/r2-d2-star-wars-papercraft?highlight=WyJyMmQyIl0=" title="посетить">страница автора</a>
 			</div>
 		</div>
 <!-- строка со ссылкой -->
@@ -28,7 +28,7 @@
 				<a href="https://yadi.sk/d/BAF9Bw7QDhADa"><img src="img/download.gif" alt="download it..." border="0" class="post_img"></a>
 			</div>
 			<div class="postbox col-3 dash">
-				<a target="_blank" href="https://www.paper-replika.com/index.php?option=com_content&view=article&id=1470:republic-attack-gunship&catid=40&Itemid=202089" title="посетить">Страница Мастера</a>  
+				<a target="_blank" href="https://www.paper-replika.com/index.php/star-wars/republic-attack-gunship?highlight=WyJyZXB1YmxpYyIsImF0dGFjayIsImd1bnNoaXAiXQ==" title="посетить">Страница Мастера</a>  
 			</div>
 		</div>
 <!-- строка со ссылкой -->
@@ -51,7 +51,7 @@
 <!-- строка со ссылкой -->
 		<div class="row ahov">
 			<div class="postbox col-1 dash">
-			<a href="#" rel="zoom"><img src="img/camera_1.gif" alt="нет просмотра" width="20" height="17" border="0" class="post_img"></a>
+			<a href="img/_other/republic-gunship-top-blue.jpg" rel="zoom"><img src="img/camera_1.gif" alt="нет просмотра" width="20" height="17" border="0" class="post_img"></a>
 			</div>
 			<div class="postbox col-7 dash">
 				<b>Muunilinst 10 LAAT Gunship</b> =StarWars=
@@ -60,14 +60,14 @@
 				<a href="https://yadi.sk/d/e4vBno9UDeiez"><img src="img/download.gif" alt="download it..." border="0" class="post_img"></a>
 			</div>
 			<div class="postbox col-3 dash">
-				<a target="_blank" href="https://www.paper-replika.com/index.php?option=com_content&view=article&id=1501:muunilinst-10-laat-gunship-&catid=40&Itemid=202089" title="посетить">Страница Мастера</a>  
+				<a target="_blank" href="https://www.paper-replika.com/index.php/star-wars/muunilinst-10-laat-gunship?highlight=WyJtdXVuaWxpbnN0IiwxMCwibGFhdCIsImd1bnNoaXAiXQ==" title="посетить">Страница Мастера</a>  
 			</div>
 		</div>
 <!-- строка со ссылкой -->
 <!-- строка со ссылкой -->
 		<div class="row ahov">
 			<div class="postbox col-1 dash">
-			<a href="#" rel="zoom"><img src="img/camera_1.gif" alt="нет просмотра" width="20" height="17" border="0" class="post_img"></a>
+			<a href="img/_other/a-wingintro.jpg" rel="zoom"><img src="img/camera_1.gif" alt="нет просмотра" width="20" height="17" border="0" class="post_img"></a>
 			</div>
 			<div class="postbox col-7 dash">
 				<b>A-Wing Interceptor</b> =StarWars=
@@ -83,7 +83,7 @@
 <!-- строка со ссылкой -->
 		<div class="row ahov">
 			<div class="postbox col-1 dash">
-			<a href="#" rel="zoom"><img src="img/camera_1.gif" alt="просмотр" width="20" height="17" border="0" class="post_img"></a>
+			<a href="img/_other/T-47 Snowspeeder.jpg" rel="zoom"><img src="img/camera_1.gif" alt="просмотр" width="20" height="17" border="0" class="post_img"></a>
 			</div>
 			<div class="postbox col-7 dash">
 				<b>T-47 Snowspeeder</b> =StarWars=
@@ -99,23 +99,23 @@
 <!-- строка со ссылкой -->
 		<div class="row ahov">
 			<div class="postbox col-1 dash">
-			<a href="#" rel="zoom"><img src="img/camera_1.gif" alt="просмотр" width="20" height="17" border="0" class="post_img"></a>
+			<a href="img/_other/pic-cockpitETA-2.jpg" rel="zoom"><img src="img/camera_1.gif" alt="просмотр" width="20" height="17" border="0" class="post_img"></a>
 			</div>
 			<div class="postbox col-7 dash">
 				<b>ETA-2 Cockpit (Patterns)</b> =StarWars=
 			</div>
 			<div class="postbox col-1 dash">
-				<a href="#"><img src="img/download.gif" alt="download it..." border="0" class="post_img"></a>
+				<a href="https://www.paper-replika.com/index.php/star-wars/eta-2-cockpit-papercraft-template?start=1"><img src="img/download.gif" alt="download it..." border="0" class="post_img"></a>
 			</div>
 			<div class="postbox col-3 dash">
-				<a target="_blank" href="https://www.paper-replika.com/index.php?option=com_content&view=article&id=1135:eta-2-cockpit-patterns&catid=40&Itemid=202089" title="посетить">Страница Мастера</a>  
+				<a target="_blank" href="https://www.paper-replika.com/index.php/star-wars/eta-2-cockpit-papercraft-template" title="посетить">Страница Мастера</a>  
 			</div>
 		</div>
 <!-- строка со ссылкой -->
       <!-- строка со ссылкой -->
 		<div class="row ahov">
 			<div class="postbox col-1 dash">
-			<a href="#" rel="zoom"><img src="img/camera_1.gif" alt="просмотр" width="20" height="17" border="0" class="post_img"></a>
+			<a href="img/_other/74-Z_Speeder_Bike.jpg" rel="zoom"><img src="img/camera_1.gif" alt="просмотр" width="20" height="17" border="0" class="post_img"></a>
 			</div>
 			<div class="postbox col-7 dash">
 				<b>74-Z Speeder Bike</b> =StarWars=
@@ -124,14 +124,14 @@
 				<a href="https://yadi.sk/d/UBtH_wuzDemCh"><img src="img/download.gif" alt="download it..." border="0" class="post_img"></a>
 			</div>
 			<div class="postbox col-3 dash">
-				<a target="_blank" href="https://www.paper-replika.com/index.php?option=com_content&view=article&id=547:74-z-speeder-bike-star-wars&catid=40&Itemid=202089" title="посетить">Страница Мастера</a>  
+				<a target="_blank" href="https://www.paper-replika.com/index.php/star-wars/74-z-speeder-bike-star-wars-papercraft?highlight=WyI3NC16Iiwic3BlZWRlciIsImJpa2UiXQ==" title="посетить">Страница Мастера</a>  
 			</div>
 		</div>
 <!-- строка со ссылкой -->
 <!-- строка со ссылкой -->
 		<div class="row ahov">
 			<div class="postbox col-1 dash">
-			<a href="img/_other/darth_vader.jpg" rel="zoom"><img src="img/camera_1.gif" alt="просмотр" width="20" height="17" border="0" class="post_img"></a>
+			<a href="img/_other/ARC-170_Clone_War_version.jpg" rel="zoom"><img src="img/camera_1.gif" alt="просмотр" width="20" height="17" border="0" class="post_img"></a>
 			</div>
 			<div class="postbox col-7 dash">
 				<b>ARC-170 Clone War version</b> =StarWars=
@@ -140,14 +140,14 @@
 				<a href="#"><img src="img/download.gif" alt="download it..." border="0" class="post_img"></a>
 			</div>
 			<div class="postbox col-3 dash">
-				<a target="_blank" href="https://www.paper-replika.com/index.php?option=com_content&view=article&id=448:arc-170-clone-war-version&catid=40&Itemid=202089" title="посетить">Страница Мастера</a>  
+				<a target="_blank" href="https://www.paper-replika.com/index.php/star-wars/arc-170-clone-war-version-paper-model" title="посетить">Страница Мастера</a>  
 			</div>
 		</div>
 <!-- строка со ссылкой -->
 <!-- строка со ссылкой -->
 		<div class="row ahov">
 			<div class="postbox col-1 dash">
-			<a href="#" rel="zoom"><img src="img/camera_1.gif" alt="просмотр" width="20" height="17" border="0" class="post_img"></a>
+			<a href="img/_other/ARC-170.jpg" rel="zoom"><img src="img/camera_1.gif" alt="просмотр" width="20" height="17" border="0" class="post_img"></a>
 			</div>
 			<div class="postbox col-7 dash">
 				<b>ARC-170</b> =StarWars=
@@ -156,14 +156,14 @@
 				<a href="#"><img src="img/download.gif" alt="download it..." border="0" class="post_img"></a>
 			</div>
 			<div class="postbox col-3 dash">
-				<a target="_blank" href="https://www.paper-replika.com/index.php?option=com_content&view=article&id=432:arc-170-fighter&catid=40&Itemid=202089" title="посетить">Страница Мастера</a>  
+				<a target="_blank" href="https://www.paper-replika.com/index.php/star-wars/arc-170-fighter-paper-model" title="посетить">Страница Мастера</a>  
 			</div>
 		</div>
 <!-- строка со ссылкой -->
 <!-- строка со ссылкой -->
 		<div class="row ahov">
 			<div class="postbox col-1 dash">
-			<a href="#" rel="zoom"><img src="img/camera_1.gif" alt="просмотр" width="20" height="17" border="0" class="post_img"></a>
+			<a href="img/_other/vulture-droid-paper.jpg" rel="zoom"><img src="img/camera_1.gif" alt="просмотр" width="20" height="17" border="0" class="post_img"></a>
 			</div>
 			<div class="postbox col-7 dash">
 				<b>Vulture Droid</b> =StarWars=
@@ -172,14 +172,14 @@
 				<a href="#"><img src="img/download.gif" alt="download it..." border="0" class="post_img"></a>
 			</div>
 			<div class="postbox col-3 dash">
-				<a target="_blank" href="https://www.paper-replika.com/index.php?option=com_content&view=article&id=507:vulture-droid&catid=40&Itemid=202089" title="посетить">Страница Мастера</a>  
+				<a target="_blank" href="https://www.paper-replika.com/index.php/star-wars/vulture-droid-star-wars-papercraft" title="посетить">Страница Мастера</a>  
 			</div>
 		</div>
 <!-- строка со ссылкой -->
 <!-- строка со ссылкой -->
 		<div class="row ahov">
 			<div class="postbox col-1 dash">
-			<a href="#" rel="zoom"><img src="img/camera_1.gif" alt="просмотр" width="20" height="17" border="0" class="post_img"></a>
+			<a href="img/_other/naboo_4.jpg" rel="zoom"><img src="img/camera_1.gif" alt="просмотр" width="20" height="17" border="0" class="post_img"></a>
 			</div>
 			<div class="postbox col-7 dash">
 				<b>Naboo N-1 Starfighter</b> =StarWars=
@@ -188,14 +188,14 @@
 				<a href="https://yadi.sk/d/0LND1H4LDeq8P"><img src="img/download.gif" alt="download it..." border="0" class="post_img"></a>
 			</div>
 			<div class="postbox col-3 dash">
-				<a target="_blank" href="https://www.paper-replika.com/index.php?option=com_content&view=article&id=440:naboo-n-1-starfighter&catid=40&Itemid=202089" title="посетить">Страница Мастера</a>  
+				<a target="_blank" href="https://www.paper-replika.com/index.php/star-wars/naboo-n-1-starfighter-paper-model" title="посетить">Страница Мастера</a>  
 			</div>
 		</div>
 <!-- строка со ссылкой -->
 <!-- строка со ссылкой -->
 		<div class="row ahov">
 			<div class="postbox col-1 dash">
-			<a href="#" rel="zoom"><img src="img/camera_1.gif" alt="просмотр" width="20" height="17" border="0" class="post_img"></a>
+			<a href="img/_other/ETA-2_Anakins_Jedi_Starfighter.jpg" rel="zoom"><img src="img/camera_1.gif" alt="просмотр" width="20" height="17" border="0" class="post_img"></a>
 			</div>
 			<div class="postbox col-7 dash">
 				<b>ETA-2 Anakins Jedi Starfighter</b> =StarWars=
@@ -204,14 +204,14 @@
 				<a href="https://yadi.sk/d/q-Fi6SKzDer3R"><img src="img/download.gif" alt="pass: paper-replika.com" border="0" class="post_img"></a>
 			</div>
 			<div class="postbox col-3 dash">
-				<a target="_blank" href="https://www.paper-replika.com/index.php?option=com_content&view=article&id=425:eta-2-anakins-jedi-starfighter&catid=40&Itemid=202089" title="посетить">Страница Мастера</a>  
+				<a target="_blank" href="https://www.paper-replika.com/index.php/star-wars/eta-2-anakins-jedi-starfighter-paper-model" title="посетить">Страница Мастера</a>  
 			</div>
 		</div>
 <!-- строка со ссылкой -->
 <!-- строка со ссылкой -->
 		<div class="row ahov">
 			<div class="postbox col-1 dash">
-			<a href="img/_other/lonetrooper_helmet.jpg" rel="zoom"><img src="img/camera_1.gif" alt="просмотр" width="20" height="17" border="0" class="post_img"></a>
+			<a href="img/_other/clonetrooper_helmet.jpg" rel="zoom"><img src="img/camera_1.gif" alt="просмотр" width="20" height="17" border="0" class="post_img"></a>
 			</div>
 			<div class="postbox col-7 dash">
 				<b>Шлем Клона / Clonetrooper helmet</b> =StarWars= 
@@ -220,7 +220,7 @@
 				<a href="#"><img src="img/download.gif" alt="download it..." border="0" class="post_img"></a>
 			</div>
 			<div class="postbox col-3 dash">
-				<a target="_blank" href="http://only-paper.ru/news/shlem_klona_clonetrooper_helmet_star_wars/2010-07-28-5369" title="посетить">Ресурс, с которого получена модель</a>  
+				<a target="_blank" href="https://only-paper.ru/load/snarjazhenie/shlem_iz_bumagi/shlem_klona_clonetrooper_helmet_star_wars/147-1-0-2416" title="посетить">Ресурс, с которого получена модель</a>  
 			</div>
 		</div>
 <!-- строка со ссылкой -->
@@ -236,7 +236,7 @@
 				<a href="#"><img src="img/download.gif" alt="download it..." border="0" class="post_img"></a>
 			</div>
 			<div class="postbox col-3 dash">
-				<a target="_blank" href="http://only-paper.ru/news/shlem_darta_vejdera_darth_vader_zvezdnye_vojny/2010-01-03-4402" title="посетить">Ресурс, с которого получена модель</a>  
+				<a target="_blank" href="https://only-paper.ru/load/snarjazhenie/shlem_iz_bumagi/shlem_darta_vejdera_zvezdnye_vojny/147-1-0-3621" title="посетить">Ресурс, с которого получена модель</a>  
 			</div>
 		</div>
 <!-- строка со ссылкой -->
@@ -252,7 +252,7 @@
 				<a href="#"><img src="img/download.gif" alt="download it..." border="0" class="post_img"></a>
 			</div>
 			<div class="postbox col-3">
-				<a target="_blank" href="http://only-paper.ru/news/jango_fett_star_wars/2010-11-03-5896" title="посетить">Ресурс, с которого получена модель</a>  
+				<a target="_blank" href="https://only-paper.ru/load/figury_iz_bumagi/voin_iz_bumagi/jango_fett_star_wars/174-1-0-4935" title="посетить">Ресурс, с которого получена модель</a>  
 			</div>
 		</div>
 <!-- строка со ссылкой -->

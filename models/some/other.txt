@@ -560,6 +560,22 @@
 			</div>
 		</div>
 <!-- строка со ссылкой -->
+<!-- строка со ссылкой -->
+		<div class="row ahov">
+			<div class="postbox col-1">
+			<a href="#" rel="zoom"><img src="img/camera_1.gif" alt="просмотр" width="20" height="17" border="0" class="post_img"></a>
+			</div>
+			<div class="postbox col-7">
+				<b>Архитектурные модели</b> =Замки Испании=
+			</div>
+			<div class="postbox col-1">
+				<a href="http://www.dipualba.es/webcultura/default.aspx?id=888"><img src="img/download.gif" alt="download it..." border="0" class="post_img"></a>
+			</div>
+			<div class="postbox col-3">
+				<a target="_blank" href="https://only-paper.ru/forum/3-8435-204" title="посетить">Ресурс, с которого получена модель</a>  
+			</div>
+		</div>
+<!-- строка со ссылкой -->
     
     
     </div>
