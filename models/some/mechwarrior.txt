@@ -1471,10 +1471,11 @@
 			</div>
 		</div>
 <!-- строка со ссылкой -->
+
 <!-- строка со ссылкой -->
 		<div class="row ahov dash">
 			<div class="postbox col-1">
-			<a href="#" rel="zoom"><img src="img/camera_1.gif" alt="просмотр" width="20" height="17" border="0" class="post_img"></a>
+			<a href="img/_other/Naga_battletech.jpg" rel="zoom"><img src="img/camera_1.gif" alt="просмотр" width="20" height="17" border="0" class="post_img"></a>
 			</div>
 			<div class="postbox col-7">
 				 <b>Naga</b> =Classic Battletech= 
@@ -1483,14 +1484,15 @@
 				<a href="https://yadi.sk/d/1C_MkT6ZDkNX3"><img src="img/download.gif" alt="download it..." border="0" class="post_img"></a>
 			</div>
 			<div class="postbox col-3">
-				<a target="_blank" href="https://www.mechwarrior3.org/" title="посетить">Прямая ссылка</a>  
+				<a target="_blank" href="https://www.smallrealities.com/index.php/battletech/24-mechwarrior-paper-models" title="посетить">Прямая ссылка</a>  
 			</div>
 		</div>
 <!-- строка со ссылкой -->
+
 <!-- строка со ссылкой -->
 		<div class="row ahov dash">
 			<div class="postbox col-1">
-			<a href="#" rel="zoom"><img src="img/camera_1.gif" alt="просмотр" width="20" height="17" border="0" class="post_img"></a>
+			<a href="img/_other/Naginata_battletech.jpg" rel="zoom"><img src="img/camera_1.gif" alt="просмотр" width="20" height="17" border="0" class="post_img"></a>
 			</div>
 			<div class="postbox col-7">
 				 <b>Naginata</b> =Classic Battletech= 
@@ -1499,46 +1501,49 @@
 				<a href="https://yadi.sk/d/Y1poYohJDkNbo"><img src="img/download.gif" alt="download it..." border="0" class="post_img"></a>
 			</div>
 			<div class="postbox col-3">
-				<a target="_blank" href="https://www.mechwarrior3.org/" title="посетить">Прямая ссылка</a>  
+				<a target="_blank" href="https://www.smallrealities.com/index.php/battletech/24-mechwarrior-paper-models" title="посетить">Прямая ссылка</a>  
 			</div>
 		</div>
 <!-- строка со ссылкой -->
+
 <!-- строка со ссылкой -->
 		<div class="row ahov dash">
 			<div class="postbox col-1">
-			<a href="#" rel="zoom"><img src="img/camera_1.gif" alt="просмотр" width="20" height="17" border="0" class="post_img"></a>
+			<a href="img/_other/CBT_Penetrator.jpg" rel="zoom"><img src="img/camera_1.gif" alt="просмотр" width="20" height="17" border="0" class="post_img"></a>
 			</div>
 			<div class="postbox col-7">
 				 <b>Penetrator</b> =Classic Battletech= 
 			</div>
 			<div class="postbox col-1">
-				<a href="#"><img src="img/download.gif" alt="download it..." border="0" class="post_img"></a>
+				<a href="http://www.mediafire.com/download/ldnm2mng0w0/CBT_Penetrator_Papermodel.rar"><img src="img/download.gif" alt="download it..." border="0" class="post_img"></a>
 			</div>
 			<div class="postbox col-3">
-				<a target="_blank" href="https://www.mechwarrior3.org/" title="посетить">Прямая ссылка</a>  
+				<a target="_blank" href="https://www.smallrealities.com/index.php/battletech/24-mechwarrior-paper-models" title="посетить">Прямая ссылка</a>  
 			</div>
 		</div>
 <!-- строка со ссылкой -->
+
 <!-- строка со ссылкой -->
 		<div class="row ahov dash">
 			<div class="postbox col-1">
-			<a href="#" rel="zoom"><img src="img/camera_1.gif" alt="просмотр" width="20" height="17" border="0" class="post_img"></a>
+			<a href="img/_other/Thanatos_battletech.jpg" rel="zoom"><img src="img/camera_1.gif" alt="просмотр" width="20" height="17" border="0" class="post_img"></a>
 			</div>
 			<div class="postbox col-7">
 				 <b>Thanatos</b> =Classic Battletech= 
 			</div>
 			<div class="postbox col-1">
-				<a href="#"><img src="img/download.gif" alt="download it..." border="0" class="post_img"></a>
+				<a href="http://www.mediafire.com/download/56573r0h4wwv8kq/MW4_Thanatos_Papermodel.zip"><img src="img/download.gif" alt="download it..." border="0" class="post_img"></a>
 			</div>
 			<div class="postbox col-3">
-				<a target="_blank" href="https://www.mechwarrior3.org/" title="посетить">Прямая ссылка</a>  
+				<a target="_blank" href="https://www.smallrealities.com/index.php/battletech/24-mechwarrior-paper-models" title="посетить">Прямая ссылка</a>  
 			</div>
 		</div>
 <!-- строка со ссылкой -->
+
 <!-- строка со ссылкой -->
 		<div class="row ahov dash">
 			<div class="postbox col-1">
-			<a href="#" rel="zoom"><img src="img/camera_1.gif" alt="просмотр" width="20" height="17" border="0" class="post_img"></a>
+			<a href="img/_other/toyama_battletech.jpg" rel="zoom"><img src="img/camera_1.gif" alt="просмотр" width="20" height="17" border="0" class="post_img"></a>
 			</div>
 			<div class="postbox col-7">
 				 <b>Toyama</b> =Classic Battletech= 
@@ -1547,14 +1552,15 @@
 				<a href="https://yadi.sk/d/lI8p5sccDkNrS"><img src="img/download.gif" alt="download it..." border="0" class="post_img"></a>
 			</div>
 			<div class="postbox col-3">
-				<a target="_blank" href="https://www.mechwarrior3.org/" title="посетить">Прямая ссылка</a>  
+				<a target="_blank" href="https://www.smallrealities.com/index.php/battletech/24-mechwarrior-paper-models" title="посетить">Прямая ссылка</a>  
 			</div>
 		</div>
 <!-- строка со ссылкой -->
+
 <!-- строка со ссылкой -->
 		<div class="row ahov dash">
 			<div class="postbox col-1">
-			<a href="#" rel="zoom"><img src="img/camera_1.gif" alt="просмотр" width="20" height="17" border="0" class="post_img"></a>
+			<a href="img/_other/sirocco_battletech.jpg" rel="zoom"><img src="img/camera_1.gif" alt="просмотр" width="20" height="17" border="0" class="post_img"></a>
 			</div>
 			<div class="postbox col-7">
 				 <b>Sirocco</b> =Classic Battletech= 
@@ -1563,14 +1569,15 @@
 				<a href="https://yadi.sk/d/cv6lkKBCDkNus"><img src="img/download.gif" alt="download it..." border="0" class="post_img"></a>
 			</div>
 			<div class="postbox col-3">
-				<a target="_blank" href="https://www.mechwarrior3.org/" title="посетить">Прямая ссылка</a>  
+				<a target="_blank" href="https://www.smallrealities.com/index.php/battletech/24-mechwarrior-paper-models" title="посетить">Прямая ссылка</a>  
 			</div>
 		</div>
 <!-- строка со ссылкой -->
+
 <!-- строка со ссылкой -->
 		<div class="row ahov dash">
 			<div class="postbox col-1">
-			<a href="#" rel="zoom"><img src="img/camera_1.gif" alt="просмотр" width="20" height="17" border="0" class="post_img"></a>
+			<a href="img/_other/striker_battletech.jpg" rel="zoom"><img src="img/camera_1.gif" alt="просмотр" width="20" height="17" border="0" class="post_img"></a>
 			</div>
 			<div class="postbox col-7">
 				 <b>Striker</b> =Classic Battletech= 
@@ -1579,55 +1586,57 @@
 				<a href="https://yadi.sk/d/G5Dzk43KDkNyh"><img src="img/download.gif" alt="download it..." border="0" class="post_img"></a>
 			</div>
 			<div class="postbox col-3">
-				<a target="_blank" href="https://www.mechwarrior3.org/" title="посетить">Прямая ссылка</a>  
+				<a target="_blank" href="https://www.smallrealities.com/index.php/battletech/24-mechwarrior-paper-models" title="посетить">Прямая ссылка</a>  
 			</div>
 		</div>
 <!-- строка со ссылкой -->
+
 <!-- строка со ссылкой -->
 		<div class="row ahov dash">
 			<div class="postbox col-1">
-			<a href="#" rel="zoom"><img src="img/camera_1.gif" alt="просмотр" width="20" height="17" border="0" class="post_img"></a>
+			<a href="img/_other/yeoman-battletech.jpg" rel="zoom"><img src="img/camera_1.gif" alt="просмотр" width="20" height="17" border="0" class="post_img"></a>
 			</div>
 			<div class="postbox col-7">
 				 <b>Yeoman</b> =Classic Battletech= 
 			</div>
 			<div class="postbox col-1">
-				<a href="#"><img src="img/download.gif" alt="download it..." border="0" class="post_img"></a>
+				<a href="https://disk.yandex.ru/d/pKc5L9uYIpsBSQ"><img src="img/download.gif" alt="download it..." border="0" class="post_img"></a>
 			</div>
 			<div class="postbox col-3">
-				<a target="_blank" href="https://www.mechwarrior3.org/" title="посетить">Прямая ссылка</a>  
+				<a target="_blank" href="https://www.smallrealities.com/index.php/battletech/24-mechwarrior-paper-models" title="посетить">Прямая ссылка</a>  
 			</div>
 		</div>
 <!-- строка со ссылкой -->
+
 <!-- строка со ссылкой -->
 		<div class="row ahov dash">
 			<div class="postbox col-1">
-			<a href="#" rel="zoom"><img src="img/camera_1.gif" alt="просмотр" width="20" height="17" border="0" class="post_img"></a>
+			<a href="img/_other/Zentraedi_Battlepod.jpg" rel="zoom"><img src="img/camera_1.gif" alt="просмотр" width="20" height="17" border="0" class="post_img"></a>
 			</div>
 			<div class="postbox col-7">
-				 <b>Zentraedi Battlepod</b> =Classic Battletech= 
+				 <b>Zentraedi Battlepod</b> =Robotech / Macross= 
 			</div>
 			<div class="postbox col-1">
-				<a href="#"><img src="img/download.gif" alt="download it..." border="0" class="post_img"></a>
+				<a href="https://disk.yandex.ru/d/XZLwqPFQzMvoAQ"><img src="img/download.gif" alt="download it..." border="0" class="post_img"></a>
 			</div>
 			<div class="postbox col-3">
-				<a target="_blank" href="https://www.mechwarrior3.org/" title="посетить">Прямая ссылка</a>  
+				<a target="_blank" href="https://www.smallrealities.com/index.php/battletech/24-mechwarrior-paper-models" title="посетить">Прямая ссылка</a>  
 			</div>
 		</div>
 <!-- строка со ссылкой -->
 <!-- строка со ссылкой -->
 		<div class="row ahov">
 			<div class="postbox col-1">
-			<a href="#" rel="zoom"><img src="img/camera_1.gif" alt="просмотр" width="20" height="17" border="0" class="post_img"></a>
+			<a href="img/_other/Locust_Classic_Battletech.jpg" rel="zoom"><img src="img/camera_1.gif" alt="просмотр" width="20" height="17" border="0" class="post_img"></a>
 			</div>
 			<div class="postbox col-7">
 				 <b>Locust</b> =Classic Battletech= 
 			</div>
 			<div class="postbox col-1">
-				<a href="#"><img src="img/download.gif" alt="download it..." border="0" class="post_img"></a>
+				<a href="https://disk.yandex.ru/d/5ic5nSixHxMNqg"><img src="img/download.gif" alt="download it..." border="0" class="post_img"></a>
 			</div>
 			<div class="postbox col-3">
-				<a target="_blank" href="https://www.mechwarrior3.org/" title="посетить">Прямая ссылка</a>  
+				<a target="_blank" href="http://lady-die.deviantart.com/" title="посетить">Прямая ссылка</a>  
 			</div>
 		</div>
 <!-- строка со ссылкой -->
