@@ -1439,10 +1439,11 @@
 			</div>
 		</div>
 <!-- строка со ссылкой -->
+
 <!-- строка со ссылкой -->
 		<div class="row ahov dash">
 			<div class="postbox col-1">
-			<a href="#" rel="zoom"><img src="img/camera_1.gif" alt="просмотр" width="20" height="17" border="0" class="post_img"></a>
+			<a href="img/_other/CBT_Linebacker.jpg" rel="zoom"><img src="img/camera_1.gif" alt="просмотр" width="20" height="17" border="0" class="post_img"></a>
 			</div>
 			<div class="postbox col-7">
 				 <b>Linebacker</b> =Classic Battletech= 
@@ -1451,7 +1452,7 @@
 				<a href="https://yadi.sk/d/EM52QdhQDkNNr"><img src="img/download.gif" alt="download it..." border="0" class="post_img"></a>
 			</div>
 			<div class="postbox col-3">
-				<a target="_blank" href="https://www.mechwarrior3.org/" title="посетить">Прямая ссылка</a>  
+				<a target="_blank" href="https://www.smallrealities.com/index.php/battletech/24-mechwarrior-paper-models" title="посетить">Прямая ссылка</a>  
 			</div>
 		</div>
 <!-- строка со ссылкой -->
