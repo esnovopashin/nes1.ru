@@ -1298,7 +1298,7 @@
 <!-- строка со ссылкой -->
 		<div class="row ahov dash">
 			<div class="postbox col-1">
-			<a href="#" rel="zoom"><img src="img/camera_1.gif" alt="просмотр" width="20" height="17" border="0" class="post_img"></a>
+			<a href="img/_other/CBT_Argus.jpg" rel="zoom"><img src="img/camera_1.gif" alt="просмотр" width="20" height="17" border="0" class="post_img"></a>
 			</div>
 			<div class="postbox col-7">
 				 <b>Argus</b> =Classic Battletech= 
@@ -1307,14 +1307,15 @@
 				<a href="https://yadi.sk/d/oGFQbnAyDkM4T"><img src="img/download.gif" alt="download it..." border="0" class="post_img"></a>
 			</div>
 			<div class="postbox col-3">
-				<a target="_blank" href="https://www.mechwarrior3.org/" title="посетить">Прямая ссылка</a>  
+				<a target="_blank" href="https://www.smallrealities.com/index.php/battletech/24-mechwarrior-paper-models" title="посетить">Прямая ссылка</a>  
 			</div>
 		</div>
 <!-- строка со ссылкой -->
+
 <!-- строка со ссылкой -->
 		<div class="row ahov dash">
 			<div class="postbox col-1">
-			<a href="#" rel="zoom"><img src="img/camera_1.gif" alt="просмотр" width="20" height="17" border="0" class="post_img"></a>
+			<a href="img/_other/CBT_Crab.jpg" rel="zoom"><img src="img/camera_1.gif" alt="просмотр" width="20" height="17" border="0" class="post_img"></a>
 			</div>
 			<div class="postbox col-7">
 				 <b>Crab</b> =Classic Battletech= 
@@ -1323,14 +1324,15 @@
 				<a href="https://yadi.sk/d/Ui_MJoT3DkMZr"><img src="img/download.gif" alt="download it..." border="0" class="post_img"></a>
 			</div>
 			<div class="postbox col-3">
-				<a target="_blank" href="https://www.mechwarrior3.org/" title="посетить">Прямая ссылка</a>  
+				<a target="_blank" href="https://www.smallrealities.com/index.php/battletech/24-mechwarrior-paper-models" title="посетить">Прямая ссылка</a>  
 			</div>
 		</div>
 <!-- строка со ссылкой -->
+
 <!-- строка со ссылкой -->
 		<div class="row ahov dash">
 			<div class="postbox col-1">
-			<a href="#" rel="zoom"><img src="img/camera_1.gif" alt="просмотр" width="20" height="17" border="0" class="post_img"></a>
+			<a href="img/_other/CBT_Devastator.jpg" rel="zoom"><img src="img/camera_1.gif" alt="просмотр" width="20" height="17" border="0" class="post_img"></a>
 			</div>
 			<div class="postbox col-7">
 				 <b>Devastator</b> =Classic Battletech= 
@@ -1339,14 +1341,15 @@
 				<a href="https://yadi.sk/d/IRDEDlnuDkMeo"><img src="img/download.gif" alt="download it..." border="0" class="post_img"></a>
 			</div>
 			<div class="postbox col-3">
-				<a target="_blank" href="https://www.mechwarrior3.org/" title="посетить">Прямая ссылка</a>  
+				<a target="_blank" href="https://www.smallrealities.com/index.php/battletech/24-mechwarrior-paper-models" title="посетить">Прямая ссылка</a>  
 			</div>
 		</div>
 <!-- строка со ссылкой -->
+
 <!-- строка со ссылкой -->
 		<div class="row ahov dash">
 			<div class="postbox col-1">
-			<a href="#" rel="zoom"><img src="img/camera_1.gif" alt="просмотр" width="20" height="17" border="0" class="post_img"></a>
+			<a href="img/_other/CBT_Executioner.jpg" rel="zoom"><img src="img/camera_1.gif" alt="просмотр" width="20" height="17" border="0" class="post_img"></a>
 			</div>
 			<div class="postbox col-7">
 				 <b>Executioner</b> =Classic Battletech= 
@@ -1355,14 +1358,15 @@
 				<a href="https://yadi.sk/d/WnwfJ8AXDkMjE"><img src="img/download.gif" alt="download it..." border="0" class="post_img"></a>
 			</div>
 			<div class="postbox col-3">
-				<a target="_blank" href="https://www.mechwarrior3.org/" title="посетить">Прямая ссылка</a>  
+				<a target="_blank" href="https://www.smallrealities.com/index.php/battletech/24-mechwarrior-paper-models" title="посетить">Прямая ссылка</a>  
 			</div>
 		</div>
 <!-- строка со ссылкой -->
+
 <!-- строка со ссылкой -->
 		<div class="row ahov dash">
 			<div class="postbox col-1">
-			<a href="#" rel="zoom"><img src="img/camera_1.gif" alt="просмотр" width="20" height="17" border="0" class="post_img"></a>
+			<a href="img/_other/CBT_Gargoyle.jpg" rel="zoom"><img src="img/camera_1.gif" alt="просмотр" width="20" height="17" border="0" class="post_img"></a>
 			</div>
 			<div class="postbox col-7">
 				 <b>Gargoyle</b> =Classic Battletech= 
@@ -1371,14 +1375,15 @@
 				<a href="https://yadi.sk/d/8XHikH0LDkMtR"><img src="img/download.gif" alt="download it..." border="0" class="post_img"></a>
 			</div>
 			<div class="postbox col-3">
-				<a target="_blank" href="https://www.mechwarrior3.org/" title="посетить">Прямая ссылка</a>  
+				<a target="_blank" href="https://www.smallrealities.com/index.php/battletech/24-mechwarrior-paper-models" title="посетить">Прямая ссылка</a>  
 			</div>
 		</div>
 <!-- строка со ссылкой -->
+
 <!-- строка со ссылкой -->
 		<div class="row ahov dash">
 			<div class="postbox col-1">
-			<a href="#" rel="zoom"><img src="img/camera_1.gif" alt="просмотр" width="20" height="17" border="0" class="post_img"></a>
+			<a href="img/_other/CBT_Hellbringer.jpg" rel="zoom"><img src="img/camera_1.gif" alt="просмотр" width="20" height="17" border="0" class="post_img"></a>
 			</div>
 			<div class="postbox col-7">
 				 <b>Hellbringer</b> =Classic Battletech= 
@@ -1387,14 +1392,15 @@
 				<a href="https://yadi.sk/d/NT1wZ4TRDkMyQ"><img src="img/download.gif" alt="download it..." border="0" class="post_img"></a>
 			</div>
 			<div class="postbox col-3">
-				<a target="_blank" href="https://www.mechwarrior3.org/" title="посетить">Прямая ссылка</a>  
+				<a target="_blank" href="https://www.smallrealities.com/index.php/battletech/24-mechwarrior-paper-models" title="посетить">Прямая ссылка</a>  
 			</div>
 		</div>
 <!-- строка со ссылкой -->
+
 <!-- строка со ссылкой -->
 		<div class="row ahov dash">
 			<div class="postbox col-1">
-			<a href="#" rel="zoom"><img src="img/camera_1.gif" alt="просмотр" width="20" height="17" border="0" class="post_img"></a>
+			<a href="img/_other/CBT_Hyena.jpg" rel="zoom"><img src="img/camera_1.gif" alt="просмотр" width="20" height="17" border="0" class="post_img"></a>
 			</div>
 			<div class="postbox col-7">
 				 <b>Hyena Salvage Mech</b> =Classic Battletech= 
@@ -1403,14 +1409,15 @@
 				<a href="https://yadi.sk/d/y1K7_Eu4DkN7X"><img src="img/download.gif" alt="download it..." border="0" class="post_img"></a>
 			</div>
 			<div class="postbox col-3">
-				<a target="_blank" href="https://www.mechwarrior3.org/" title="посетить">Прямая ссылка</a>  
+				<a target="_blank" href="https://www.smallrealities.com/index.php/battletech/24-mechwarrior-paper-models" title="посетить">Прямая ссылка</a>  
 			</div>
 		</div>
 <!-- строка со ссылкой -->
+
 <!-- строка со ссылкой -->
 		<div class="row ahov dash">
 			<div class="postbox col-1">
-			<a href="#" rel="zoom"><img src="img/camera_1.gif" alt="просмотр" width="20" height="17" border="0" class="post_img"></a>
+			<a href="img/_other/CBT_IceFerret.jpg" rel="zoom"><img src="img/camera_1.gif" alt="просмотр" width="20" height="17" border="0" class="post_img"></a>
 			</div>
 			<div class="postbox col-7">
 				 <b>IceFerret</b> =Classic Battletech= 
@@ -1419,7 +1426,7 @@
 				<a href="https://yadi.sk/d/oWiW5KkKDkNCY"><img src="img/download.gif" alt="download it..." border="0" class="post_img"></a>
 			</div>
 			<div class="postbox col-3">
-				<a target="_blank" href="https://www.mechwarrior3.org/" title="посетить">Прямая ссылка</a>  
+				<a target="_blank" href="https://www.smallrealities.com/index.php/battletech/24-mechwarrior-paper-models" title="посетить">Прямая ссылка</a>  
 			</div>
 		</div>
 <!-- строка со ссылкой -->
@@ -1627,7 +1634,7 @@
 		</div>
 <!-- строка со ссылкой -->
 <!-- строка со ссылкой -->
-		<div class="row ahov">
+		<div class="row ahov dash">
 			<div class="postbox col-1">
 			<a href="img/_other/Locust_Classic_Battletech.jpg" rel="zoom"><img src="img/camera_1.gif" alt="просмотр" width="20" height="17" border="0" class="post_img"></a>
 			</div>
@@ -1639,6 +1646,23 @@
 			</div>
 			<div class="postbox col-3">
 				<a target="_blank" href="http://lady-die.deviantart.com/" title="посетить">Прямая ссылка</a>  
+			</div>
+		</div>
+<!-- строка со ссылкой -->
+
+<!-- строка со ссылкой -->
+		<div class="row ahov">
+			<div class="postbox col-1">
+			<a href="#"><img src="img/camera_1.gif" alt="просмотр не доступен" width="20" height="17" border="0" class="post_img"></a>
+			</div>
+			<div class="postbox col-7">
+				 <b>94 модели</b> Бумажные модели мехов, техники и строений из вселенной BattleTech 
+			</div>
+			<div class="postbox col-1">
+				<a href="https://yadi.sk/d/Q3Gn9QC2jLE4Y"><img src="img/download.gif" alt="download it..." border="0" class="post_img"></a>
+			</div>
+			<div class="postbox col-3">
+				<a target="_blank" href="http://btbooks.ru/component/content/article/3-2009-12-02-10-36-42/271-94papermodels" title="посетить">Прямая ссылка</a>  
 			</div>
 		</div>
 <!-- строка со ссылкой -->
