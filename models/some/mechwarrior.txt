@@ -16,10 +16,11 @@
 			</div>
 		</div>
 <!-- строка со ссылкой -->
+
 <!-- строка со ссылкой -->
 		<div class="row ahov">
 			<div class="postbox col-1 dash">
-			<a href="img/_other/rifleman.jpg" rel="zoom"><img src="img/camera_1.gif" alt="просмотр" width="20" height="17" border="0" class="post_img"></a>
+			<a href="img/_other/mw4_rifleman.jpg" rel="zoom"><img src="img/camera_1.gif" alt="просмотр" width="20" height="17" border="0" class="post_img"></a>
 			</div>
 			<div class="postbox col-7 dash">
 				<b>RifleMan</b> =MechWarrior= 
@@ -28,14 +29,15 @@
 				<a href="https://yadi.sk/d/UzOvAiDuDi4yb"><img src="img/download.gif" alt="download it..." border="0" class="post_img"></a>
 			</div>
 			<div class="postbox col-3 dash">
-				<a target="_blank" href="https://only-paper.ru/news/rifleman/2010-06-08-5106" title="посетить">Ресурс, с которого получена модель</a>  
+				<a target="_blank" href="https://www.smallrealities.com/index.php/battletech/24-mechwarrior-paper-models" title="посетить">Ресурс, с которого получена модель</a>  
 			</div>
 		</div>
 <!-- строка со ссылкой -->
+
 <!-- строка со ссылкой -->
 		<div class="row ahov">
 			<div class="postbox col-1 dash">
-			<a href="img/_other/masakari.jpg" rel="zoom"><img src="img/camera_1.gif" alt="просмотр" width="20" height="17" border="0" class="post_img"></a>
+			<a href="img/_other/MW3_Masakari.jpg" rel="zoom"><img src="img/camera_1.gif" alt="просмотр" width="20" height="17" border="0" class="post_img"></a>
 			</div>
 			<div class="postbox col-7 dash">
 				<b>Masakari</b> =MechWarrior= 
@@ -44,14 +46,15 @@
 				<a href="https://yadi.sk/d/PKYL3egXDi563"><img src="img/download.gif" alt="download it..." border="0" class="post_img"></a>
 			</div>
 			<div class="postbox col-3 dash">
-				<a target="_blank" href="https://only-paper.ru/news/masakari/2010-06-08-5105" title="посетить">Ресурс, с которого получена модель</a>  
+				<a target="_blank" href="https://www.smallrealities.com/index.php/battletech/24-mechwarrior-paper-models" title="посетить">Ресурс, с которого получена модель</a>  
 			</div>
 		</div>
 <!-- строка со ссылкой -->
+
 <!-- строка со ссылкой -->
 		<div class="row ahov">
 			<div class="postbox col-1 dash">
-			<a href="#" rel="zoom"><img src="img/camera_1.gif" alt="просмотр" width="20" height="17" border="0" class="post_img"></a>
+			<a href="img/_other/mw4_archer_steiner.jpg" rel="zoom"><img src="img/camera_1.gif" alt="просмотр" width="20" height="17" border="0" class="post_img"></a>
 			</div>
 			<div class="postbox col-7 dash">
 				 MW4 <b>Archer Steiner</b> =MechWarrior= 
@@ -60,14 +63,15 @@
 				<a href="https://yadi.sk/d/iWrXvp7jDi5CH"><img src="img/download.gif" alt="download it..." border="0" class="post_img"></a>
 			</div>
 			<div class="postbox col-3 dash">
-				<a target="_blank" href="https://www.mechwarrior3.org/" title="посетить">Страница автора</a>  
+				<a target="_blank" href="https://www.smallrealities.com/index.php/battletech/24-mechwarrior-paper-models" title="посетить">Страница автора</a>  
 			</div>
 		</div>
 <!-- строка со ссылкой -->
+
 <!-- строка со ссылкой -->
 		<div class="row ahov">
 			<div class="postbox col-1 dash">
-			<a href="#" rel="zoom"><img src="img/camera_1.gif" alt="просмотр" width="20" height="17" border="0" class="post_img"></a>
+			<a href="img/_other/mw4_arctic_wolf.jpg" rel="zoom"><img src="img/camera_1.gif" alt="просмотр" width="20" height="17" border="0" class="post_img"></a>
 			</div>
 			<div class="postbox col-7 dash">
 				 MW4 <b>Arcticwolf</b> =MechWarrior= 
@@ -76,14 +80,15 @@
 				<a href="https://yadi.sk/d/5H8YQnpjDi5xM"><img src="img/download.gif" alt="download it..." border="0" class="post_img"></a>
 			</div>
 			<div class="postbox col-3 dash">
-				<a target="_blank" href="https://www.mechwarrior3.org/wforum/download.php?id=2774" title="посетить">Страница автора</a>  
+				<a target="_blank" href="https://www.smallrealities.com/index.php/battletech/24-mechwarrior-paper-modelswforum/download.php?id=2774" title="посетить">Страница автора</a>  
 			</div>
 		</div>
 <!-- строка со ссылкой -->
+
 <!-- строка со ссылкой -->
 		<div class="row ahov">
 			<div class="postbox col-1 dash">
-			<a href="#" rel="zoom"><img src="img/camera_1.gif" alt="просмотр" width="20" height="17" border="0" class="post_img"></a>
+			<a href="img/_other/mw4_battlemaster_davion.jpg" rel="zoom"><img src="img/camera_1.gif" alt="просмотр" width="20" height="17" border="0" class="post_img"></a>
 			</div>
 			<div class="postbox col-7 dash">
 				 MW4 <b>Battlemaster Davion</b> =MechWarrior= 
@@ -92,14 +97,15 @@
 				<a href="https://yadi.sk/d/kEkAvpOjDi6SQ"><img src="img/download.gif" alt="download it..." border="0" class="post_img"></a>
 			</div>
 			<div class="postbox col-3 dash">
-				<a target="_blank" href="https://www.mechwarrior3.org/wforum/download.php?id=2774" title="посетить">Страница автора</a>  
+				<a target="_blank" href="https://www.smallrealities.com/index.php/battletech/24-mechwarrior-paper-modelswforum/download.php?id=2774" title="посетить">Страница автора</a>  
 			</div>
 		</div>
 <!-- строка со ссылкой -->
+
 <!-- строка со ссылкой -->
 		<div class="row ahov">
 			<div class="postbox col-1 dash">
-			<a href="#" rel="zoom"><img src="img/camera_1.gif" alt="просмотр" width="20" height="17" border="0" class="post_img"></a>
+			<a href="img/_other/mw4_catapult.jpg" rel="zoom"><img src="img/camera_1.gif" alt="просмотр" width="20" height="17" border="0" class="post_img"></a>
 			</div>
 			<div class="postbox col-7 dash">
 				 MW4 <b>Catapult</b> =MechWarrior= 
@@ -108,14 +114,15 @@
 				<a href="https://yadi.sk/d/UnNzmjB2Di6ZM"><img src="img/download.gif" alt="download it..." border="0" class="post_img"></a>
 			</div>
 			<div class="postbox col-3 dash">
-				<a target="_blank" href="https://www.mechwarrior3.org/wforum/download.php?id=2774" title="посетить">Страница автора</a>  
+				<a target="_blank" href="https://www.smallrealities.com/index.php/battletech/24-mechwarrior-paper-modelswforum/download.php?id=2774" title="посетить">Страница автора</a>  
 			</div>
 		</div>
 <!-- строка со ссылкой -->
+
 <!-- строка со ссылкой -->
 		<div class="row ahov">
 			<div class="postbox col-1 dash">
-			<a href="#" rel="zoom"><img src="img/camera_1.gif" alt="просмотр" width="20" height="17" border="0" class="post_img"></a>
+			<a href="img/_other/mw4_cauldronborn.jpg" rel="zoom"><img src="img/camera_1.gif" alt="просмотр" width="20" height="17" border="0" class="post_img"></a>
 			</div>
 			<div class="postbox col-7 dash">
 				 MW4 <b>Cauldronborn</b> =MechWarrior= 
@@ -124,14 +131,15 @@
 				<a href="https://yadi.sk/d/_SYkHDe9Di6e2"><img src="img/download.gif" alt="download it..." border="0" class="post_img"></a>
 			</div>
 			<div class="postbox col-3 dash">
-				<a target="_blank" href="https://www.mechwarrior3.org/" title="посетить">Страница автора</a>  
+				<a target="_blank" href="https://www.smallrealities.com/index.php/battletech/24-mechwarrior-paper-models" title="посетить">Страница автора</a>  
 			</div>
 		</div>
 <!-- строка со ссылкой -->
+
 <!-- строка со ссылкой -->
 		<div class="row ahov">
 			<div class="postbox col-1 dash">
-			<a href="#" rel="zoom"><img src="img/camera_1.gif" alt="просмотр" width="20" height="17" border="0" class="post_img"></a>
+			<a href="img/_other/mw4_cougar.jpg" rel="zoom"><img src="img/camera_1.gif" alt="просмотр" width="20" height="17" border="0" class="post_img"></a>
 			</div>
 			<div class="postbox col-7 dash">
 				 MW4 <b>Cougar</b> =MechWarrior= 
@@ -140,14 +148,15 @@
 				<a href="https://yadi.sk/d/4e9acg6hDi6iW"><img src="img/download.gif" alt="download it..." border="0" class="post_img"></a>
 			</div>
 			<div class="postbox col-3 dash">
-				<a target="_blank" href="https://www.mechwarrior3.org/" title="посетить">Страница автора</a>  
+				<a target="_blank" href="https://www.smallrealities.com/index.php/battletech/24-mechwarrior-paper-models" title="посетить">Страница автора</a>  
 			</div>
 		</div>
 <!-- строка со ссылкой -->
+
 <!-- строка со ссылкой -->
 		<div class="row ahov">
 			<div class="postbox col-1 dash">
-			<a href="#" rel="zoom"><img src="img/camera_1.gif" alt="просмотр" width="20" height="17" border="0" class="post_img"></a>
+			<a href="img/_other/mw4_daishi.jpg" rel="zoom"><img src="img/camera_1.gif" alt="просмотр" width="20" height="17" border="0" class="post_img"></a>
 			</div>
 			<div class="postbox col-7 dash">
 				 MW4 <b>Daishi</b> =MechWarrior= 
@@ -156,14 +165,15 @@
 				<a href="https://yadi.sk/d/US3Nh_s7Di6nn"><img src="img/download.gif" alt="download it..." border="0" class="post_img"></a>
 			</div>
 			<div class="postbox col-3 dash">
-				<a target="_blank" href="https://www.mechwarrior3.org/" title="посетить">Страница автора</a>  
+				<a target="_blank" href="https://www.smallrealities.com/index.php/battletech/24-mechwarrior-paper-models" title="посетить">Страница автора</a>  
 			</div>
 		</div>
 <!-- строка со ссылкой -->
+
 <!-- строка со ссылкой -->
 		<div class="row ahov">
 			<div class="postbox col-1 dash">
-			<a href="#" rel="zoom"><img src="img/camera_1.gif" alt="просмотр" width="20" height="17" border="0" class="post_img"></a>
+			<a href="img/_other/mw4_dragon.jpg" rel="zoom"><img src="img/camera_1.gif" alt="просмотр" width="20" height="17" border="0" class="post_img"></a>
 			</div>
 			<div class="postbox col-7 dash">
 				 MW4 <b>Dragon</b> =MechWarrior= 
@@ -172,14 +182,15 @@
 				<a href="https://yadi.sk/d/-zc4NN3JDi75p"><img src="img/download.gif" alt="download it..." border="0" class="post_img"></a>
 			</div>
 			<div class="postbox col-3 dash">
-				<a target="_blank" href="https://www.mechwarrior3.org/" title="посетить">Страница автора</a>  
+				<a target="_blank" href="https://www.smallrealities.com/index.php/battletech/24-mechwarrior-paper-models" title="посетить">Страница автора</a>  
 			</div>
 		</div>
 <!-- строка со ссылкой -->
+
 <!-- строка со ссылкой -->
 		<div class="row ahov">
 			<div class="postbox col-1 dash">
-			<a href="#" rel="zoom"><img src="img/camera_1.gif" alt="просмотр" width="20" height="17" border="0" class="post_img"></a>
+			<a href="img/_other/MW4_Hauptmann.jpg" rel="zoom"><img src="img/camera_1.gif" alt="просмотр" width="20" height="17" border="0" class="post_img"></a>
 			</div>
 			<div class="postbox col-7 dash">
 				 MW4 <b>Hauptmann</b> =MechWarrior= 
@@ -188,14 +199,15 @@
 				<a href="https://yadi.sk/d/flv0aC23Di7FJ"><img src="img/download.gif" alt="download it..." border="0" class="post_img"></a>
 			</div>
 			<div class="postbox col-3 dash">
-				<a target="_blank" href="https://www.mechwarrior3.org/" title="посетить">Страница автора</a>  
+				<a target="_blank" href="https://www.smallrealities.com/index.php/battletech/24-mechwarrior-paper-models" title="посетить">Страница автора</a>  
 			</div>
 		</div>
 <!-- строка со ссылкой -->
+
 <!-- строка со ссылкой -->
 		<div class="row ahov">
 			<div class="postbox col-1 dash">
-			<a href="#" rel="zoom"><img src="img/camera_1.gif" alt="просмотр" width="20" height="17" border="0" class="post_img"></a>
+			<a href="img/_other/mw4_hellhound.jpg" rel="zoom"><img src="img/camera_1.gif" alt="просмотр" width="20" height="17" border="0" class="post_img"></a>
 			</div>
 			<div class="postbox col-7 dash">
 				 MW4 <b>Hellhound</b> =MechWarrior= 
@@ -204,14 +216,15 @@
 				<a href="https://yadi.sk/d/0ERAnd6YDi7up"><img src="img/download.gif" alt="download it..." border="0" class="post_img"></a>
 			</div>
 			<div class="postbox col-3 dash">
-				<a target="_blank" href="https://www.mechwarrior3.org/" title="посетить">Страница автора</a>  
+				<a target="_blank" href="https://www.smallrealities.com/index.php/battletech/24-mechwarrior-paper-models" title="посетить">Страница автора</a>  
 			</div>
 		</div>
 <!-- строка со ссылкой -->
+
 <!-- строка со ссылкой -->
 		<div class="row ahov">
 			<div class="postbox col-1 dash">
-			<a href="#" rel="zoom"><img src="img/camera_1.gif" alt="просмотр" width="20" height="17" border="0" class="post_img"></a>
+			<a href="img/_other/mw4_madcat.jpg" rel="zoom"><img src="img/camera_1.gif" alt="просмотр" width="20" height="17" border="0" class="post_img"></a>
 			</div>
 			<div class="postbox col-7 dash">
 				 MW4 <b>Madcat</b> =MechWarrior= 
@@ -220,14 +233,15 @@
 				<a href="https://yadi.sk/d/BtkFGb3cDi839"><img src="img/download.gif" alt="download it..." border="0" class="post_img"></a>
 			</div>
 			<div class="postbox col-3 dash">
-				<a target="_blank" href="https://www.mechwarrior3.org/" title="посетить">Страница автора</a>  
+				<a target="_blank" href="https://www.smallrealities.com/index.php/battletech/24-mechwarrior-paper-models" title="посетить">Страница автора</a>  
 			</div>
 		</div>
 <!-- строка со ссылкой -->
+
 <!-- строка со ссылкой -->
 		<div class="row ahov">
 			<div class="postbox col-1 dash">
-			<a href="#" rel="zoom"><img src="img/camera_1.gif" alt="просмотр" width="20" height="17" border="0" class="post_img"></a>
+			<a href="img/_other/mw4_mauler.jpg" rel="zoom"><img src="img/camera_1.gif" alt="просмотр" width="20" height="17" border="0" class="post_img"></a>
 			</div>
 			<div class="postbox col-7 dash">
 				 MW4 <b>Mauler</b> =MechWarrior= 
@@ -236,14 +250,15 @@
 				<a href="https://yadi.sk/d/IHPRaoIZDi88k"><img src="img/download.gif" alt="download it..." border="0" class="post_img"></a>
 			</div>
 			<div class="postbox col-3 dash">
-				<a target="_blank" href="https://www.mechwarrior3.org/" title="посетить">Страница автора</a>  
+				<a target="_blank" href="https://www.smallrealities.com/index.php/battletech/24-mechwarrior-paper-models" title="посетить">Страница автора</a>  
 			</div>
 		</div>
 <!-- строка со ссылкой -->
+
 <!-- строка со ссылкой -->
 		<div class="row ahov">
 			<div class="postbox col-1 dash">
-			<a href="#" rel="zoom"><img src="img/camera_1.gif" alt="просмотр" width="20" height="17" border="0" class="post_img"></a>
+			<a href="img/_other/MW4_novacat.jpg" rel="zoom"><img src="img/camera_1.gif" alt="просмотр" width="20" height="17" border="0" class="post_img"></a>
 			</div>
 			<div class="postbox col-7 dash">
 				 MW4 <b>Novacat</b> =MechWarrior= 
@@ -252,14 +267,15 @@
 				<a href="https://yadi.sk/d/Lbnjc64aDi8SS"><img src="img/download.gif" alt="download it..." border="0" class="post_img"></a>
 			</div>
 			<div class="postbox col-3 dash">
-				<a target="_blank" href="https://www.mechwarrior3.org/" title="посетить">Страница автора</a>  
+				<a target="_blank" href="https://www.smallrealities.com/index.php/battletech/24-mechwarrior-paper-models" title="посетить">Страница автора</a>  
 			</div>
 		</div>
 <!-- строка со ссылкой -->
+
 <!-- строка со ссылкой -->
 		<div class="row ahov">
 			<div class="postbox col-1 dash">
-			<a href="#" rel="zoom"><img src="img/camera_1.gif" alt="просмотр" width="20" height="17" border="0" class="post_img"></a>
+			<a href="img/_other/MW4_shadowcat_0.jpg" rel="zoom"><img src="img/camera_1.gif" alt="просмотр" width="20" height="17" border="0" class="post_img"></a>
 			</div>
 			<div class="postbox col-7 dash">
 				 MW4 <b>Shadowcat</b> =MechWarrior= 
@@ -268,14 +284,15 @@
 				<a href="https://yadi.sk/d/2Y7vF6p5Di8jX"><img src="img/download.gif" alt="download it..." border="0" class="post_img"></a>
 			</div>
 			<div class="postbox col-3 dash">
-				<a target="_blank" href="https://www.mechwarrior3.org/" title="посетить">Прямая ссылка</a>  
+				<a target="_blank" href="https://www.smallrealities.com/index.php/battletech/24-mechwarrior-paper-models" title="посетить">Прямая ссылка</a>  
 			</div>
 		</div>
 <!-- строка со ссылкой -->
+
 <!-- строка со ссылкой -->
 		<div class="row ahov">
 			<div class="postbox col-1 dash">
-			<a href="#" rel="zoom"><img src="img/camera_1.gif" alt="просмотр" width="20" height="17" border="0" class="post_img"></a>
+			<a href="img/_other/uller.jpg" rel="zoom"><img src="img/camera_1.gif" alt="просмотр" width="20" height="17" border="0" class="post_img"></a>
 			</div>
 			<div class="postbox col-7 dash">
 				 MW4 <b>Uller</b> =MechWarrior= 
@@ -284,14 +301,15 @@
 				<a href="https://yadi.sk/d/UAhW-tAUDi8qj"><img src="img/download.gif" alt="download it..." border="0" class="post_img"></a>
 			</div>
 			<div class="postbox col-3 dash">
-				<a target="_blank" href="https://www.mechwarrior3.org/" title="посетить">Прямая ссылка</a>  
+				<a target="_blank" href="https://www.smallrealities.com/index.php/battletech/24-mechwarrior-paper-models" title="посетить">Прямая ссылка</a>  
 			</div>
 		</div>
 <!-- строка со ссылкой -->
+
 <!-- строка со ссылкой -->
 		<div class="row ahov">
 			<div class="postbox col-1 dash">
-			<a href="#" rel="zoom"><img src="img/camera_1.gif" alt="просмотр" width="20" height="17" border="0" class="post_img"></a>
+			<a href="img/_other/uziel.jpg" rel="zoom"><img src="img/camera_1.gif" alt="просмотр" width="20" height="17" border="0" class="post_img"></a>
 			</div>
 			<div class="postbox col-7 dash">
 				 MW4 <b>Uziel</b> =MechWarrior= 
@@ -300,14 +318,15 @@
 				<a href="https://yadi.sk/d/_H9cms2ODi8y7"><img src="img/download.gif" alt="download it..." border="0" class="post_img"></a>
 			</div>
 			<div class="postbox col-3 dash">
-				<a target="_blank" href="https://www.mechwarrior3.org/" title="посетить">Прямая ссылка</a>  
+				<a target="_blank" href="https://www.smallrealities.com/index.php/battletech/24-mechwarrior-paper-models" title="посетить">Прямая ссылка</a>  
 			</div>
 		</div>
 <!-- строка со ссылкой -->
+
 <!-- строка со ссылкой -->
 		<div class="row ahov">
 			<div class="postbox col-1 dash">
-			<a href="#" rel="zoom"><img src="img/camera_1.gif" alt="просмотр" width="20" height="17" border="0" class="post_img"></a>
+			<a href="img/_other/mw4_victor.jpg" rel="zoom"><img src="img/camera_1.gif" alt="просмотр" width="20" height="17" border="0" class="post_img"></a>
 			</div>
 			<div class="postbox col-7 dash">
 				 MW4 <b>Victor</b> =MechWarrior= 
@@ -316,14 +335,15 @@
 				<a href="https://yadi.sk/d/1LYtmwFHDi9As"><img src="img/download.gif" alt="download it..." border="0" class="post_img"></a>
 			</div>
 			<div class="postbox col-3 dash">
-				<a target="_blank" href="https://www.mechwarrior3.org/" title="посетить">Прямая ссылка</a>  
+				<a target="_blank" href="https://www.smallrealities.com/index.php/battletech/24-mechwarrior-paper-models" title="посетить">Прямая ссылка</a>  
 			</div>
 		</div>
 <!-- строка со ссылкой -->
+
 <!-- строка со ссылкой -->
 		<div class="row ahov">
 			<div class="postbox col-1 dash">
-			<a href="#" rel="zoom"><img src="img/camera_1.gif" alt="просмотр" width="20" height="17" border="0" class="post_img"></a>
+			<a href="img/_other/MW4_vulture.jpg" rel="zoom"><img src="img/camera_1.gif" alt="просмотр" width="20" height="17" border="0" class="post_img"></a>
 			</div>
 			<div class="postbox col-7 dash">
 				 MW4 <b>Vulture</b> =MechWarrior= 
@@ -332,14 +352,15 @@
 				<a href="https://yadi.sk/d/K0TPO5uzDi9GX"><img src="img/download.gif" alt="download it..." border="0" class="post_img"></a>
 			</div>
 			<div class="postbox col-3 dash">
-				<a target="_blank" href="https://www.mechwarrior3.org/" title="посетить">Прямая ссылка</a>  
+				<a target="_blank" href="https://www.smallrealities.com/index.php/battletech/24-mechwarrior-paper-models" title="посетить">Прямая ссылка</a>  
 			</div>
 		</div>
 <!-- строка со ссылкой -->
+
 <!-- строка со ссылкой -->
 		<div class="row ahov">
 			<div class="postbox col-1 dash">
-			<a href="#" rel="zoom"><img src="img/camera_1.gif" alt="просмотр" width="20" height="17" border="0" class="post_img"></a>
+			<a href="img/_other/MW4_zeus.jpg" rel="zoom"><img src="img/camera_1.gif" alt="просмотр" width="20" height="17" border="0" class="post_img"></a>
 			</div>
 			<div class="postbox col-7 dash">
 				 MW4 <b>Zeus</b> =MechWarrior= 
@@ -348,14 +369,15 @@
 				<a href="https://yadi.sk/d/GGXnOI_FDi9af"><img src="img/download.gif" alt="download it..." border="0" class="post_img"></a>
 			</div>
 			<div class="postbox col-3 dash">
-				<a target="_blank" href="https://www.mechwarrior3.org/" title="посетить">Прямая ссылка</a>  
+				<a target="_blank" href="https://www.smallrealities.com/index.php/battletech/24-mechwarrior-paper-models" title="посетить">Прямая ссылка</a>  
 			</div>
 		</div>
 <!-- строка со ссылкой -->
-       <!-- строка со ссылкой -->
+
+<!-- строка со ссылкой -->
 		<div class="row ahov">
 			<div class="postbox col-1 dash">
-			<a href="#" rel="zoom"><img src="img/camera_1.gif" alt="просмотр" width="20" height="17" border="0" class="post_img"></a>
+			<a href="img/noImage.gif" rel="zoom"><img src="img/camera_1.gif" alt="просмотр" width="20" height="17" border="0" class="post_img"></a>
 			</div>
 			<div class="postbox col-7 dash">
 				 MW4 <b>HeavyTruck</b> =MechWarrior= 
@@ -364,19 +386,19 @@
 				<a href="https://yadi.sk/d/JW05c3pLDi9n5"><img src="img/download.gif" alt="download it..." border="0" class="post_img"></a>
 			</div>
 			<div class="postbox col-3 dash">
-				<a target="_blank" href="https://www.mechwarrior3.org/" title="посетить">Прямая ссылка</a>  
+				<a target="_blank" href="https://www.smallrealities.com/index.php/battletech/24-mechwarrior-paper-models" title="посетить">Прямая ссылка</a>  
 			</div>
 		</div>
 <!-- строка со ссылкой -->
        
- <!-- строка разделитель -->
+<!-- строка разделитель -->
 		<div class="postbox col-12 dash"></div>
 <!-- строка разделитель -->
        
 <!-- строка со ссылкой -->
 		<div class="row ahov">
 			<div class="postbox col-1 dash">
-			<a href="#" rel="zoom"><img src="img/camera_1.gif" alt="просмотр" width="20" height="17" border="0" class="post_img"></a>
+			<a href="img/_other/MW3_Annihilator.jpg" rel="zoom"><img src="img/camera_1.gif" alt="просмотр" width="20" height="17" border="0" class="post_img"></a>
 			</div>
 			<div class="postbox col-7 dash">
 				 MW3 <b>Annihilator</b> =MechWarrior= 
@@ -385,14 +407,15 @@
 				<a href="https://yadi.sk/d/49SHCUOrDiB8K"><img src="img/download.gif" alt="download it..." border="0" class="post_img"></a>
 			</div>
 			<div class="postbox col-3 dash">
-				<a target="_blank" href="https://www.mechwarrior3.org/" title="посетить">Прямая ссылка</a>  
+				<a target="_blank" href="https://www.smallrealities.com/index.php/battletech/24-mechwarrior-paper-models" title="посетить">Прямая ссылка</a>  
 			</div>
 		</div>
 <!-- строка со ссылкой -->
+
 <!-- строка со ссылкой -->
 		<div class="row ahov">
 			<div class="postbox col-1 dash">
-			<a href="#" rel="zoom"><img src="img/camera_1.gif" alt="просмотр" width="20" height="17" border="0" class="post_img"></a>
+			<a href="img/_other/MW3_Avatar.jpg" rel="zoom"><img src="img/camera_1.gif" alt="просмотр" width="20" height="17" border="0" class="post_img"></a>
 			</div>
 			<div class="postbox col-7 dash">
 				 MW3 <b>Avatar</b> =MechWarrior= 
@@ -401,46 +424,49 @@
 				<a href="https://yadi.sk/d/OnrVWn5QDiBJM"><img src="img/download.gif" alt="download it..." border="0" class="post_img"></a>
 			</div>
 			<div class="postbox col-3 dash">
-				<a target="_blank" href="https://www.mechwarrior3.org/" title="посетить">Прямая ссылка</a>  
+				<a target="_blank" href="https://www.smallrealities.com/index.php/battletech/24-mechwarrior-paper-models" title="посетить">Прямая ссылка</a>  
 			</div>
 		</div>
 <!-- строка со ссылкой -->
+
 <!-- строка со ссылкой -->
 		<div class="row ahov">
 			<div class="postbox col-1 dash">
-			<a href="#" rel="zoom"><img src="img/camera_1.gif" alt="просмотр" width="20" height="17" border="0" class="post_img"></a>
+			<a href="img/_other/MW3_Awesome.jpg" rel="zoom"><img src="img/camera_1.gif" alt="просмотр" width="20" height="17" border="0" class="post_img"></a>
 			</div>
 			<div class="postbox col-7 dash">
 				 MW3 <b>Awesome</b> =MechWarrior= 
 			</div>
 			<div class="postbox col-1 dash">
-				<a href="https://yadi.sk/d/_9Mrs8dIDiBPQ"><img src="img/download.gif" alt="download it..." border="0" class="post_img"></a>
+				<a href="https://disk.yandex.ru/d/JBv0gvCj97DcVw"><img src="img/download.gif" alt="download it..." border="0" class="post_img"></a>
 			</div>
 			<div class="postbox col-3 dash">
-				<a target="_blank" href="https://www.mechwarrior3.org/" title="посетить">Прямая ссылка</a>  
+				<a target="_blank" href="https://www.smallrealities.com/index.php/battletech/24-mechwarrior-paper-models" title="посетить">Прямая ссылка</a>  
 			</div>
 		</div>
 <!-- строка со ссылкой -->
+
 <!-- строка со ссылкой -->
 		<div class="row ahov">
 			<div class="postbox col-1 dash">
-			<a href="#" rel="zoom"><img src="img/camera_1.gif" alt="просмотр" width="20" height="17" border="0" class="post_img"></a>
+			<a href="img/_other/MW3_Bushwacker.jpg" rel="zoom"><img src="img/camera_1.gif" alt="просмотр" width="20" height="17" border="0" class="post_img"></a>
 			</div>
 			<div class="postbox col-7 dash">
 				 MW3 <b>Bushwacker</b> =MechWarrior= 
 			</div>
 			<div class="postbox col-1 dash">
-				<a href="#"><img src="img/download.gif" alt="download it..." border="0" class="post_img"></a>
+				<a href="https://disk.yandex.ru/d/VVKj50GUMeMcNA"><img src="img/download.gif" alt="download it..." border="0" class="post_img"></a>
 			</div>
 			<div class="postbox col-3 dash">
-				<a target="_blank" href="https://www.mechwarrior3.org/" title="посетить">Прямая ссылка</a>  
+				<a target="_blank" href="https://www.smallrealities.com/index.php/battletech/24-mechwarrior-paper-models" title="посетить">Прямая ссылка</a>  
 			</div>
 		</div>
 <!-- строка со ссылкой -->
+
 <!-- строка со ссылкой -->
 		<div class="row ahov dash">
 			<div class="postbox col-1">
-			<a href="#" rel="zoom"><img src="img/camera_1.gif" alt="просмотр" width="20" height="17" border="0" class="post_img"></a>
+			<a href="img/_other/MW3_BlackHawk.jpg" rel="zoom"><img src="img/camera_1.gif" alt="просмотр" width="20" height="17" border="0" class="post_img"></a>
 			</div>
 			<div class="postbox col-7">
 				 MW3 <b>Blackhawk</b> =MechWarrior= 
@@ -449,14 +475,15 @@
 				<a href="https://yadi.sk/d/SpFN8bsWDiFi5"><img src="img/download.gif" alt="download it..." border="0" class="post_img"></a>
 			</div>
 			<div class="postbox col-3">
-				<a target="_blank" href="https://www.mechwarrior3.org/" title="посетить">Прямая ссылка</a>  
+				<a target="_blank" href="https://www.smallrealities.com/index.php/battletech/24-mechwarrior-paper-models" title="посетить">Прямая ссылка</a>  
 			</div>
 		</div>
 <!-- строка со ссылкой -->
+
 <!-- строка со ссылкой -->
 		<div class="row ahov dash">
 			<div class="postbox col-1">
-			<a href="#" rel="zoom"><img src="img/camera_1.gif" alt="просмотр" width="20" height="17" border="0" class="post_img"></a>
+			<a href="img/_other/MW3_MadCat.jpg" rel="zoom"><img src="img/camera_1.gif" alt="просмотр" width="20" height="17" border="0" class="post_img"></a>
 			</div>
 			<div class="postbox col-7">
 				 MW3 <b>MadCat</b> =MechWarrior= 
@@ -465,14 +492,15 @@
 				<a href="https://yadi.sk/d/ZjvvVpo_DiFsC"><img src="img/download.gif" alt="download it..." border="0" class="post_img"></a>
 			</div>
 			<div class="postbox col-3">
-				<a target="_blank" href="https://www.mechwarrior3.org/" title="посетить">Страница автора</a>  
+				<a target="_blank" href="https://www.smallrealities.com/index.php/battletech/24-mechwarrior-paper-models" title="посетить">Страница автора</a>  
 			</div>
 		</div>
 <!-- строка со ссылкой -->
+
 <!-- строка со ссылкой -->
 		<div class="row ahov dash">
 			<div class="postbox col-1">
-			<a href="#" rel="zoom"><img src="img/camera_1.gif" alt="просмотр" width="20" height="17" border="0" class="post_img"></a>
+			<a href="img/_other/mw3_orion.jpg" rel="zoom"><img src="img/camera_1.gif" alt="просмотр" width="20" height="17" border="0" class="post_img"></a>
 			</div>
 			<div class="postbox col-7">
 				 MW3 <b>Orion</b> =MechWarrior= 
@@ -481,7 +509,7 @@
 				<a href="https://yadi.sk/d/Wcv2nf5JDiFwW"><img src="img/download.gif" alt="download it..." border="0" class="post_img"></a>
 			</div>
 			<div class="postbox col-3">
-				<a target="_blank" href="https://www.mechwarrior3.org/" title="посетить">Страница автора</a>  
+				<a target="_blank" href="https://www.smallrealities.com/index.php/battletech/24-mechwarrior-paper-models" title="посетить">Страница автора</a>  
 			</div>
 		</div>
 <!-- строка со ссылкой -->
@@ -1257,13 +1285,13 @@
 <!-- строка со ссылкой
 		<div class="row ahov dash">
 			<div class="postbox col-1">
-			<a href="#" rel="zoom"><img src="img/camera_1.gif" alt="просмотр" width="20" height="17" border="0" class="post_img"></a>
+			<a href="img/noImage.gif" rel="zoom"><img src="img/camera_1.gif" alt="просмотр" width="20" height="17" border="0" class="post_img"></a>
 			</div>
 			<div class="postbox col-7">
 				 MC2 <b>Karnov</b> =MechCommander= 
 			</div>
 			<div class="postbox col-1">
-				<a href="#"><img src="img/download.gif" alt="download it..." border="0" class="post_img"></a>
+				<a href="#"><img src="img/download_no.gif" alt="download it..." border="0" class="post_img"></a>
 			</div>
 			<div class="postbox col-3">
 				<a target="_blank" href="https://www.smallrealities.com/index.php/battletech/24-mechwarrior-paper-models" title="посетить">Прямая ссылка</a>  
@@ -1478,6 +1506,7 @@
 			</div>
 		</div>
 <!-- строка со ссылкой -->
+
 <!-- строка со ссылкой -->
 		<div class="row ahov dash">
 			<div class="postbox col-1">

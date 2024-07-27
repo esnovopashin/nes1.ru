@@ -1,5 +1,21 @@
 <!--incl =other.txt -->
     <div class="cut wow fadeInUp" data-wow-offset="50"><h3>= Немного ото всюду =</h3>
+	<!-- строка со ссылкой -->
+		<div class="row ahov dash">
+			<div class="postbox col-1">
+			<a href="img/_other/c-n-c_kirov.jpg" rel="zoom"><img src="img/camera_1.gif" alt="просмотр" width="20" height="17" border="0" class="post_img"></a>
+			</div>
+			<div class="postbox col-7">
+				<b>Дирижабль Киров</b> =Command & Conquer= 
+			</div>
+			<div class="postbox col-1">
+				<a href="https://disk.yandex.ru/d/gaonTy242Kt2CA"><img src="img/download.gif" alt="download it..." border="0" class="post_img"></a>
+			</div>
+			<div class="postbox col-3">
+				<a target="_blank" href="https://candcpapercraft.blogspot.com/2009/05/ra3-kirov-airship.html" title="посетить">Страница автора</a>  
+			</div>
+		</div>
+<!-- строка со ссылкой -->
 <!-- строка со ссылкой -->
 		<div class="row ahov dash">
 			<div class="postbox col-1">
@@ -35,29 +51,13 @@
 <!-- строка со ссылкой -->
 		<div class="row ahov dash">
 			<div class="postbox col-1">
-			<a href="img/_other/prostoj_topor.jpg" rel="zoom"><img src="img/camera_1.gif" alt="просмотр" width="20" height="17" border="0" class="post_img"></a>
-			</div>
-			<div class="postbox col-7">
-				<b>Простой топор</b> =Torchlight= 
-			</div>
-			<div class="postbox col-1">
-				<a href="#"><img src="img/download.gif" alt="download it..." border="0" class="post_img"></a>
-			</div>
-			<div class="postbox col-3">
-				<a target="_blank" href="https://only-paper.ru/news/prostoj_topor_torchlight/2009-12-17-4334" title="посетить">Ресурс, с которого получена модель</a>  
-			</div>
-		</div>
-<!-- строка со ссылкой -->
-<!-- строка со ссылкой -->
-		<div class="row ahov dash">
-			<div class="postbox col-1">
 			<a href="img/_other/delta_helmet.jpg" rel="zoom"><img src="img/camera_1.gif" alt="просмотр" width="20" height="17" border="0" class="post_img"></a>
 			</div>
 			<div class="postbox col-7">
 				Шлем <b>Дельты</b> =Bioshock 2= 
 			</div>
 			<div class="postbox col-1">
-				<a href="#"><img src="img/download.gif" alt="download it..." border="0" class="post_img"></a>
+				<a href="#"><img src="img/download_no.gif" alt="download it..." border="0" class="post_img"></a>
 			</div>
 			<div class="postbox col-3">
 				<a target="_blank" href="https://only-paper.ru/news/shlem_bolshogo_papochki_iz_igry_bioshock/2010-08-27-5584" title="посетить">Ресурс, с которого получена модель</a>  
@@ -67,32 +67,16 @@
 <!-- строка со ссылкой -->
 		<div class="row ahov dash">
 			<div class="postbox col-1">
-			<a href="img/_other/bigdaddy.jpg" rel="zoom"><img src="img/camera_1.gif" alt="просмотр" width="20" height="17" border="0" class="post_img"></a>
+			<a href="img/_other/big_daddy.jpg" rel="zoom"><img src="img/camera_1.gif" alt="просмотр" width="20" height="17" border="0" class="post_img"></a>
 			</div>
 			<div class="postbox col-7">
 				<b>Big Daddy</b> =Bioshock= 
 			</div>
 			<div class="postbox col-1">
-				<a href="#"><img src="img/download.gif" alt="download it..." border="0" class="post_img"></a>
+				<a href="#"><img src="img/download_no.gif" alt="download it..." border="0" class="post_img"></a>
 			</div>
 			<div class="postbox col-3">
 				<a target="_blank" href="https://only-paper.ru/news/2009-06-02-3255" title="посетить">Ресурс, с которого получена модель</a>  
-			</div>
-		</div>
-<!-- строка со ссылкой -->
-<!-- строка со ссылкой -->
-		<div class="row ahov dash">
-			<div class="postbox col-1">
-			<a href="img/_other/terran_auto_turret.jpg" rel="zoom"><img src="img/camera_1.gif" alt="просмотр" width="20" height="17" border="0" class="post_img"></a>
-			</div>
-			<div class="postbox col-7">
-				<b>Terran Auto-Turret</b> =Starcraft=
-			</div>
-			<div class="postbox col-1">
-				<a href="https://yadi.sk/d/cuY2CrKzDeycf"><img src="img/download.gif" alt="download it..." border="0" class="post_img"></a>
-			</div>
-			<div class="postbox col-3">
-				<a target="_blank" href="https://only-paper.ru/news/terran_auto_turret/2010-08-19-5526" title="посетить">Ресурс, с которого получена модель</a>  
 			</div>
 		</div>
 <!-- строка со ссылкой -->
@@ -105,7 +89,7 @@
 				<b>Птица Моа / Moa Bird</b> =Guild Wars=
 			</div>
 			<div class="postbox col-1">
-				<a href="#"><img src="img/download.gif" alt="download it..." border="0" class="post_img"></a>
+				<a href="#"><img src="img/download_no.gif" alt="download it..." border="0" class="post_img"></a>
 			</div>
 			<div class="postbox col-3">
 				<a target="_blank" href="https://only-paper.ru/news/ptica_moa_moa_bird_guild_wars/2009-12-14-4319" title="посетить">Ресурс, с которого получена модель</a>  
@@ -140,14 +124,14 @@
 				<a href="https://yadi.sk/d/vR2BWAhGDft2j"><img src="img/download.gif" alt="download it..." border="0" class="post_img"></a>
 			</div>
 			<div class="postbox col-3">
-				<a target="_blank" href="#" title="посетить">Страница автора в розыске</a>  
+				<a target="_blank" href="https://ninjatoes.com/2010/07/20/battlestar-galactica-cylon-raider/" title="посетить">Страница автора</a>  
 			</div>
 		</div>
 <!-- строка со ссылкой -->
 <!-- строка со ссылкой -->
 		<div class="row ahov dash">
 			<div class="postbox col-1">
-			<a href="#" rel="zoom"><img src="img/camera_1.gif" alt="просмотр" width="20" height="17" border="0" class="post_img"></a>
+			<a href="img/_other/bsg_vipermk2.jpg" rel="zoom"><img src="img/camera_1.gif" alt="просмотр" width="20" height="17" border="0" class="post_img"></a>
 			</div>
 			<div class="postbox col-7">
 				<b>Viper</b> лт.Старбак =BattleStar Gallactica=
@@ -156,7 +140,7 @@
 				<a href="https://yadi.sk/d/HpcWpPxQDkYXV"><img src="img/download.gif" alt="download it..." border="0" class="post_img"></a>
 			</div>
 			<div class="postbox col-3">
-				<a target="_blank" href="#" title="посетить">Страница автора в розыске</a>  
+				<a target="_blank" href="https://ninjatoes.com/2010/01/23/battlestar-galactica-viper-mk-ii/" title="посетить">Страница автора</a>  
 			</div>
 		</div>
 <!-- строка со ссылкой -->
@@ -169,7 +153,7 @@
 				<b>Lancer Assault Rifle</b> =Gears of War 2=
 			</div>
 			<div class="postbox col-1">
-				<a href="#"><img src="img/download.gif" alt="download it..." border="0" class="post_img"></a>
+				<a href="#"><img src="img/download_no.gif" alt="download it..." border="0" class="post_img"></a>
 			</div>
 			<div class="postbox col-3">
 				<a target="_blank" href="https://only-paper.ru/news/bfg_iz_filma_doom/2010-06-20-5198" title="посетить">Ресурс, с которого получена модель</a>  
@@ -201,7 +185,7 @@
 				<b>Зефир / Zephyr</b> =Front Mission Evolved=
 			</div>
 			<div class="postbox col-1">
-				<a href="#"><img src="img/download.gif" alt="download it..." border="0" class="post_img"></a>
+				<a href="#"><img src="img/download_no.gif" alt="download it..." border="0" class="post_img"></a>
 			</div>
 			<div class="postbox col-3">
 				<a target="_blank" href="https://only-paper.ru/news/zefir_zephyr_front_mission_evolved/2010-10-23-5848" title="посетить">Ресурс, с которого получена модель</a>  
@@ -217,7 +201,7 @@
 				<b>Spice Harvester</b> =Dune 2000=
 			</div>
 			<div class="postbox col-1">
-				<a href="#"><img src="img/download.gif" alt="download it..." border="0" class="post_img"></a>
+				<a href="#"><img src="img/download_no.gif" alt="download it..." border="0" class="post_img"></a>
 			</div>
 			<div class="postbox col-3">
 				<a target="_blank" href="https://only-paper.ru/news/spice_harvester_papercraft/2010-10-21-5837" title="посетить">Ресурс, с которого получена модель</a>  
@@ -233,7 +217,7 @@
 				<b>X-JET</b> =Люди Х=
 			</div>
 			<div class="postbox col-1">
-				<a href="#"><img src="img/download.gif" alt="download it..." border="0" class="post_img"></a>
+				<a href="#"><img src="img/download_no.gif" alt="download it..." border="0" class="post_img"></a>
 			</div>
 			<div class="postbox col-3">
 				<a target="_blank" href="https://only-paper.ru/news/x_jet_ljudi_krestik/2010-11-01-5889" title="посетить">Ресурс, с которого получена модель</a>  
@@ -249,7 +233,7 @@
 				<b>Helmet and plasma cutter</b> =Dead Space level 3 =
 			</div>
 			<div class="postbox col-1">
-				<a href="#"><img src="img/download.gif" alt="download it..." border="0" class="post_img"></a>
+				<a href="#"><img src="img/download_no.gif" alt="download it..." border="0" class="post_img"></a>
 			</div>
 			<div class="postbox col-3">
 				<a target="_blank" href="https://only-paper.ru/news/dead_space_level_3_helmet_and_plasma_cutter_papermodel/2010-10-25-5861" title="посетить">Ресурс, с которого получена модель</a>  
@@ -268,11 +252,11 @@
 				<a href="https://yadi.sk/d/MajfzbALDhC8d"><img src="img/download.gif" alt="download it..." border="0" class="post_img"></a>
 			</div>
 			<div class="postbox col-3">
-				<a target="_blank" href="https://www.paper-replika.com/index.php?option=com_content&view=article&id=489:jill-valentine-papercraft&catid=39&Itemid=200144" title="посетить">Страница автора</a>  
+				<a target="_blank" href="https://www.paper-replika.com/index.php/figurine/jill-valentine-papercraft-figurine" title="посетить">Страница автора</a>  
 			</div>
 		</div>
 <!-- строка со ссылкой -->
-<!-- строка со ссылкой -->
+<!-- строка со ссылкой
 		<div class="row ahov dash">
 			<div class="postbox col-1">
 			<a href="img/_other/sonic_the_hedgehog.jpg" rel="zoom"><img src="img/camera_1.gif" alt="просмотр" width="20" height="17" border="0" class="post_img"></a>
@@ -281,13 +265,13 @@
 				<b>Sonic</b> =Sonic=
 			</div>
 			<div class="postbox col-1">
-				<a href="#"><img src="img/download.gif" alt="download it..." border="0" class="post_img"></a>
+				<a href="#"><img src="img/download_no.gif" alt="download it..." border="0" class="post_img"></a>
 			</div>
 			<div class="postbox col-3">
 				<a target="_blank" href="https://www.paper-replika.com" title="посетить">Страница автора</a>  
 			</div>
 		</div>
-<!-- строка со ссылкой -->
+строка со ссылкой -->
 <!-- строка со ссылкой -->
 		<div class="row ahov dash">
 			<div class="postbox col-1">
@@ -297,10 +281,10 @@
 				<b>T-90 Main Battle Tank</b>
 			</div>
 			<div class="postbox col-1">
-				<a href="#"><img src="img/download.gif" alt="download it..." border="0" class="post_img"></a>
+				<a href="#"><img src="img/download_no.gif" alt="download it..." border="0" class="post_img"></a>
 			</div>
 			<div class="postbox col-3">
-				<a target="_blank" href="https://www.paper-replika.com/index.php?option=com_content&view=article&id=3323:t-90-mbt&catid=38&Itemid=200144" title="посетить">Страница автора</a>  
+				<a target="_blank" href="https://www.paper-replika.com/index.php/military-vehicle/t-90-main-battle-tank" title="посетить">Страница автора</a>  
 			</div>
 		</div>
 <!-- строка со ссылкой -->
@@ -329,7 +313,7 @@
 				Ящик боезапаса <b></b> =Golden Eye=
 			</div>
 			<div class="postbox col-1">
-				<a href="#"><img src="img/download.gif" alt="download it..." border="0" class="post_img"></a>
+				<a href="#"><img src="img/download_no.gif" alt="download it..." border="0" class="post_img"></a>
 			</div>
 			<div class="postbox col-3">
 				<a target="_blank" href="https://only-paper.ru/" title="посетить">Ресурс, с которого получена модель</a>  
@@ -345,7 +329,7 @@
 				<b>UD-4LXR CRU</b> =ALIENS=
 			</div>
 			<div class="postbox col-1">
-				<a href="#"><img src="img/download.gif" alt="download it..." border="0" class="post_img"></a>
+				<a href="#"><img src="img/download_no.gif" alt="download it..." border="0" class="post_img"></a>
 			</div>
 			<div class="postbox col-3">
 				<a target="_blank" href="https://only-paper.ru/news/ud_4lxr_cru_aliens_models/2010-08-03-5408" title="посетить">Ресурс, с которого получена модель</a>  
@@ -361,7 +345,7 @@
 				<b>Donkey Kong</b> =Donkey Kong=
 			</div>
 			<div class="postbox col-1">
-				<a href="#"><img src="img/download.gif" alt="download it..." border="0" class="post_img"></a>
+				<a href="#"><img src="img/download_no.gif" alt="download it..." border="0" class="post_img"></a>
 			</div>
 			<div class="postbox col-3">
 				<a target="_blank" href="https://only-paper.ru/news/donkey_kong/2010-01-24-4511" title="посетить">Ресурс, с которого получена модель</a>  
@@ -371,13 +355,13 @@
 <!-- строка со ссылкой -->
 		<div class="row ahov dash">
 			<div class="postbox col-1">
-			<a href="#" rel="zoom"><img src="img/camera_1.gif" alt="просмотр" width="20" height="17" border="0" class="post_img"></a>
+			<a href="img/noImage.gif" rel="zoom"><img src="img/camera_1.gif" alt="просмотр" width="20" height="17" border="0" class="post_img"></a>
 			</div>
 			<div class="postbox col-7">
 				<b>Master Chief </b> =HALO=
 			</div>
 			<div class="postbox col-1">
-				<a href="#"><img src="img/download.gif" alt="download it..." border="0" class="post_img"></a>
+				<a href="#"><img src="img/download_no.gif" alt="download it..." border="0" class="post_img"></a>
 			</div>
 			<div class="postbox col-3">
 				<a target="_blank" href="https://artgide.com" title="посетить">Ресурс, с которого получена модель</a>  
@@ -387,7 +371,7 @@
 <!-- строка со ссылкой -->
 		<div class="row ahov dash">
 			<div class="postbox col-1">
-			<a href="#" rel="zoom"><img src="img/camera_1.gif" alt="просмотр" width="20" height="17" border="0" class="post_img"></a>
+			<a href="img/noImage.gif" rel="zoom"><img src="img/camera_1.gif" alt="просмотр" width="20" height="17" border="0" class="post_img"></a>
 			</div>
 			<div class="postbox col-7">
 				<b>Чибики и поники из </b> Reborn и My Little Pony
@@ -403,7 +387,7 @@
 <!-- строка со ссылкой -->
 		<div class="row ahov dash">
 			<div class="postbox col-1">
-			<a href="#" rel="zoom"><img src="img/camera_1.gif" alt="просмотр" width="20" height="17" border="0" class="post_img"></a>
+			<a href="img/noImage.gif" rel="zoom"><img src="img/camera_1.gif" alt="просмотр" width="20" height="17" border="0" class="post_img"></a>
 			</div>
 			<div class="postbox col-7">
 				<b>Коллекция РОБОТОВ</b> 50 шт ! (712,6 Мб)
@@ -419,39 +403,23 @@
 <!-- строка со ссылкой -->
 		<div class="row ahov dash">
 			<div class="postbox col-1">
-			<a href="#" rel="zoom"><img src="img/camera_1.gif" alt="просмотр" width="20" height="17" border="0" class="post_img"></a>
+			<a href="img/_other/terran_auto_turret.jpg" rel="zoom"><img src="img/camera_1.gif" alt="просмотр" width="20" height="17" border="0" class="post_img"></a>
 			</div>
 			<div class="postbox col-7">
-				<b>Гоблинский мех</b> =Torchlight=
+				<b>Terran Auto-Turret</b> =Starcraft=
 			</div>
 			<div class="postbox col-1">
-				<a href="https://yadi.sk/d/SOBasfB_gZwf4"><img src="img/download.gif" alt="download it..." border="0" class="post_img"></a>
+				<a href="https://yadi.sk/d/cuY2CrKzDeycf"><img src="img/download.gif" alt="download it..." border="0" class="post_img"></a>
 			</div>
 			<div class="postbox col-3">
-				<a target="_blank" href="https://pepakura.ru/razvertki-modeleu/figurki/goblinskaya-mashina.html" title="посетить">Ресурс, с которого получена модель</a>  
+				<a target="_blank" href="https://only-paper.ru/news/terran_auto_turret/2010-08-19-5526" title="посетить">Ресурс, с которого получена модель</a>  
 			</div>
 		</div>
 <!-- строка со ссылкой -->
 <!-- строка со ссылкой -->
 		<div class="row ahov dash">
 			<div class="postbox col-1">
-			<a href="#" rel="zoom"><img src="img/camera_1.gif" alt="просмотр" width="20" height="17" border="0" class="post_img"></a>
-			</div>
-			<div class="postbox col-7">
-				<b>Destroyer</b> =Torchlight=
-			</div>
-			<div class="postbox col-1">
-				<a href="https://yadi.sk/d/MM_rZvHngZxJw"><img src="img/download.gif" alt="download it..." border="0" class="post_img"></a>
-			</div>
-			<div class="postbox col-3">
-				<a target="_blank" href="https://only-paper.ru/" title="посетить">Ресурс, с которого получена модель</a>  
-			</div>
-		</div>
-<!-- строка со ссылкой -->
-<!-- строка со ссылкой -->
-		<div class="row ahov dash">
-			<div class="postbox col-1">
-			<a href="#" rel="zoom"><img src="img/camera_1.gif" alt="просмотр" width="20" height="17" border="0" class="post_img"></a>
+			<a href="img/_other/sarcraft_wraith.jpg" rel="zoom"><img src="img/camera_1.gif" alt="просмотр" width="20" height="17" border="0" class="post_img"></a>
 			</div>
 			<div class="postbox col-7">
 				<b>Wraith</b> =Starcraft=
@@ -460,30 +428,30 @@
 				<a href="https://yadi.sk/d/ruTzBaobgZxaM"><img src="img/download.gif" alt="download it..." border="0" class="post_img"></a>
 			</div>
 			<div class="postbox col-3">
-				<a target="_blank" href="https://pepakura.ru/" title="посетить">Ресурс, с которого получена модель</a>  
+				<a target="_blank" href="https://pepakura.ru/razvertki/avto-moto/istrebitel-stels.html" title="посетить">Ресурс, с которого получена модель</a>  
 			</div>
 		</div>
 <!-- строка со ссылкой -->
 <!-- строка со ссылкой -->
 		<div class="row ahov dash">
 			<div class="postbox col-1">
-			<a href="https://nes1.ru/models/_not.main/terran_cannon_papercraft.jpg" rel="zoom"><img src="img/camera_1.gif" alt="просмотр" width="20" height="17" border="0" class="post_img"></a>
+			<a href="img/_other/terran_cannon_papercraft.jpg" rel="zoom"><img src="img/camera_1.gif" alt="просмотр" width="20" height="17" border="0" class="post_img"></a>
 			</div>
 			<div class="postbox col-7">
 				<b>Terran cannon</b> (модель+подставка+инструкции) =Starcraft=
 			</div>
 			<div class="postbox col-1">
-				<a href="https://yadi.sk/d/F8o_qqA7ga2NB"><img src="img/download.gif" alt="download it..." border="0" class="post_img"></a>
+				<a href="https://disk.yandex.ru/d/F8o_qqA7ga2NB"><img src="img/download.gif" alt="download it..." border="0" class="post_img"></a>
 			</div>
 			<div class="postbox col-3">
-				<a target="_blank" href="https://aliens.humlak.cz/aliens/aliens_papirove_modely/bonus-starcraft2_gb.html" title="посетить">Страница автора</a>  
+				<a target="_blank" href="http://aliens.humlak.cz/aliens/aliens_papirove_modely_gb.htm" title="посетить">Страница автора</a>  
 			</div>
 		</div>
 <!-- строка со ссылкой -->
 <!-- строка со ссылкой -->
 		<div class="row ahov dash">
 			<div class="postbox col-1">
-			<a href="#" rel="zoom"><img src="img/camera_1.gif" alt="просмотр" width="20" height="17" border="0" class="post_img"></a>
+			<a href="img/noImage.gif" rel="zoom"><img src="img/camera_1.gif" alt="просмотр" width="20" height="17" border="0" class="post_img"></a>
 			</div>
 			<div class="postbox col-7">
 				<b>Games Workshop - Warhammer Townscapes 1988</b> (39 домиков) =Warhammer=
@@ -499,7 +467,7 @@
 <!-- строка со ссылкой -->
 		<div class="row ahov dash">
 			<div class="postbox col-1">
-			<a href="#" rel="zoom"><img src="img/camera_1.gif" alt="просмотр" width="20" height="17" border="0" class="post_img"></a>
+			<a href="img/_other/rpg_north_gate.jpg" rel="zoom"><img src="img/camera_1.gif" alt="просмотр" width="20" height="17" border="0" class="post_img"></a>
 			</div>
 			<div class="postbox col-7">
 				<b>North Gate Paper Model</b> =RPG=
@@ -515,7 +483,55 @@
 <!-- строка со ссылкой -->
 		<div class="row ahov dash">
 			<div class="postbox col-1">
-			<a href="#" rel="zoom"><img src="img/camera_1.gif" alt="просмотр" width="20" height="17" border="0" class="post_img"></a>
+			<a href="img/_other/prostoj_topor.jpg" rel="zoom"><img src="img/camera_1.gif" alt="просмотр" width="20" height="17" border="0" class="post_img"></a>
+			</div>
+			<div class="postbox col-7">
+				<b>Простой топор</b> =Torchlight= 
+			</div>
+			<div class="postbox col-1">
+				<a href="#"><img src="img/download_no.gif" alt="download it..." border="0" class="post_img"></a>
+			</div>
+			<div class="postbox col-3">
+				<a target="_blank" href="https://only-paper.ru/news/prostoj_topor_torchlight/2009-12-17-4334" title="посетить">Ресурс, с которого получена модель</a>  
+			</div>
+		</div>
+<!-- строка со ссылкой -->
+<!-- строка со ссылкой -->
+		<div class="row ahov dash">
+			<div class="postbox col-1">
+			<a href="img/_other/torchlight2_Goblin-mech-papercraft.jpg" rel="zoom"><img src="img/camera_1.gif" alt="просмотр" width="20" height="17" border="0" class="post_img"></a>
+			</div>
+			<div class="postbox col-7">
+				<b>Гоблинский мех</b> =Torchlight=
+			</div>
+			<div class="postbox col-1">
+				<a href="https://yadi.sk/d/SOBasfB_gZwf4"><img src="img/download.gif" alt="download it..." border="0" class="post_img"></a>
+			</div>
+			<div class="postbox col-3">
+				<a target="_blank" href="https://pepakura.ru/razvertki-modeleu/figurki/goblinskaya-mashina.html" title="посетить">Ресурс, с которого получена модель</a>  
+			</div>
+		</div>
+<!-- строка со ссылкой -->
+<!-- строка со ссылкой -->
+		<div class="row ahov dash">
+			<div class="postbox col-1">
+			<a href="img/_other/torchlight2_destroyer.jpg" rel="zoom"><img src="img/camera_1.gif" alt="просмотр" width="20" height="17" border="0" class="post_img"></a>
+			</div>
+			<div class="postbox col-7">
+				<b>Destroyer</b> =Torchlight=
+			</div>
+			<div class="postbox col-1">
+				<a href="https://yadi.sk/d/MM_rZvHngZxJw"><img src="img/download.gif" alt="download it..." border="0" class="post_img"></a>
+			</div>
+			<div class="postbox col-3">
+				<a target="_blank" href="https://only-paper.ru/" title="посетить">Ресурс, с которого получена модель</a>  
+			</div>
+		</div>
+<!-- строка со ссылкой -->
+<!-- строка со ссылкой -->
+		<div class="row ahov dash">
+			<div class="postbox col-1">
+			<a href="img/_other/torchlight2_bersrker.jpg" rel="zoom"><img src="img/camera_1.gif" alt="просмотр" width="20" height="17" border="0" class="post_img"></a>
 			</div>
 			<div class="postbox col-7">
 				<b>Berseker</b> =Torchlight 2=
@@ -531,7 +547,7 @@
 <!-- строка со ссылкой -->
 		<div class="row ahov dash">
 			<div class="postbox col-1">
-			<a href="#" rel="zoom"><img src="img/camera_1.gif" alt="просмотр" width="20" height="17" border="0" class="post_img"></a>
+			<a href="img/_other/Corrupted_Guardian.jpg" rel="zoom"><img src="img/camera_1.gif" alt="просмотр" width="20" height="17" border="0" class="post_img"></a>
 			</div>
 			<div class="postbox col-7">
 				<b>Corrupted Guardian</b> =Torchlight=
@@ -545,15 +561,15 @@
 		</div>
 <!-- строка со ссылкой -->
 <!-- строка со ссылкой -->
-		<div class="row ahov">
+		<div class="row ahov dash">
 			<div class="postbox col-1">
-			<a href="#" rel="zoom"><img src="img/camera_1.gif" alt="просмотр" width="20" height="17" border="0" class="post_img"></a>
+			<a href="img/_other/Arqueira_OutLander_Touchlight_2.jpg" rel="zoom"><img src="img/camera_1.gif" alt="просмотр" width="20" height="17" border="0" class="post_img"></a>
 			</div>
 			<div class="postbox col-7">
 				<b>Arqueira OutLander Touchlight 2</b> =Torchlight=
 			</div>
 			<div class="postbox col-1">
-				<a href="#"><img src="img/download.gif" alt="download it..." border="0" class="post_img"></a>
+				<a href="https://disk.yandex.ru/d/xVzSeNR0ik0dEQ"><img src="img/download.gif" alt="download it..." border="0" class="post_img"></a>
 			</div>
 			<div class="postbox col-3">
 				<a target="_blank" href="https://only-paper.ru" title="посетить">Ресурс, с которого получена модель</a>  
@@ -561,9 +577,25 @@
 		</div>
 <!-- строка со ссылкой -->
 <!-- строка со ссылкой -->
+		<div class="row ahov dash">
+			<div class="postbox col-1">
+			<a href="img/_other/hitman_ATM-Silverballer--M1911.jpg" rel="zoom"><img src="img/camera_1.gif" alt="просмотр" width="20" height="17" border="0" class="post_img"></a>
+			</div>
+			<div class="postbox col-7">
+				<b>Пистолет ATM Silverballer / M1911</b> =Hitman=
+			</div>
+			<div class="postbox col-1">
+				<a href="https://disk.yandex.ru/d/INWi77IAv8B6qw"><img src="img/download.gif" alt="download it..." border="0" class="post_img"></a>
+			</div>
+			<div class="postbox col-3">
+				<a target="_blank" href="https://www.paper-replika.com/index.php/weapon/hitman-silverballer-colt-m1911-paper-model?highlight=WyJoaXRtYW4iXQ==" title="посетить">Страница Мастера</a>  
+			</div>
+		</div>
+<!-- строка со ссылкой -->
+<!-- строка со ссылкой -->
 		<div class="row ahov">
 			<div class="postbox col-1">
-			<a href="#" rel="zoom"><img src="img/camera_1.gif" alt="просмотр" width="20" height="17" border="0" class="post_img"></a>
+			<a href="img/noImage.gif" rel="zoom"><img src="img/camera_1.gif" alt="просмотр" width="20" height="17" border="0" class="post_img"></a>
 			</div>
 			<div class="postbox col-7">
 				<b>Архитектурные модели</b> =Замки Испании=
