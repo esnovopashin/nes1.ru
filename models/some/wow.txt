@@ -1,87 +1,87 @@
  <!--incl =wow.txt -->
      <div class="cut wow fadeInUp" data-wow-offset="50"><h3>=World of Warcraft=</h3>
 <!-- строка со ссылкой -->
-		<div class="row ahov">
-			<div class="postbox col-1 dash">
+		<div class="row ahov dash">
+			<div class="postbox col-1">
 			<a href="img/_other/ballista.jpg" rel="zoom"><img src="img/camera_1.gif" alt="просмотр" width="20" height="17" border="0" class="post_img"></a>
 			</div>
-			<div class="postbox col-7 dash">
+			<div class="postbox col-7">
 				<b>Баллиста</b> =WoW= 
 			</div>
-			<div class="postbox col-1 dash">
+			<div class="postbox col-1">
 				<a href="https://yadi.sk/d/IOOJ9BvgDh8bp"><img src="img/download.gif" alt="download it..." border="0" class="post_img"></a>
 			</div>
-			<div class="postbox col-3 dash">
-				<a target="_blank" href="#" title="посетить">Страница автора в розыске</a>  
+			<div class="postbox col-3">
+				<a target="_blank" href="https://wowpapercraft.blogspot.com" title="посетить">Страница автора</a> 
 			</div>
 		</div>
  <!-- строка со ссылкой -->
 <!-- строка со ссылкой -->
-		<div class="row ahov">
-			<div class="postbox col-1 dash">
+		<div class="row ahov dash">
+			<div class="postbox col-1">
 			<a href="img/_other/blades_of_chaos.jpg" rel="zoom"><img src="img/camera_1.gif" alt="просмотр" width="20" height="17" border="0" class="post_img"></a>
 			</div>
-			<div class="postbox col-7 dash">
+			<div class="postbox col-7">
 				<b>Blades Of Chaos</b> =WoW= 
 			</div>
-			<div class="postbox col-1 dash">
+			<div class="postbox col-1">
 				<a href="https://yadi.sk/d/czDvljncDh8si"><img src="img/download.gif" alt="download it..." border="0" class="post_img"></a>
 			</div>
-			<div class="postbox col-3 dash">
-				<a target="_blank" href="#" title="посетить">Страница автора в розыске</a>  
+			<div class="postbox col-3">
+				<a target="_blank" href="https://wowpapercraft.blogspot.com" title="посетить">Страница автора</a>
 			</div>
 		</div>
  <!-- строка со ссылкой -->
 <!-- строка со ссылкой -->
-		<div class="row ahov">
-			<div class="postbox col-1 dash">
+		<div class="row ahov dash">
+			<div class="postbox col-1">
 			<a href="img/_other/paper_zeppelin_toy.jpg" rel="zoom"><img src="img/camera_1.gif" alt="просмотр" width="20" height="17" border="0" class="post_img"></a>
 			</div>
-			<div class="postbox col-7 dash">
+			<div class="postbox col-7">
 				Zeppelin Toy Papercraft <b>Zippelin</b> =WoW= 
 			</div>
-			<div class="postbox col-1 dash">
+			<div class="postbox col-1">
 				<a href="https://yadi.sk/d/j3UvB-AHDh8yN"><img src="img/download.gif" alt="download it..." border="0" class="post_img"></a>
 			</div>
-			<div class="postbox col-3 dash">
-				<a target="_blank" href="https://www.paper-replika.com/index.php?option=com_content&view=article&id=3605:wow-zeppelin-toy-papercraft-zippelin&catid=101" title="посетить">Страница автора</a>  
+			<div class="postbox col-3">
+				<a target="_blank" href="https://wowpapercraft.blogspot.com" title="посетить">Страница автора</a>
 			</div>
 		</div>
 <!-- строка со ссылкой -->
 <!-- строка со ссылкой -->
-		<div class="row ahov">
-			<div class="postbox col-1 dash">
+		<div class="row ahov dash">
+			<div class="postbox col-1">
 			<a href="img/_other/human_guard_tower.jpg" rel="zoom"><img src="img/camera_1.gif" alt="просмотр" width="20" height="17" border="0" class="post_img"></a>
 			</div>
-			<div class="postbox col-7 dash">
+			<div class="postbox col-7">
 				<b>Human Guard Tower</b> =WoW= 
 			</div>
-			<div class="postbox col-1 dash">
+			<div class="postbox col-1">
 				<a href="https://yadi.sk/d/u7oyVq0mDh9AW"><img src="img/download.gif" alt="download it..." border="0" class="post_img"></a>
 			</div>
-			<div class="postbox col-3 dash">
-				<a target="_blank" href="https://only-paper.ru/news/human_guard_tower_world_of_warcraft/2010-08-08-5441" title="посетить">Ресурс, с которого получена модель</a>  
+			<div class="postbox col-3">
+				<a target="_blank" href="https://wowpapercraft.blogspot.com" title="посетить">Страница автора</a>
 			</div>
 		</div>
 <!-- строка со ссылкой -->
 <!-- строка со ссылкой -->
-		<div class="row ahov">
-			<div class="postbox col-1 dash">
+		<div class="row ahov dash">
+			<div class="postbox col-1">
 			<a href="img/_other/greatsword_of_the_sindorei.jpg" rel="zoom"><img src="img/camera_1.gif" alt="просмотр" width="20" height="17" border="0" class="post_img"></a>
 			</div>
-			<div class="postbox col-7 dash">
+			<div class="postbox col-7">
 				<b>Greatsword of the Sin'dorei</b> =WoW= 
 			</div>
-			<div class="postbox col-1 dash">
-				<a href="#"><img src="img/download.gif" alt="download it..." border="0" class="post_img"></a>
+			<div class="postbox col-1">
+				<a href="#"><img src="img/download_no.gif" alt="download it..." border="0" class="post_img"></a>
 			</div>
-			<div class="postbox col-3 dash">
-				<a target="_blank" href="https://only-paper.ru/news/greatsword_of_the_sin_dorei_world_of_warcraft/2010-08-08-5437" title="посетить">Ресурс, с которого получена модель</a>  
+			<div class="postbox col-3">
+				<a target="_blank" href="https://wowpapercraft.blogspot.com" title="посетить">Страница автора</a>
 			</div>
 		</div>
 <!-- строка со ссылкой -->
 <!-- строка со ссылкой -->
-		<div class="row ahov">
+		<div class="row ahov dash">
 			<div class="postbox col-1">
 			<a href="img/_other/sbornik_geroev.jpg" rel="zoom"><img src="img/camera_1.gif" alt="просмотр" width="20" height="17" border="0" class="post_img"></a>
 			</div>
@@ -89,10 +89,365 @@
 				<b>Сборник героев</b> =Warcraft III= 
 			</div>
 			<div class="postbox col-1">
-				<a href="#"><img src="img/download.gif" alt="download it..." border="0" class="post_img"></a>
+				<a href="#"><img src="img/download_no.gif" alt="download it..." border="0" class="post_img"></a>
 			</div>
 			<div class="postbox col-3">
-				<a target="_blank" href="https://only-paper.ru/news/sbornik_geroev_iz_igry_warcraft_iii/2010-05-29-5055" title="посетить">Ресурс, с которого получена модель</a>  
+				<a target="_blank" href="https://wowpapercraft.blogspot.com" title="посетить">Страница автора</a>
+			</div>
+		</div>
+<!-- строка со ссылкой -->
+<!-- строка со ссылкой -->
+		<div class="row ahov dash">
+			<div class="postbox col-1">
+			<a href="img/_other/wow_bonecreeper.jpg" rel="zoom"><img src="img/camera_1.gif" alt="просмотр" width="20" height="17" border="0" class="post_img"></a>
+			</div>
+			<div class="postbox col-7">
+				<b>Bonecreeper</b> =WOW= 
+			</div>
+			<div class="postbox col-1">
+				<a href="https://disk.yandex.ru/d/_bv12C-xTyoreg"><img src="img/download.gif" alt="download it..." border="0" class="post_img"></a>
+			</div>
+			<div class="postbox col-3">
+				<a target="_blank" href="https://wowpapercraft.blogspot.com" title="посетить">Страница автора</a>
+			</div>
+		</div>
+<!-- строка со ссылкой -->
+<!-- строка со ссылкой -->
+		<div class="row ahov dash">
+			<div class="postbox col-1">
+			<a href="img/_other/wow_Booty-Bay-Redemptor-statue.jpg" rel="zoom"><img src="img/camera_1.gif" alt="просмотр" width="20" height="17" border="0" class="post_img"></a>
+			</div>
+			<div class="postbox col-7">
+				<b>Booty Bay Redemptor statue</b> =WOW= 
+			</div>
+			<div class="postbox col-1">
+				<a href="https://disk.yandex.ru/d/8p8wHEa4_p6QZw"><img src="img/download.gif" alt="download it..." border="0" class="post_img"></a>
+			</div>
+			<div class="postbox col-3">
+				<a target="_blank" href="https://wowpapercraft.blogspot.com" title="посетить">Страница автора</a>
+			</div>
+		</div>
+<!-- строка со ссылкой -->
+
+<!-- строка со ссылкой -->
+		<div class="row ahov dash">
+			<div class="postbox col-1">
+			<a href="img/noImage.gif" rel="zoom"><img src="img/camera_1.gif" alt="просмотр" width="20" height="17" border="0" class="post_img"></a>
+			</div>
+			<div class="postbox col-7">
+				<b>DARK TERROR faceless void</b> =WCIII= 
+			</div>
+			<div class="postbox col-1">
+				<a href="https://disk.yandex.ru/d/DFlIL6bpHbUPwQ"><img src="img/download.gif" alt="download it..." border="0" class="post_img"></a>
+			</div>
+			<div class="postbox col-3">
+				<a target="_blank" href="#" title="посетить">Страница автора в розыске</a>
+			</div>
+		</div>
+<!-- строка со ссылкой -->
+
+<!-- строка со ссылкой -->
+		<div class="row ahov dash">
+			<div class="postbox col-1">
+			<a href="img/noImage.gif" rel="zoom"><img src="img/camera_1.gif" alt="просмотр" width="20" height="17" border="0" class="post_img"></a>
+			</div>
+			<div class="postbox col-7">
+				<b>KARDEL Sniper</b> =WCIII= 
+			</div>
+			<div class="postbox col-1">
+				<a href="https://disk.yandex.ru/d/j7Vvc-RLPc8l2Q"><img src="img/download.gif" alt="download it..." border="0" class="post_img"></a>
+			</div>
+			<div class="postbox col-3">
+				<a target="_blank" href="#" title="посетить">Страница автора в розыске</a>
+			</div>
+		</div>
+<!-- строка со ссылкой -->
+
+<!-- строка со ссылкой -->
+		<div class="row ahov dash">
+			<div class="postbox col-1">
+			<a href="img/noImage.gif" rel="zoom"><img src="img/camera_1.gif" alt="просмотр" width="20" height="17" border="0" class="post_img"></a>
+			</div>
+			<div class="postbox col-7">
+				<b>Lina Inverse the Slayer</b> =WCIII= 
+			</div>
+			<div class="postbox col-1">
+				<a href="https://disk.yandex.ru/d/DaDFlvCu39-tog"><img src="img/download.gif" alt="download it..." border="0" class="post_img"></a>
+			</div>
+			<div class="postbox col-3">
+				<a target="_blank" href="#" title="посетить">Страница автора в розыске</a>
+			</div>
+		</div>
+<!-- строка со ссылкой -->
+
+<!-- строка со ссылкой -->
+		<div class="row ahov dash">
+			<div class="postbox col-1">
+			<a href="img/_other/wow_motorcycle_mount.jpg" rel="zoom"><img src="img/camera_1.gif" alt="просмотр" width="20" height="17" border="0" class="post_img"></a>
+			</div>
+			<div class="postbox col-7">
+				<b>Motorcycle Mount</b> =WCIII= 
+			</div>
+			<div class="postbox col-1">
+				<a href="https://disk.yandex.ru/d/96U0NdrWiNaB4A"><img src="img/download.gif" alt="download it..." border="0" class="post_img"></a>
+			</div>
+			<div class="postbox col-3">
+				<a target="_blank" href="#" title="посетить">Страница автора в розыске</a>
+			</div>
+		</div>
+<!-- строка со ссылкой -->
+
+<!-- строка со ссылкой -->
+		<div class="row ahov dash">
+			<div class="postbox col-1">
+			<a href="img/noImage.gif" rel="zoom"><img src="img/camera_1.gif" alt="просмотр" width="20" height="17" border="0" class="post_img"></a>
+			</div>
+			<div class="postbox col-7">
+				<b>Mangix Pandaren Brewmaster</b> =WCIII= 
+			</div>
+			<div class="postbox col-1">
+				<a href="https://disk.yandex.ru/d/td1lu2gShlN6iA"><img src="img/download.gif" alt="download it..." border="0" class="post_img"></a>
+			</div>
+			<div class="postbox col-3">
+				<a target="_blank" href="#" title="посетить">Страница автора в розыске</a>
+			</div>
+		</div>
+<!-- строка со ссылкой -->
+
+<!-- строка со ссылкой -->
+		<div class="row ahov dash">
+			<div class="postbox col-1">
+			<a href="img/noImage.gif" rel="zoom"><img src="img/camera_1.gif" alt="просмотр" width="20" height="17" border="0" class="post_img"></a>
+			</div>
+			<div class="postbox col-7">
+				<b>RAZOR Lightning Revenant</b> =Dota 2= 
+			</div>
+			<div class="postbox col-1">
+				<a href="https://disk.yandex.ru/d/r0eMmI8y4YiihA"><img src="img/download.gif" alt="download it..." border="0" class="post_img"></a>
+			</div>
+			<div class="postbox col-3">
+				<a target="_blank" href="#" title="посетить">Страница автора в розыске</a>
+			</div>
+		</div>
+<!-- строка со ссылкой -->
+
+<!-- строка со ссылкой -->
+		<div class="row ahov dash">
+			<div class="postbox col-1">
+			<a href="img/noImage.gif" rel="zoom"><img src="img/camera_1.gif" alt="просмотр" width="20" height="17" border="0" class="post_img"></a>
+			</div>
+			<div class="postbox col-7">
+				<b>Nortrom Silencer</b> =Dota 2= 
+			</div>
+			<div class="postbox col-1">
+				<a href="https://disk.yandex.ru/d/26HWUUhdTQB4RA"><img src="img/download.gif" alt="download it..." border="0" class="post_img"></a>
+			</div>
+			<div class="postbox col-3">
+				<a target="_blank" href="https://hobikit.blogspot.com/2008/01/success-report-nortrom-silencer.html" title="посетить">Страница автора</a>
+			</div>
+		</div>
+<!-- строка со ссылкой -->
+
+<!-- строка со ссылкой -->
+		<div class="row ahov dash">
+			<div class="postbox col-1">
+			<a href="img/_other/wow_tayren_warrior.jpg" rel="zoom"><img src="img/camera_1.gif" alt="просмотр" width="20" height="17" border="0" class="post_img"></a>
+			</div>
+			<div class="postbox col-7">
+				<b>Tauren warrior</b> =WOW= 
+			</div>
+			<div class="postbox col-1">
+				<a href="https://disk.yandex.ru/d/XEP2FJuLx43jgw"><img src="img/download.gif" alt="download it..." border="0" class="post_img"></a>
+			</div>
+			<div class="postbox col-3">
+				<a target="_blank" href="https://only-paper.ru/news/tauren_warrior_world_of_warcraft/2007-10-28-340" title="посетить">Ресурс, с которого получена модель</a>
+			</div>
+		</div>
+<!-- строка со ссылкой -->
+
+<!-- строка со ссылкой -->
+		<div class="row ahov dash">
+			<div class="postbox col-1">
+			<a href="img/_other/wow_tresure_chest.jpg" rel="zoom"><img src="img/camera_1.gif" alt="просмотр" width="20" height="17" border="0" class="post_img"></a>
+			</div>
+			<div class="postbox col-7">
+				<b>Treasure Chest</b> =WOW= 
+			</div>
+			<div class="postbox col-1">
+				<a href="https://disk.yandex.ru/d/EKG9quPpdCS8BQ"><img src="img/download.gif" alt="download it..." border="0" class="post_img"></a>
+			</div>
+			<div class="postbox col-3">
+				<a target="_blank" href="https://hobikit.blogspot.com/" title="посетить">Страница автора</a>
+			</div>
+		</div>
+<!-- строка со ссылкой -->
+
+<!-- строка со ссылкой -->
+		<div class="row ahov dash">
+			<div class="postbox col-1">
+			<a href="img/_other/Warcraft_serpent.JPG" rel="zoom"><img src="img/camera_1.gif" alt="просмотр" width="20" height="17" border="0" class="post_img"></a>
+			</div>
+			<div class="postbox col-7">
+				<b>Serpent</b> =WOW= 
+			</div>
+			<div class="postbox col-1">
+				<a href="https://disk.yandex.ru/d/j3FU8YwXAOjYeg"><img src="img/download.gif" alt="download it..." border="0" class="post_img"></a>
+			</div>
+			<div class="postbox col-3">
+				<a target="_blank" href="https://hobikit.blogspot.com/" title="посетить">Страница автора</a>
+			</div>
+		</div>
+<!-- строка со ссылкой -->
+
+<!-- строка со ссылкой -->
+		<div class="row ahov dash">
+			<div class="postbox col-1">
+			<a href="img/_other/Warcraft_Thrall.jpg" rel="zoom"><img src="img/camera_1.gif" alt="просмотр" width="20" height="17" border="0" class="post_img"></a>
+			</div>
+			<div class="postbox col-7">
+				<b>Thrall</b> =Warcraft= 
+			</div>
+			<div class="postbox col-1">
+				<a href="https://disk.yandex.ru/d/tCg6mz2V-_Sx4A"><img src="img/download.gif" alt="download it..." border="0" class="post_img"></a>
+			</div>
+			<div class="postbox col-3">
+				<a target="_blank" href="#" title="посетить">Страница автора в розыске</a>
+			</div>
+		</div>
+<!-- строка со ссылкой -->
+
+<!-- строка со ссылкой -->
+		<div class="row ahov dash">
+			<div class="postbox col-1">
+			<a href="img/_other/WOW_altar.jpg" rel="zoom"><img src="img/camera_1.gif" alt="просмотр" width="20" height="17" border="0" class="post_img"></a>
+			</div>
+			<div class="postbox col-7">
+				<b>Altar</b> =WOW= 
+			</div>
+			<div class="postbox col-1">
+				<a href="https://disk.yandex.ru/d/hOgbGNyulDJbMw"><img src="img/download.gif" alt="download it..." border="0" class="post_img"></a>
+			</div>
+			<div class="postbox col-3">
+				<a target="_blank" href="http://wowpapercraft.blogspot.com/2009/06/broken-bottle-at-meeting-stone.html" title="посетить">Страница автора</a>
+			</div>
+		</div>
+<!-- строка со ссылкой -->
+
+<!-- строка со ссылкой -->
+		<div class="row ahov dash">
+			<div class="postbox col-1">
+			<a href="img/_other/WOW_church.jpg" rel="zoom"><img src="img/camera_1.gif" alt="просмотр" width="20" height="17" border="0" class="post_img"></a>
+			</div>
+			<div class="postbox col-7">
+				<b>Church</b> =WOW= 
+			</div>
+			<div class="postbox col-1">
+				<a href="https://disk.yandex.ru/d/gLZ3_21bfS1hqw"><img src="img/download.gif" alt="download it..." border="0" class="post_img"></a>
+			</div>
+			<div class="postbox col-3">
+				<a target="_blank" href="http://wowpapercraft.blogspot.com/search/label/Buildings" title="посетить">Страница автора</a>
+			</div>
+		</div>
+<!-- строка со ссылкой -->
+
+<!-- строка со ссылкой -->
+		<div class="row ahov dash">
+			<div class="postbox col-1">
+			<a href="img/_other/WOW_horde_shoulder.jpg" rel="zoom"><img src="img/camera_1.gif" alt="просмотр" width="20" height="17" border="0" class="post_img"></a>
+			</div>
+			<div class="postbox col-7">
+				<b>Horde Shoulder</b> =WOW= 
+			</div>
+			<div class="postbox col-1">
+				<a href="https://disk.yandex.ru/d/5klDuQRev59r-w"><img src="img/download.gif" alt="download it..." border="0" class="post_img"></a>
+			</div>
+			<div class="postbox col-3">
+				<a target="_blank" href="http://wowpapercraft.blogspot.com/2009/06/broken-bottle-at-meeting-stone.html" title="посетить">Страница автора</a>
+			</div>
+		</div>
+<!-- строка со ссылкой -->
+
+<!-- строка со ссылкой -->
+		<div class="row ahov dash">
+			<div class="postbox col-1">
+			<a href="img/noImage.gif" rel="zoom"><img src="img/camera_1.gif" alt="просмотр" width="20" height="17" border="0" class="post_img"></a>
+			</div>
+			<div class="postbox col-7">
+				<b>7 Boxes / 3 Socks / Nutcracker / Doghouse / Lamp of peaceful radiance / Beer Banner</b> =WOW= 
+			</div>
+			<div class="postbox col-1">
+				<a href="https://disk.yandex.ru/d/yrK6R50bMOMl1w"><img src="img/download.gif" alt="download it..." border="0" class="post_img"></a>
+			</div>
+			<div class="postbox col-3">
+				<a target="_blank" href="http://wowpapercraft.blogspot.com/search/label/Buildings" title="посетить">Страница автора</a>
+			</div>
+		</div>
+<!-- строка со ссылкой -->
+
+<!-- строка со ссылкой -->
+		<div class="row ahov dash">
+			<div class="postbox col-1">
+			<a href="img/noImage.gif" rel="zoom"><img src="img/camera_1.gif" alt="просмотр" width="20" height="17" border="0" class="post_img"></a>
+			</div>
+			<div class="postbox col-7">
+				<b>Ballista / Barrel / Well / Caltrop</b> =WOW= 
+			</div>
+			<div class="postbox col-1">
+				<a href="https://disk.yandex.ru/d/ptCHVf6lYS__TQ"><img src="img/download.gif" alt="download it..." border="0" class="post_img"></a>
+			</div>
+			<div class="postbox col-3">
+				<a target="_blank" href="http://wowpapercraft.blogspot.com/search/label/Buildings" title="посетить">Страница автора</a>
+			</div>
+		</div>
+<!-- строка со ссылкой -->
+
+<!-- строка со ссылкой -->
+		<div class="row ahov dash">
+			<div class="postbox col-1">
+			<a href="img/_other/wow_RoyalCrestOfLordaeron.jpg" rel="zoom"><img src="img/camera_1.gif" alt="просмотр" width="20" height="17" border="0" class="post_img"></a>
+			</div>
+			<div class="postbox col-7">
+				<b>Royal Crest Of Lordaeron</b> =WOW= 
+			</div>
+			<div class="postbox col-1">
+				<a href="https://disk.yandex.ru/d/NvsJaFcDYD3Q_g"><img src="img/download.gif" alt="download it..." border="0" class="post_img"></a>
+			</div>
+			<div class="postbox col-3">
+				<a target="_blank" href="http://wowpapercraft.blogspot.com/2009/03/royal-crest-of-lordaeron.html" title="посетить">Страница автора</a>
+			</div>
+		</div>
+<!-- строка со ссылкой -->
+
+<!-- строка со ссылкой -->
+		<div class="row ahov dash">
+			<div class="postbox col-1">
+			<a href="img/_other/WOW_the_lich_kings_helmet.jpg" rel="zoom"><img src="img/camera_1.gif" alt="просмотр" width="20" height="17" border="0" class="post_img"></a>
+			</div>
+			<div class="postbox col-7">
+				<b>The Lich King's Helmet</b> =WOW= 
+			</div>
+			<div class="postbox col-1">
+				<a href="https://disk.yandex.ru/d/nxvVm0oR2QR81A"><img src="img/download.gif" alt="download it..." border="0" class="post_img"></a>
+			</div>
+			<div class="postbox col-3">
+				<a target="_blank" href="http://wowpapercraft.blogspot.com/search/label/armor" title="посетить">Страница автора</a>
+			</div>
+		</div>
+<!-- строка со ссылкой -->
+
+<!-- строка со ссылкой -->
+		<div class="row ahov dash">
+			<div class="postbox col-1">
+			<a href="img/_other/WOW_titansteel_helm.jpg" rel="zoom"><img src="img/camera_1.gif" alt="просмотр" width="20" height="17" border="0" class="post_img"></a>
+			</div>
+			<div class="postbox col-7">
+				<b>Titansteel Helm</b> =WOW= 
+			</div>
+			<div class="postbox col-1">
+				<a href="https://disk.yandex.ru/d/kdHQ8wwUa2R8Wg"><img src="img/download.gif" alt="download it..." border="0" class="post_img"></a>
+			</div>
+			<div class="postbox col-3">
+				<a target="_blank" href="http://wowpapercraft.blogspot.com/2009/07/titansteel-helm.html" title="посетить">Страница автора</a>
 			</div>
 		</div>
 <!-- строка со ссылкой -->
