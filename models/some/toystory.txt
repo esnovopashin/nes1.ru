@@ -9,7 +9,7 @@
 				<b>Шериф Вуди / Sheriff Woody</b> =мульт Toy Story= 
 			</div>
 			<div class="postbox col-1">
-				<a href="#"><img src="img/download.gif" alt="download it..." border="0" class="post_img"></a>
+				<a href="#"><img src="img/download_no.gif" alt="download it..." border="0" class="post_img"></a>
 			</div>
 			<div class="postbox col-3">
 				<a target="_blank" href="https://only-paper.ru/news/sherif_vudi_sheriff_woody/2010-07-09-5294" title="посетить">Ресурс, с которого получена модель</a>  
@@ -25,7 +25,7 @@
 				<b>Базз Лайтер/Buzz Lighter</b> =мульт Toy Story= 
 			</div>
 			<div class="postbox col-1">
-				<a href="#"><img src="img/download.gif" alt="download it..." border="0" class="post_img"></a>
+				<a href="#"><img src="img/download_no.gif" alt="download it..." border="0" class="post_img"></a>
 			</div>
 			<div class="postbox col-3">
 				<a target="_blank" href="https://only-paper.ru/news/bazz_lajter_buzz_lighter_toy_story/2010-08-21-5542" title="посетить">Ресурс, с которого получена модель</a>  

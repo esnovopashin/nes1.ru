@@ -9,7 +9,7 @@
 				<b>Экипировка</b> =Warhammer 40K= 
 			</div>
 			<div class="postbox col-1 dash">
-				<a href="#"><img src="img/download.gif" alt="download it..." border="0" class="post_img"></a>
+				<a href="#"><img src="img/download_no.gif" alt="download it..." border="0" class="post_img"></a>
 			</div>
 			<div class="postbox col-3 dash">
 				<a target="_blank" href="https://only-paper.ru/news/2010-10-18-5828-0-1" title="посетить">Ресурс, с которого получена модель</a>  
@@ -25,7 +25,7 @@
 				<b>Sentinel</b> =Warhammer 40K= 
 			</div>
 			<div class="postbox col-1 dash">
-				<a href="#"><img src="img/download.gif" alt="download it..." border="0" class="post_img"></a>
+				<a href="#"><img src="img/download_no.gif" alt="download it..." border="0" class="post_img"></a>
 			</div>
 			<div class="postbox col-3 dash">
 				<a target="_blank" href="https://only-paper.ru/news/sentinel_warhammer_40k/2010-07-18-5320" title="посетить">Ресурс, с которого получена модель</a>  
@@ -41,7 +41,7 @@
 				<b>Cyclop</b> =Warhammer 40K= 
 			</div>
 			<div class="postbox col-1 dash">
-				<a href="#"><img src="img/download.gif" alt="download it..." border="0" class="post_img"></a>
+				<a href="#"><img src="img/download_no.gif" alt="download it..." border="0" class="post_img"></a>
 			</div>
 			<div class="postbox col-3 dash">
 				<a target="_blank" href="https://only-paper.ru/news/cyclop_warhammer_40k/2010-08-14-5495" title="посетить">Ресурс, с которого получена модель</a>  
@@ -57,7 +57,7 @@
 				<b>Exorcist</b> =Warhammer 40K= 
 			</div>
 			<div class="postbox col-1 dash">
-				<a href="#"><img src="img/download.gif" alt="download it..." border="0" class="post_img"></a>
+				<a href="#"><img src="img/download_no.gif" alt="download it..." border="0" class="post_img"></a>
 			</div>
 			<div class="postbox col-3 dash">
 				<a target="_blank" href="https://ohttps://only-paper.ru/news/exorcist_warhammer_40k/2010-08-27-5583" title="посетить">Ресурс, с которого получена модель</a>  
@@ -73,7 +73,7 @@
 				<b>Repressor</b> =Warhammer 40K= 
 			</div>
 			<div class="postbox col-1 dash">
-				<a href="#"><img src="img/download.gif" alt="download it..." border="0" class="post_img"></a>
+				<a href="#"><img src="img/download_no.gif" alt="download it..." border="0" class="post_img"></a>
 			</div>
 			<div class="postbox col-3 dash">
 				<a target="_blank" href="https://only-paper.ru/news/repressor_warhammer_40k/2010-08-10-5455" title="посетить">Ресурс, с которого получена модель</a>  
@@ -89,7 +89,7 @@
 				Fortis Audax II <b>Conqueror/Punisher</b> =Warhammer 40K= 
 			</div>
 			<div class="postbox col-1 dash">
-				<a href="#"><img src="img/download.gif" alt="download it..." border="0" class="post_img"></a>
+				<a href="#"><img src="img/download_no.gif" alt="download it..." border="0" class="post_img"></a>
 			</div>
 			<div class="postbox col-3 dash">
 				<a target="_blank" href="https://only-paper.ru/news/fortis_audax_ii_conqueror_punisher_warhammer_40k/2010-08-10-5454" title="посетить">Ресурс, с которого получена модель</a>  
@@ -105,7 +105,7 @@
 				<b>Demolishes</b> =Warhammer 40K= 
 			</div>
 			<div class="postbox col-1 dash">
-				<a href="#"><img src="img/download.gif" alt="download it..." border="0" class="post_img"></a>
+				<a href="#"><img src="img/download_no.gif" alt="download it..." border="0" class="post_img"></a>
 			</div>
 			<div class="postbox col-3 dash">
 				<a target="_blank" href="https://only-paper.ru/news/demolisher_warhammer_40k/2010-08-09-5448" title="посетить">Ресурс, с которого получена модель</a>  
@@ -121,7 +121,7 @@
 				<b>Immolator</b> =Warhammer 40K= 
 			</div>
 			<div class="postbox col-1 dash">
-				<a href="#"><img src="img/download.gif" alt="download it..." border="0" class="post_img"></a>
+				<a href="#"><img src="img/download_no.gif" alt="download it..." border="0" class="post_img"></a>
 			</div>
 			<div class="postbox col-3 dash">
 				<a target="_blank" href="https://only-paper.ru/news/2010-09-09-5627" title="посетить">Ресурс, с которого получена модель</a>  

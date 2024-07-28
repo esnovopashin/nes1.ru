@@ -25,7 +25,7 @@
 				Маска - <b>хэдкраб</b> =Halflife= 
 			</div>
 			<div class="postbox col-1 dash">
-				<a href="#"><img src="img/download.gif" alt="download it..." border="0" class="post_img"></a>
+				<a href="#"><img src="img/download_no.gif" alt="download it..." border="0" class="post_img"></a>
 			</div>
 			<div class="postbox col-3 dash">
 				<a target="_blank" href="https://only-paper.ru/news/maska_khehdkrab_po_motivam_igry_half_life/2010-05-13-4988" title="посетить">Ресурс, с которого получена модель</a>  
@@ -41,7 +41,7 @@
 				<b>Шпион / Spy</b> =Team Fortress 2= 
 			</div>
 			<div class="postbox col-1">
-				<a href="#"><img src="img/download.gif" alt="download it..." border="0" class="post_img"></a>
+				<a href="#"><img src="img/download_no.gif" alt="download it..." border="0" class="post_img"></a>
 			</div>
 			<div class="postbox col-3">
 				<a target="_blank" href="https://only-paper.ru/news/shpion_spy_team_fortress_2/2010-05-19-5010" title="посетить">Ресурс, с которого получена модель</a>  

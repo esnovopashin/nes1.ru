@@ -137,7 +137,7 @@
 				<b>ARC-170 Clone War version</b> =StarWars=
 			</div>
 			<div class="postbox col-1 dash">
-				<a href="#"><img src="img/download.gif" alt="download it..." border="0" class="post_img"></a>
+				<a href="#"><img src="img/download_no.gif" alt="download it..." border="0" class="post_img"></a>
 			</div>
 			<div class="postbox col-3 dash">
 				<a target="_blank" href="https://www.paper-replika.com/index.php/star-wars/arc-170-clone-war-version-paper-model" title="посетить">Страница Мастера</a>  
@@ -153,7 +153,7 @@
 				<b>ARC-170</b> =StarWars=
 			</div>
 			<div class="postbox col-1 dash">
-				<a href="#"><img src="img/download.gif" alt="download it..." border="0" class="post_img"></a>
+				<a href="#"><img src="img/download_no.gif" alt="download it..." border="0" class="post_img"></a>
 			</div>
 			<div class="postbox col-3 dash">
 				<a target="_blank" href="https://www.paper-replika.com/index.php/star-wars/arc-170-fighter-paper-model" title="посетить">Страница Мастера</a>  
@@ -169,7 +169,7 @@
 				<b>Vulture Droid</b> =StarWars=
 			</div>
 			<div class="postbox col-1 dash">
-				<a href="#"><img src="img/download.gif" alt="download it..." border="0" class="post_img"></a>
+				<a href="#"><img src="img/download_no.gif" alt="download it..." border="0" class="post_img"></a>
 			</div>
 			<div class="postbox col-3 dash">
 				<a target="_blank" href="https://www.paper-replika.com/index.php/star-wars/vulture-droid-star-wars-papercraft" title="посетить">Страница Мастера</a>  
@@ -217,7 +217,7 @@
 				<b>Шлем Клона / Clonetrooper helmet</b> =StarWars= 
 			</div>
 			<div class="postbox col-1 dash">
-				<a href="#"><img src="img/download.gif" alt="download it..." border="0" class="post_img"></a>
+				<a href="#"><img src="img/download_no.gif" alt="download it..." border="0" class="post_img"></a>
 			</div>
 			<div class="postbox col-3 dash">
 				<a target="_blank" href="https://only-paper.ru/load/snarjazhenie/shlem_iz_bumagi/shlem_klona_clonetrooper_helmet_star_wars/147-1-0-2416" title="посетить">Ресурс, с которого получена модель</a>  
@@ -233,7 +233,7 @@
 				<b>Шлем Дарта Вейдера</b> =StarWars= 
 			</div>
 			<div class="postbox col-1 dash">
-				<a href="#"><img src="img/download.gif" alt="download it..." border="0" class="post_img"></a>
+				<a href="#"><img src="img/download_no.gif" alt="download it..." border="0" class="post_img"></a>
 			</div>
 			<div class="postbox col-3 dash">
 				<a target="_blank" href="https://only-paper.ru/load/snarjazhenie/shlem_iz_bumagi/shlem_darta_vejdera_zvezdnye_vojny/147-1-0-3621" title="посетить">Ресурс, с которого получена модель</a>  
@@ -249,7 +249,7 @@
 				<b>Jango Fett</b> =StarWars= 
 			</div>
 			<div class="postbox col-1">
-				<a href="#"><img src="img/download.gif" alt="download it..." border="0" class="post_img"></a>
+				<a href="#"><img src="img/download_no.gif" alt="download it..." border="0" class="post_img"></a>
 			</div>
 			<div class="postbox col-3">
 				<a target="_blank" href="https://only-paper.ru/load/figury_iz_bumagi/voin_iz_bumagi/jango_fett_star_wars/174-1-0-4935" title="посетить">Ресурс, с которого получена модель</a>  

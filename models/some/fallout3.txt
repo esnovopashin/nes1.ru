@@ -41,7 +41,7 @@
 				Vault boy <b>Бартер</b> =Fallout3=
 			</div>
 			<div class="postbox col-1 dash">
-				<a href="#"><img src="img/download.gif" alt="download it..." border="0" class="post_img"></a>
+				<a href="#"><img src="img/download_no.gif" alt="download it..." border="0" class="post_img"></a>
 			</div>
 			<div class="postbox col-3 dash">
 				<a target="_blank" href="http://only-paper.ru/news/figurka_barter_fallout_3/2010-06-30-5256" title="посетить">Ресурс, с которого получена модель</a>  
@@ -57,7 +57,7 @@
 				Vault boy <b>Скрытность</b> =Fallout3=
 			</div>
 			<div class="postbox col-1 dash">
-				<a href="#"><img src="img/download.gif" alt="download it..." border="0" class="post_img"></a>
+				<a href="#"><img src="img/download_no.gif" alt="download it..." border="0" class="post_img"></a>
 			</div>
 			<div class="postbox col-3 dash">
 				<a target="_blank" href="http://only-paper.ru/news/figurka_skrytnost_fallout_3/2010-06-29-5250" title="посетить">Ресурс, с которого получена модель</a>  
@@ -89,7 +89,7 @@
 				Vault boy <b>Медицина / Medical</b> =Fallout3=
 			</div>
 			<div class="postbox col-1 dash">
-				<a href="#"><img src="img/download.gif" alt="download it..." border="0" class="post_img"></a>
+				<a href="#"><img src="img/download_no.gif" alt="download it..." border="0" class="post_img"></a>
 			</div>
 			<div class="postbox col-3 dash">
 				<a target="_blank" href="http://only-paper.ru/news/figurka_quotmedicinaquot_medical_fallout_3/2010-01-24-4507" title="посетить">Ресурс, с которого получена модель</a>  

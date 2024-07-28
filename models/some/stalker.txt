@@ -9,7 +9,7 @@
 				GamePaper 11 <b>Gauss Rifle</b> =S.T.A.L.K.E.R. Зов Припяти=
 			</div>
 			<div class="postbox col-1 dash">
-				<a href="#"><img src="img/download.gif" alt="download it..." border="0" class="post_img"></a>
+				<a href="#"><img src="img/download_no.gif" alt="download it..." border="0" class="post_img"></a>
 			</div>
 			<div class="postbox col-3 dash">
 				<a target="_blank" href="https://only-paper.ru/news/gauss_rifle_from_scop_gamepaper_11/2010-10-24-5852" title="посетить">Ресурс, с которого получена модель</a>  
@@ -25,7 +25,7 @@
 				Детектор <b>Сварог</b> =S.T.A.L.K.E.R.=
 			</div>
 			<div class="postbox col-1 dash">
-				<a href="#"><img src="img/download.gif" alt="download it..." border="0" class="post_img"></a>
+				<a href="#"><img src="img/download_no.gif" alt="download it..." border="0" class="post_img"></a>
 			</div>
 			<div class="postbox col-3 dash">
 				<a target="_blank" href="https://only-paper.ru/news/detektor_svarog/2010-07-31-5386" title="посетить">Ресурс, с которого получена модель</a>  
@@ -41,7 +41,7 @@
 				<b>Противогаз</b> =S.T.A.L.K.E.R.=
 			</div>
 			<div class="postbox col-1 dash">
-				<a href="#"><img src="img/download.gif" alt="download it..." border="0" class="post_img"></a>
+				<a href="#"><img src="img/download_no.gif" alt="download it..." border="0" class="post_img"></a>
 			</div>
 			<div class="postbox col-3 dash">
 				<a target="_blank" href="https://only-paper.ru/news/protivogaz_stalker/2009-12-25-4366" title="посетить">Ресурс, с которого получена модель</a>  
@@ -57,7 +57,7 @@
 				Шлем <b>Сфера М12</b> =S.T.A.L.K.E.R.=
 			</div>
 			<div class="postbox col-1 dash">
-				<a href="#"><img src="img/download.gif" alt="download it..." border="0" class="post_img"></a>
+				<a href="#"><img src="img/download_no.gif" alt="download it..." border="0" class="post_img"></a>
 			</div>
 			<div class="postbox col-3 dash">
 				<a target="_blank" href="https://only-paper.ru/news/2009-11-23-4227-0-1" title="посетить">Ресурс, с которого получена модель</a>  
@@ -73,7 +73,7 @@
 				<b>Набор юного сталкера</b> =S.T.A.L.K.E.R.=
 			</div>
 			<div class="postbox col-1 dash">
-				<a href="#"><img src="img/download.gif" alt="download it..." border="0" class="post_img"></a>
+				<a href="#"><img src="img/download_no.gif" alt="download it..." border="0" class="post_img"></a>
 			</div>
 			<div class="postbox col-3 dash">
 				<a target="_blank" href="https://only-paper.ru/news/nabor_junogo_stalkeraigrushki_iz_bumagi/2010-01-10-4442" title="посетить">Ресурс, с которого получена модель</a>  
@@ -89,7 +89,7 @@
 				Артефакт <b>Компас</b> =S.T.A.L.K.E.R.=
 			</div>
 			<div class="postbox col-1 dash">
-				<a href="#"><img src="img/download.gif" alt="download it..." border="0" class="post_img"></a>
+				<a href="#"><img src="img/download_no.gif" alt="download it..." border="0" class="post_img"></a>
 			</div>
 			<div class="postbox col-3 dash">
 				<a target="_blank" href="https://only-paper.ru/news/artefakt_kompas/2010-08-17-5510" title="посетить">Ресурс, с которого получена модель</a>  
@@ -105,7 +105,7 @@
 				Артефакт <b>Огненный шар</b> =S.T.A.L.K.E.R.=
 			</div>
 			<div class="postbox col-1 dash">
-				<a href="#"><img src="img/download.gif" alt="download it..." border="0" class="post_img"></a>
+				<a href="#"><img src="img/download_no.gif" alt="download it..." border="0" class="post_img"></a>
 			</div>
 			<div class="postbox col-3 dash">
 				<a target="_blank" href="https://only-paper.ru/news/artefakt_ognennyj_shar/2010-01-08-4427" title="посетить">Ресурс, с которого получена модель</a>  
@@ -121,7 +121,7 @@
 				ВСС <b>Винторез</b> =S.T.A.L.K.E.R.=
 			</div>
 			<div class="postbox col-1">
-				<a href="#"><img src="img/download.gif" alt="download it..." border="0" class="post_img"></a>
+				<a href="#"><img src="img/download_no.gif" alt="dвownload it..." border="0" class="post_img"></a>
 			</div>
 			<div class="postbox col-3">
 				<a target="_blank" href="https://only-paper.ru/news/vss_vintorez_stalker/2010-01-08-4426" title="посетить">Ресурс, с которого получена модель</a>  
