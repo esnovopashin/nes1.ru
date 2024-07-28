@@ -52,10 +52,10 @@ echo '<title>'.$title.'</title>';*/
 			</div>
 		
 			<div class="imgbox">
-				<img src="<?=$adress?>/models/TL.Sunduk/Torchlight_Sunduk_w.jpg" style="width:100%" alt="Бумажная модель: Torchlight Sunduk /EVEonline">
+				<img src="<?=$adress?>/models/TL.Sunduk/Torchlight_Sunduk_w.jpg" style="width:100%" alt="Бумажная модель: Sunduk /Torchlight">
 		    <!--<img src="images/level5_act.gif" alt="level5">-->
 				<div class="imgtext">
-					<a href="index.php?page=sunduk" target="_blank" rel= "noopener noreferrer"><font size="2">Бумажная модель: Torchlight Sunduk /EVE online</font></a>
+					<a href="index.php?page=sunduk" target="_blank" rel= "noopener noreferrer"><font size="2">Бумажная модель: Sunduk /Torchlight</font></a>
 				</div>
 			</div>
 		

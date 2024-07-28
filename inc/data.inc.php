@@ -459,6 +459,12 @@ if (isset($subdir)){
 			$keywords = "бумажное, моделирование, Torchlight 2, Fiery, Polished, Shiv, игрушк, бумаг, модел, бумаж, модель из бумаги скачать бесплатно, бумажная модель скачать бесплатно, развертки, развертка";
 			$canonicalURL = $_SESSION['adress']."/".$_SESSION['pagelink']."fpshiv";
 		break;
+		case 'TL.Sunduk':
+			$title = "Бумажная модель: Sunduk =Torchlight 2=";
+			$description = "Бумажная модель Sunduk из Torchlight 2, развертка. Скачать модель";
+			$keywords = "бумажное, моделирование, Torchlight 2, Sunduk, сундук, игрушк, бумаг, модел, бумаж, модель из бумаги скачать бесплатно, бумажная модель скачать бесплатно, развертки, развертка";
+			$canonicalURL = $_SESSION['adress']."/".$_SESSION['pagelink']."sunduk";
+		break;
 // модели Torchlight 2
 
 // модели из других игр

@@ -162,6 +162,8 @@ elseif ($page == "cyclophead"){$_SESSION['subdir'] = 'TL.Cyclop';}
 
 elseif ($page == "fpshiv"){$_SESSION['subdir'] = 'TL.Fiery.Polished.Shiv';}
 
+elseif ($page == "sunduk"){$_SESSION['subdir'] = 'TL.Sunduk';}
+
 elseif ($page == "pwcat"){$_SESSION['subdir'] = 'PW.Cat.Trader';}
 
 elseif ($page == "falloutpups"){$_SESSION['subdir'] = 'Fallout3.Pups';}
