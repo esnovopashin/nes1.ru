@@ -1,4 +1,0 @@
-    <div class="cut contentbox  wow fadeInUp" data-wow-offset="50">
-     <p>Началась разработка первого Gallente в моей коллекции -  Vexor<br>
-	 Модель изготавливается по заказу преподавателя школы CODDY, в которой учится младшая. Весь процесс <a href="<?=$pagelink?>vexor" target="_blank"  rel= "noopener noreferrer" title="">тут <i class="fa fa-external-link" aria-hidden="true" style="font-size:12px"></i></a>.
-	</div>

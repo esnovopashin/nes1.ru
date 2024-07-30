@@ -1,3 +1,0 @@
-<p><font color="red" size="2"><b>! ТРЕБУЮТСЯ БЕТА-СБОРЩИКИ !</b></font>
-<b>! ТРЕБУЮТСЯ БЕТА-СБОРЩИКИ !</b>
-Есть желание первым попробовать новую модель EVE-кораблей и Вы обладаете опытом, временем для работы с моделью?<br><a href="index.php?page=betamaster" title="принять участие"> Вам сюда <i class="fa fa-external-link" aria-hidden="true" style="font-size:12px"></i> </a></p><br>
